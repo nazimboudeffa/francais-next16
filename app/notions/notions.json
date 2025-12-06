@@ -4,6 +4,7 @@
     "notions": [
       {
         "title": "Créer, recréer le monde : récit des origines",
+        "text": "Les récits des origines, qu'ils soient mythologiques ou religieux, cherchent à expliquer la création du monde et de l'humanité. Ils mettent en scène des divinités, des forces naturelles et des événements extraordinaires pour illustrer ces débuts. Ces récits reflètent les croyances et les valeurs des cultures qui les ont produits, offrant ainsi une vision du monde et de la place de l'homme dans celui-ci.",
         "references": [
           { "titre": "Les Métamorphoses (extraits)", "auteur": "Ovide" },
           { "titre": "Mythes grecs pour les petits", "auteur": "Collectif" },
@@ -13,15 +14,17 @@
       },
       {
         "title": "Chanter et enchanter le monde : mots et merveilles",
+        "text": "Les récits merveilleux transportent les lecteurs dans des univers fantastiques où l'imaginaire règne en maître. Ils mettent en scène des personnages extraordinaires, des créatures magiques et des aventures hors du commun. Ces histoires invitent à la rêverie et à l'évasion, tout en véhiculant souvent des leçons morales ou des réflexions sur la condition humaine.",
         "references": [
           { "titre": "Contes", "auteur": "Charles Perrault" },
           { "titre": "Contes", "auteur": "H. C. Andersen" },
-          { "titre": "Le Magicien d’Oz", "auteur": "L. Frank Baum" },
+          { "titre": "Le Magicien d'Oz", "auteur": "L. Frank Baum" },
           { "titre": "Les Mille et Une Nuits (extraits)", "auteur": "Tradition arabe" }
         ]
       },
       {
         "title": "Se masquer, jouer, déjouer : ruses en action",
+        "text": "Les récits de ruses mettent en avant des personnages qui utilisent leur intelligence, leur astuce et leur ingéniosité pour surmonter des obstacles, tromper des adversaires ou atteindre leurs objectifs. Ces histoires célèbrent la créativité et la débrouillardise, tout en soulignant souvent les valeurs de courage et de persévérance.",
         "references": [
           { "titre": "Le Médecin malgré lui", "auteur": "Molière" },
           { "titre": "Les Fourberies de Scapin", "auteur": "Molière" },
@@ -33,12 +36,13 @@
       },
       {
         "title": "Partir à l'aventure !",
+        "text": "Les récits d'aventure racontent les périples de héros et d'héroïnes qui quittent leur quotidien pour explorer des territoires inconnus, affronter des dangers et vivre des expériences extraordinaires. Ces histoires mettent en avant le courage, la curiosité et la soif de découverte, tout en offrant aux lecteurs une évasion passionnante.",
         "references": [
           { "titre": "Croc-Blanc", "auteur": "Jack London" },
           { "titre": "L'Appel de la forêt", "auteur": "Jack London" },
           { "titre": "La Rivière à l'envers", "auteur": "Jean-Claude Mourlevat" },
           { "titre": "Vendredi ou la Vie sauvage", "auteur": "Michel Tournier" },
-          { "titre": "L’Île au trésor", "auteur": "R. L. Stevenson" },
+          { "titre": "L'Île au trésor", "auteur": "R. L. Stevenson" },
           { "titre": "Le Livre de la jungle", "auteur": "Rudyard Kipling" },
           { "titre": "Le Tour du monde en 80 jours", "auteur": "Jules Verne" },
           { "titre": "Tobie Lolness", "auteur": "Timothée de Fombelle" }
@@ -46,6 +50,7 @@
       },
       {
         "title": "Rencontrer des monstres : expérience de l'autre, expérience de soi",
+        "text": "Les récits mettant en scène des monstres explorent la rencontre avec l'altérité, qu'elle soit effrayante, fascinante ou incomprise. Ces histoires permettent de réfléchir sur la différence, la peur et la tolérance, tout en offrant des aventures captivantes où les héros doivent affronter des créatures extraordinaires.",
         "references": [
           { "titre": "L'Odyssée", "auteur": "Homère" },
           { "titre": "Le Prince Chéri", "auteur": "Mme Leprince de Beaumont" },
@@ -62,15 +67,17 @@
     "notions": [
       {
         "title": "Se chercher, se construire - Le voyage et l'aventure : pourquoi aller vers l'inconnu ?",
+        "text": "Les récits de voyage et d'aventure mettent en scène des personnages qui quittent leur environnement familier pour explorer des territoires inconnus. Ces histoires soulignent la quête de soi, la découverte de nouvelles cultures et la confrontation à l'inattendu. Elles invitent à réfléchir sur les motivations profondes qui poussent les individus à s'aventurer au-delà de leurs limites.",
         "references": [
           { "titre": "Voyage au centre de la Terre", "auteur": "Jules Verne" },
-          { "titre": "L’Odyssée (extraits)", "auteur": "Homère" },
+          { "titre": "L'Odyssée (extraits)", "auteur": "Homère" },
           { "titre": "Là où vont nos pères", "auteur": "Shaun Tan" },
           { "titre": "La Quête d'Ewilan", "auteur": "Pierre Bottero" }
         ]
       },
       {
         "title": "Vivre en société, participer à la société - Avec autrui : famille, amis, réseaux",
+        "text": "Les récits centrés sur la vie en société explorent les relations entre individus au sein de la famille, des amitiés et des réseaux sociaux. Ils mettent en lumière les dynamiques, les conflits et les solidarités qui façonnent la vie collective. Ces histoires invitent à réfléchir sur les valeurs, les responsabilités et les enjeux liés à la coexistence et à la participation sociale.",
         "references": [
           { "titre": "Le Petit Prince", "auteur": "Antoine de Saint-Exupéry" },
           { "titre": "Les Royaumes du Nord", "auteur": "Philip Pullman" },
@@ -80,24 +87,27 @@
       },
       {
         "title": "Regarder le monde, inventer des mondes - Imaginer des univers nouveaux",
+        "text": "Les récits d'imagination créent des univers alternatifs où les règles du réel sont bouleversées. Ces histoires permettent d'explorer des idées novatrices, des sociétés différentes et des possibilités infinies, tout en questionnant notre propre réalité et en stimulant la créativité.",
         "references": [
           { "titre": "Le Hobbit", "auteur": "J. R. R. Tolkien" },
           { "titre": "Fahrenheit 451 (extraits)", "auteur": "Ray Bradbury" },
           { "titre": "La Passe-miroir (extraits)", "auteur": "Christelle Dabos" },
-          { "titre": "Les Mondes d’Aldébaran (BD)", "auteur": "Léo" }
+          { "titre": "Les Mondes d'Aldébaran (BD)", "auteur": "Léo" }
         ]
       },
       {
         "title": "Agir sur le monde - Héros / héroïnes et héroïsme",
+        "text": "Les récits mettant en scène des héros et héroïnes explorent les notions de courage, de sacrifice et de dépassement de soi. Ces histoires valorisent les actes héroïques, qu'ils soient grandioses ou quotidiens, et questionnent les différentes formes que peut prendre l'héroïsme.",
         "references": [
-          { "titre": "Les Travaux d’Hercule", "auteur": "Mythologie grecque" },
+          { "titre": "Les Travaux d'Hercule", "auteur": "Mythologie grecque" },
           { "titre": "Robin des Bois", "auteur": "Tradition populaire" },
-          { "titre": "Harry Potter à l’école des sorciers", "auteur": "J. K. Rowling" },
+          { "titre": "Harry Potter à l'école des sorciers", "auteur": "J. K. Rowling" },
           { "titre": "Le Vieil Homme et la mer (extraits)", "auteur": "Ernest Hemingway" }
         ]
       },
       {
         "title": "Questionnements complémentaires - L'être humain est-il maître de la nature ?",
+        "text": "Ces récits questionnent la relation entre l'homme et la nature, explorant les tensions, les conflits et les responsabilités qui en découlent. Ils invitent à réfléchir sur l'impact des actions humaines sur l'environnement et sur les moyens de coexister harmonieusement avec le monde naturel.",
         "references": [
           { "titre": "Le Livre de la jungle", "auteur": "Rudyard Kipling" },
           { "titre": "Les Animaux dénaturés (extraits)", "auteur": "Vercors" },
@@ -113,6 +123,7 @@
     "notions": [
       {
         "title": "Se chercher, se construire - Dire l'amour",
+        "text": "Les récits explorant le thème de l'amour mettent en lumière les émotions, les relations et les défis liés à ce sentiment universel. Ces histoires abordent les différentes formes d'amour, qu'il soit romantique, familial ou amical, et invitent à réfléchir sur la complexité des liens affectifs.",
         "references": [
           { "titre": "Les Amours (poèmes choisis)", "auteur": "Ronsard" },
           { "titre": "Roméo et Juliette (extraits)", "auteur": "Shakespeare" },
@@ -121,6 +132,7 @@
       },
       {
         "title": "Vivre en société, participer à la société - Individu et société : confrontations de valeurs ?",
+        "text": "Les récits centrés sur les confrontations entre l'individu et la société explorent les tensions, les conflits et les compromis qui en résultent. Ces histoires mettent en lumière les défis auxquels sont confrontés les individus lorsqu'ils cherchent à affirmer leurs valeurs personnelles face aux normes et attentes sociales.",
         "references": [
           { "titre": "Candide (extraits)", "auteur": "Voltaire" },
           { "titre": "Antigone", "auteur": "Anouilh" },
@@ -130,6 +142,7 @@
       },
       {
         "title": "Regarder le monde, inventer des mondes - La fiction pour interroger le réel",
+        "text": "Les récits d'imagination créent des univers alternatifs où les règles du réel sont bouleversées. Ces histoires permettent d'explorer des idées novatrices, des sociétés différentes et des possibilités infinies, tout en questionnant notre propre réalité et en stimulant la créativité.",
         "references": [
           { "titre": "1984 (extraits)", "auteur": "George Orwell" },
           { "titre": "Le Passeur", "auteur": "Lois Lowry" },
@@ -139,6 +152,7 @@
       },
       {
         "title": "Agir sur le monde - Informer, s'informer, déformer ?",
+        "text": "Les récits portant sur l'information et la désinformation explorent les enjeux liés à la diffusion des connaissances, à la manipulation de l'information et à la responsabilité des médias. Ces histoires invitent à réfléchir sur l'importance de l'esprit critique et sur les conséquences de la désinformation dans la société contemporaine.",
         "references": [
           { "titre": "La Fabrique du mensonge (extraits)", "auteur": "Collectif" },
           { "titre": "Articles de presse divers", "auteur": "Collectif" },
@@ -147,6 +161,7 @@
       },
       {
         "title": "Questionnements complémentaires - La ville, lieu de tous les possibles ?",
+        "text": "Les récits centrés sur la ville explorent les multiples facettes de cet espace complexe, où se mêlent diversité culturelle, dynamisme économique et défis sociaux. Ces histoires mettent en lumière les opportunités offertes par la vie urbaine, tout en questionnant les inégalités, la pollution et les tensions qui peuvent y régner.",
         "references": [
           { "titre": "Zazie dans le métro (extraits)", "auteur": "Raymond Queneau" },
           { "titre": "Les Cités obscures (BD)", "auteur": "Schuiten & Peeters" },
@@ -161,15 +176,17 @@
     "notions": [
       {
         "title": "Se chercher, se construire – Se raconter, se représenter",
+        "text": "Les récits explorant le thème de l'identité et de la construction de soi mettent en lumière les parcours personnels, les questionnements et les transformations des individus. Ces histoires invitent à réfléchir sur la manière dont chacun se construit et se raconte à travers ses expériences et ses choix.",
         "references": [
-          { "titre": "Mémoires d’une jeune fille rangée (extraits)", "auteur": "Simone de Beauvoir" },
+          { "titre": "Mémoires d'une jeune fille rangée (extraits)", "auteur": "Simone de Beauvoir" },
           { "titre": "Vipère au poing", "auteur": "Hervé Bazin" },
-          { "titre": "Journal d’Anne Frank (extraits)", "auteur": "Anne Frank" },
-          { "titre": "L’Arabe du futur (extraits)", "auteur": "Riad Sattouf" }
+          { "titre": "Journal d'Anne Frank (extraits)", "auteur": "Anne Frank" },
+          { "titre": "L'Arabe du futur (extraits)", "auteur": "Riad Sattouf" }
         ]
       },
       {
         "title": "Vivre en société, participer à la société – Dénoncer les travers de la société",
+        "text": "Les récits engagés mettent en lumière les injustices, les inégalités et les dysfonctionnements de la société. Ces histoires invitent à la réflexion critique et à la prise de conscience des enjeux sociaux, tout en valorisant l'engagement individuel et collectif pour un monde meilleur.",
         "references": [
           { "titre": "Les Lettres persanes (extraits)", "auteur": "Montesquieu" },
           { "titre": "Germinal (extraits)", "auteur": "Émile Zola" },
@@ -178,7 +195,8 @@
         ]
       },
       {
-        "title": "Regarder le monde, inventer des mondes – Visions poétiques du monde",
+        "title": "Regarder le monde, inventer des mondes - Visions poétiques du monde",
+        "text": "Les récits d'imagination créent des univers alternatifs où les règles du réel sont bouleversées. Ces histoires permettent d'explorer des idées novatrices, des sociétés différentes et des possibilités infinies, tout en questionnant notre propre réalité et en stimulant la créativité.",
         "references": [
           { "titre": "Poèmes choisis", "auteur": "Prévert" },
           { "titre": "Poèmes choisis", "auteur": "Éluard" },
@@ -187,16 +205,18 @@
         ]
       },
       {
-        "title": "Agir sur le monde – Agir dans la cité : individu et pouvoir",
+        "title": "Agir sur le monde - Agir dans la cité : individu et pouvoir",
+        "text": "Les récits centrés sur le pouvoir et la citoyenneté explorent les relations entre les individus et les structures de pouvoir au sein de la société. Ces histoires mettent en lumière les enjeux liés à l'autorité, à la justice et à la participation citoyenne, tout en invitant à réfléchir sur les responsabilités et les droits de chacun dans la vie collective.",
         "references": [
           { "titre": "Discours de la servitude volontaire (extraits)", "auteur": "La Boétie" },
           { "titre": "On", "auteur": "Olivier de Solminihac" },
-          { "titre": "Le Dernier Jour d’un condamné", "auteur": "Victor Hugo" },
+          { "titre": "Le Dernier Jour d'un condamné", "auteur": "Victor Hugo" },
           { "titre": "Fahrenheit 451 (extraits)", "auteur": "Ray Bradbury" }
         ]
       },
       {
-        "title": "Questionnements complémentaires – Progrès et rêves scientifiques",
+        "title": "Questionnements complémentaires - Progrès et rêves scientifiques",
+        "text": "Les récits explorant les progrès scientifiques et technologiques mettent en lumière les avancées, les espoirs et les défis liés à la science. Ces histoires invitent à réfléchir sur l'impact des découvertes scientifiques sur la société, la morale et l'avenir de l'humanité.",
         "references": [
           { "titre": "La Nuit des temps (extraits)", "auteur": "René Barjavel" },
           { "titre": "Le Meilleur des mondes (extraits)", "auteur": "Aldous Huxley" },
