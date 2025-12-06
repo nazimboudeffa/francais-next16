@@ -52,9 +52,9 @@ export default function CoursePage() {
 			<section>
 				<h2 className="text-xl font-semibold mb-2">Exemples</h2>
 				{coursData.examples.map((ex) => (
-					<div key={ex.sentence} className="mb-3 p-3 border rounded bg-blue-700">
-						<p className="font-mono text-lg">{ex.sentence}</p>
-						<p className="text-gray-50">{ex.explanation}</p>
+					<div key={ex.sentence} className="mb-3 p-3 border rounded bg-blue-50 text-blue-700">
+						<p className="text-lg">{ex.sentence}</p>
+						<p className="text-blue-900">{ex.explanation}</p>
 					</div>
 				))}
 			</section>
