@@ -15,7 +15,7 @@ export default function Home() {
           <span className="font-semibold text-blue-600 dark:text-blue-200">Laissez-vous inspirer, apprenez, partagez et enrichissez votre parcours littéraire !</span>
         </p>
         <div className="flex flex-col md:flex-row justify-center gap-6 mt-10">
-          <Link href="/cours" className="px-8 py-4 rounded-xl bg-green-100 text-green-700 font-semibold shadow hover:bg-green-200 transition-colors text-lg">Voir les cours</Link>
+          <Link href="/notions" className="px-8 py-4 rounded-xl bg-blue-100 text-blue-700 font-semibold shadow hover:bg-blue-200 transition-colors text-lg">Explorez les notions</Link>
           <Link href="/cours" className="px-8 py-4 rounded-xl bg-green-100 text-green-700 font-semibold shadow hover:bg-green-200 transition-colors text-lg">Voir les cours</Link>
           <Link href="/references" className="px-8 py-4 rounded-xl bg-purple-100 text-purple-700 font-semibold shadow hover:bg-purple-200 transition-colors text-lg">Découvrir les références</Link>
         </div>
