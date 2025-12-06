@@ -11,7 +11,7 @@ interface Reference {
 export default function ReferencesPage() {
   const refs: Reference[] = references;
   const [selectedAuteur, setSelectedAuteur] = React.useState<string>('');
-  const auteurs = Array.from(new Set(refs.map(r => r.auteur))).sort();
+  const auteurs = Array.from(new Set(refs.map(r => r.auteur))).sort((a, b) => a.localeCompare(b));
   const filteredRefs = selectedAuteur ? refs.filter(r => r.auteur === selectedAuteur) : refs;
   return (
     <>

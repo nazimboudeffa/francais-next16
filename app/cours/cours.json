@@ -758,42 +758,6 @@
       }
     ]
   },
-    {
-    "id": "present-verbes-er",
-    "slug": "present-verbes-er",
-    "title": "Le présent des verbes en -er",
-    "level": ["CE1", "CE2"],
-    "category": "Conjugaison",
-    "objectives": [
-      "Conjuguer les verbes du 1er groupe au présent.",
-      "Reconnaître les terminaisons.",
-      "Associer correctement le verbe et son pronom."
-    ],
-    "theory": [
-      {
-        "title": "Les verbes en -er",
-        "content": "Ce sont les verbes du 1er groupe, comme « chanter », « jouer », « parler »."
-      },
-      {
-        "title": "Terminaisons",
-        "content": "Les terminaisons au présent sont : -e, -es, -e, -ons, -ez, -ent."
-      },
-      {
-        "title": "Astuce",
-        "content": "Pour trouver l’infinitif, on peut ajouter « il faut » devant : il faut jouer."
-      }
-    ],
-    "examples": [
-      {
-        "sentence": "Nous marchons dans la rue.",
-        "explanation": "Terminaison -ons avec « nous »."
-      },
-      {
-        "sentence": "Il chante bien.",
-        "explanation": "Terminaison -e avec « il »."
-      }
-    ]
-  },
   {
     "id": "present-verbes-etre",
     "slug": "present-verbes-etre",
