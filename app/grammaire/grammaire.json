@@ -3,7 +3,7 @@
     "id": "la-phrase",
     "slug": "la-phrase",
     "title": "La phrase : définition et types",
-    "level": "Débutant",
+    "level": ["CE1", "CE2"],
     "category": "Syntaxe",
 
     "objectives": [

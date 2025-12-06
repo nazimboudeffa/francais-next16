@@ -19,7 +19,7 @@ type Grammaire = {
 	id: string;
 	slug: string;
 	title: string;
-	level: string;
+	level: string[];
 	category: string;
 	objectives: string[];
 	theory: Theory[];
@@ -33,12 +33,15 @@ export default function GrammairePage() {
 		<Navbar />
 		<main className="max-w-3xl mx-auto p-6">
 			<h1 className="text-3xl font-bold mb-2">{grammaire.title}</h1>
-			<div className="mb-4 flex gap-2">
-				<span
-					className="inline-block px-2 py-1 text-xs font-semibold rounded bg-green-100 text-green-700 border border-green-300"
-				>
-					{grammaire.level}
-				</span>
+			<div className="mb-4 flex gap-2 flex-wrap">
+				{grammaire.level.map((lvl) => (
+					<span
+						key={lvl}
+						className="inline-block px-2 py-1 text-xs font-semibold rounded bg-green-100 text-green-700 border border-green-300"
+					>
+						{lvl}
+					</span>
+				))}
 				<span
 					className="inline-block px-2 py-1 text-xs font-semibold rounded bg-gray-100 text-gray-700 border border-gray-300"
 				>
