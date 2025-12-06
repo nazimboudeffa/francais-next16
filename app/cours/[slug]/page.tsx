@@ -43,7 +43,7 @@ export default function CoursePage() {
 			<section className="mb-6">
 				<h2 className="text-xl font-semibold mb-2">Théorie</h2>
 				{coursData.theory.map((t) => (
-					<div key={t.title} className="mb-4">
+					<div key={t.title} className="mb-3 p-3 bg-purple-300 text-blue-700">
 						<h3 className="font-bold mb-1">{t.title}</h3>
 						<p>{t.content}</p>
 					</div>
@@ -52,7 +52,7 @@ export default function CoursePage() {
 			<section>
 				<h2 className="text-xl font-semibold mb-2">Exemples</h2>
 				{coursData.examples.map((ex) => (
-					<div key={ex.sentence} className="mb-3 p-3 border rounded bg-blue-50 text-blue-700">
+					<div key={ex.sentence} className="mb-3 p-3 border rounded bg-blue-300 text-blue-700">
 						<p className="text-lg">{ex.sentence}</p>
 						<p className="text-blue-900">{ex.explanation}</p>
 					</div>
