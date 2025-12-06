@@ -1,0 +1,49 @@
+[
+    {
+    "id": "la-phrase",
+    "slug": "la-phrase",
+    "title": "La phrase : définition et types",
+    "level": "Débutant",
+    "category": "Syntaxe",
+
+    "objectives": [
+        "Comprendre ce qu'est une phrase.",
+        "Identifier les différents types de phrases.",
+        "Reconnaître une phrase correcte et complète."
+    ],
+
+    "theory": [
+        {
+        "title": "Qu'est-ce qu'une phrase ?",
+        "content": "Une phrase est un ensemble de mots qui a un sens complet. Elle commence par une majuscule et se termine par un signe de ponctuation."
+        },
+        {
+        "title": "Les éléments indispensables",
+        "content": "La plupart des phrases contiennent un sujet et un verbe : ce sont les éléments essentiels pour exprimer une action ou un état."
+        },
+        {
+        "title": "Les différents types de phrases",
+        "content": "Il existe quatre types principaux : déclarative (elle informe), interrogative (elle pose une question), impérative (elle donne un ordre ou un conseil), exclamative (elle exprime un sentiment)."
+        }
+    ],
+
+    "examples": [
+        {
+        "sentence": "Le chat dort.",
+        "explanation": "Phrase déclarative : elle donne une information."
+        },
+        {
+        "sentence": "Où vas-tu ?",
+        "explanation": "Phrase interrogative : elle pose une question."
+        },
+        {
+        "sentence": "Ferme la porte.",
+        "explanation": "Phrase impérative : elle donne un ordre."
+        },
+        {
+        "sentence": "Quel magnifique paysage !",
+        "explanation": "Phrase exclamative : elle exprime une émotion."
+        }
+    ]
+    }
+]

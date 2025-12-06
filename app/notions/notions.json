@@ -1,0 +1,209 @@
+[
+  {
+    "level": "6e",
+    "notions": [
+      {
+        "title": "Créer, recréer le monde : récit des origines",
+        "references": [
+          { "titre": "Les Métamorphoses (extraits)", "auteur": "Ovide" },
+          { "titre": "Mythes grecs pour les petits", "auteur": "Collectif" },
+          { "titre": "Récits des temps mythiques (version jeunesse)", "auteur": "Claude Lévi-Strauss" },
+          { "titre": "La Genèse (extraits)", "auteur": "Texte traditionnel" }
+        ]
+      },
+      {
+        "title": "Chanter et enchanter le monde : mots et merveilles",
+        "references": [
+          { "titre": "Contes", "auteur": "Charles Perrault" },
+          { "titre": "Contes", "auteur": "H. C. Andersen" },
+          { "titre": "Le Magicien d’Oz", "auteur": "L. Frank Baum" },
+          { "titre": "Les Mille et Une Nuits (extraits)", "auteur": "Tradition arabe" }
+        ]
+      },
+      {
+        "title": "Se masquer, jouer, déjouer : ruses en action",
+        "references": [
+          { "titre": "Le Médecin malgré lui", "auteur": "Molière" },
+          { "titre": "Les Fourberies de Scapin", "auteur": "Molière" },
+          { "titre": "Le Petit Chaperon rouge", "auteur": "Joël Pommerat" },
+          { "titre": "Le Roman de Renart", "auteur": "Anonyme médiéval" },
+          { "titre": "Fables (Le Corbeau et le Renard…)", "auteur": "La Fontaine" },
+          { "titre": "Pinocchio", "auteur": "Carlo Collodi" }
+        ]
+      },
+      {
+        "title": "Partir à l'aventure !",
+        "references": [
+          { "titre": "Croc-Blanc", "auteur": "Jack London" },
+          { "titre": "L'Appel de la forêt", "auteur": "Jack London" },
+          { "titre": "La Rivière à l'envers", "auteur": "Jean-Claude Mourlevat" },
+          { "titre": "Vendredi ou la Vie sauvage", "auteur": "Michel Tournier" },
+          { "titre": "L’Île au trésor", "auteur": "R. L. Stevenson" },
+          { "titre": "Le Livre de la jungle", "auteur": "Rudyard Kipling" },
+          { "titre": "Le Tour du monde en 80 jours", "auteur": "Jules Verne" },
+          { "titre": "Tobie Lolness", "auteur": "Timothée de Fombelle" }
+        ]
+      },
+      {
+        "title": "Rencontrer des monstres : expérience de l'autre, expérience de soi",
+        "references": [
+          { "titre": "L'Odyssée", "auteur": "Homère" },
+          { "titre": "Le Prince Chéri", "auteur": "Mme Leprince de Beaumont" },
+          { "titre": "Beowulf (extraits adaptés)", "auteur": "Anonyme" },
+          { "titre": "Coraline", "auteur": "Neil Gaiman" },
+          { "titre": "La Belle et la Bête", "auteur": "Mme de Villeneuve / Mme Leprince de Beaumont" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "level": "5e",
+    "notions": [
+      {
+        "title": "Se chercher, se construire - Le voyage et l'aventure : pourquoi aller vers l'inconnu ?",
+        "references": [
+          { "titre": "Voyage au centre de la Terre", "auteur": "Jules Verne" },
+          { "titre": "L’Odyssée (extraits)", "auteur": "Homère" },
+          { "titre": "Là où vont nos pères", "auteur": "Shaun Tan" },
+          { "titre": "La Quête d'Ewilan", "auteur": "Pierre Bottero" }
+        ]
+      },
+      {
+        "title": "Vivre en société, participer à la société - Avec autrui : famille, amis, réseaux",
+        "references": [
+          { "titre": "Le Petit Prince", "auteur": "Antoine de Saint-Exupéry" },
+          { "titre": "Les Royaumes du Nord", "auteur": "Philip Pullman" },
+          { "titre": "Matilda", "auteur": "Roald Dahl" },
+          { "titre": "Les Misérables (extraits)", "auteur": "Victor Hugo" }
+        ]
+      },
+      {
+        "title": "Regarder le monde, inventer des mondes - Imaginer des univers nouveaux",
+        "references": [
+          { "titre": "Le Hobbit", "auteur": "J. R. R. Tolkien" },
+          { "titre": "Fahrenheit 451 (extraits)", "auteur": "Ray Bradbury" },
+          { "titre": "La Passe-miroir (extraits)", "auteur": "Christelle Dabos" },
+          { "titre": "Les Mondes d’Aldébaran (BD)", "auteur": "Léo" }
+        ]
+      },
+      {
+        "title": "Agir sur le monde - Héros / héroïnes et héroïsme",
+        "references": [
+          { "titre": "Les Travaux d’Hercule", "auteur": "Mythologie grecque" },
+          { "titre": "Robin des Bois", "auteur": "Tradition populaire" },
+          { "titre": "Harry Potter à l’école des sorciers", "auteur": "J. K. Rowling" },
+          { "titre": "Le Vieil Homme et la mer (extraits)", "auteur": "Ernest Hemingway" }
+        ]
+      },
+      {
+        "title": "Questionnements complémentaires - L'être humain est-il maître de la nature ?",
+        "references": [
+          { "titre": "Le Livre de la jungle", "auteur": "Rudyard Kipling" },
+          { "titre": "Les Animaux dénaturés (extraits)", "auteur": "Vercors" },
+          { "titre": "Terrienne", "auteur": "Jean-Claude Mourlevat" },
+          { "titre": "La Planète des singes", "auteur": "Pierre Boulle" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "level": "4e",
+    "notions": [
+      {
+        "title": "Se chercher, se construire - Dire l'amour",
+        "references": [
+          { "titre": "Les Amours (poèmes choisis)", "auteur": "Ronsard" },
+          { "titre": "Roméo et Juliette (extraits)", "auteur": "Shakespeare" },
+          { "titre": "Le Livre de ma mère (extraits)", "auteur": "Albert Cohen" }
+        ]
+      },
+      {
+        "title": "Vivre en société, participer à la société - Individu et société : confrontations de valeurs ?",
+        "references": [
+          { "titre": "Candide (extraits)", "auteur": "Voltaire" },
+          { "titre": "Antigone", "auteur": "Anouilh" },
+          { "titre": "Matin brun", "auteur": "Franck Pavloff" },
+          { "titre": "No et moi", "auteur": "Delphine de Vigan" }
+        ]
+      },
+      {
+        "title": "Regarder le monde, inventer des mondes - La fiction pour interroger le réel",
+        "references": [
+          { "titre": "1984 (extraits)", "auteur": "George Orwell" },
+          { "titre": "Le Passeur", "auteur": "Lois Lowry" },
+          { "titre": "La Vague", "auteur": "Todd Strasser" },
+          { "titre": "Des Fleurs pour Algernon (extraits)", "auteur": "Daniel Keyes" }
+        ]
+      },
+      {
+        "title": "Agir sur le monde - Informer, s'informer, déformer ?",
+        "references": [
+          { "titre": "La Fabrique du mensonge (extraits)", "auteur": "Collectif" },
+          { "titre": "Articles de presse divers", "auteur": "Collectif" },
+          { "titre": "Les Réseaux sociaux (album documentaire)", "auteur": "Thomas Scotto" }
+        ]
+      },
+      {
+        "title": "Questionnements complémentaires - La ville, lieu de tous les possibles ?",
+        "references": [
+          { "titre": "Zazie dans le métro (extraits)", "auteur": "Raymond Queneau" },
+          { "titre": "Les Cités obscures (BD)", "auteur": "Schuiten & Peeters" },
+          { "titre": "Métropolis (extraits)", "auteur": "Fritz Lang" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "level": "3e",
+    "notions": [
+      {
+        "title": "Se chercher, se construire – Se raconter, se représenter",
+        "references": [
+          { "titre": "Mémoires d’une jeune fille rangée (extraits)", "auteur": "Simone de Beauvoir" },
+          { "titre": "Vipère au poing", "auteur": "Hervé Bazin" },
+          { "titre": "Journal d’Anne Frank (extraits)", "auteur": "Anne Frank" },
+          { "titre": "L’Arabe du futur (extraits)", "auteur": "Riad Sattouf" }
+        ]
+      },
+      {
+        "title": "Vivre en société, participer à la société – Dénoncer les travers de la société",
+        "references": [
+          { "titre": "Les Lettres persanes (extraits)", "auteur": "Montesquieu" },
+          { "titre": "Germinal (extraits)", "auteur": "Émile Zola" },
+          { "titre": "La Ferme des animaux", "auteur": "George Orwell" },
+          { "titre": "Matin brun", "auteur": "Franck Pavloff" }
+        ]
+      },
+      {
+        "title": "Regarder le monde, inventer des mondes – Visions poétiques du monde",
+        "references": [
+          { "titre": "Poèmes choisis", "auteur": "Prévert" },
+          { "titre": "Poèmes choisis", "auteur": "Éluard" },
+          { "titre": "Le Parti pris des choses (extraits)", "auteur": "Francis Ponge" },
+          { "titre": "Le Petit Prince (chapitres poétiques)", "auteur": "Antoine de Saint-Exupéry" }
+        ]
+      },
+      {
+        "title": "Agir sur le monde – Agir dans la cité : individu et pouvoir",
+        "references": [
+          { "titre": "Discours de la servitude volontaire (extraits)", "auteur": "La Boétie" },
+          { "titre": "On", "auteur": "Olivier de Solminihac" },
+          { "titre": "Le Dernier Jour d’un condamné", "auteur": "Victor Hugo" },
+          { "titre": "Fahrenheit 451 (extraits)", "auteur": "Ray Bradbury" }
+        ]
+      },
+      {
+        "title": "Questionnements complémentaires – Progrès et rêves scientifiques",
+        "references": [
+          { "titre": "La Nuit des temps (extraits)", "auteur": "René Barjavel" },
+          { "titre": "Le Meilleur des mondes (extraits)", "auteur": "Aldous Huxley" },
+          { "titre": "Les Robots (nouvelles)", "auteur": "Isaac Asimov" },
+          { "titre": "Frankenstein (extraits)", "auteur": "Mary Shelley" }
+        ]
+      }
+    ]
+  }
+]
