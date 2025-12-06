@@ -31,7 +31,7 @@ export default function NotionsPage() {
 	return (
 		<>
 			<Navbar />
-			<main className="max-w-3xl mx-auto p-6">
+			<main className="max-w-4xl mx-auto p-6">
 				<h1 className="text-3xl font-bold mb-6">Notions par niveau</h1>
 				{data.map((niveau) => (
 					<section key={niveau.level} className="mb-8">

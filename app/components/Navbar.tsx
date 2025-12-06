@@ -5,10 +5,8 @@ import React from "react";
 
 const navLinks = [
   { href: "/notions", label: "Notions" },
-  { href: "/grammaire", label: "Grammaire" },
-  { href: "/conjugaison", label: "Conjugaison" },
-  { href: "/orthographe", label: "Orthographe" },
-  { href: "/vocabulaire", label: "Vocabulaire" },
+  { href: "/cours", label: "Cours" },
+  { href: "/references", label: "Références" },
 ];
 
 function Navbar() {

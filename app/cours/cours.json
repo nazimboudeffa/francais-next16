@@ -1,0 +1,761 @@
+[
+    {
+    "id": "la-phrase",
+    "slug": "la-phrase",
+    "title": "La phrase : définition et types",
+    "level": ["CE1", "CE2"],
+    "category": "Syntaxe",
+
+    "objectives": [
+        "Comprendre ce qu'est une phrase.",
+        "Identifier les différents types de phrases.",
+        "Reconnaître une phrase correcte et complète."
+    ],
+
+    "theory": [
+        {
+        "title": "Qu'est-ce qu'une phrase ?",
+        "content": "Une phrase est un ensemble de mots qui a un sens complet. Elle commence par une majuscule et se termine par un signe de ponctuation."
+        },
+        {
+        "title": "Les éléments indispensables",
+        "content": "La plupart des phrases contiennent un sujet et un verbe : ce sont les éléments essentiels pour exprimer une action ou un état."
+        },
+        {
+        "title": "Les différents types de phrases",
+        "content": "Il existe quatre types principaux : déclarative (elle informe), interrogative (elle pose une question), impérative (elle donne un ordre ou un conseil), exclamative (elle exprime un sentiment)."
+        }
+    ],
+
+    "examples": [
+        {
+        "sentence": "Le chat dort.",
+        "explanation": "Phrase déclarative : elle donne une information."
+        },
+        {
+        "sentence": "Où vas-tu ?",
+        "explanation": "Phrase interrogative : elle pose une question."
+        },
+        {
+        "sentence": "Ferme la porte.",
+        "explanation": "Phrase impérative : elle donne un ordre."
+        },
+        {
+        "sentence": "Quel magnifique paysage !",
+        "explanation": "Phrase exclamative : elle exprime une émotion."
+        }
+    ]
+    },
+    {
+    "id": "le-nom",
+    "slug": "le-nom",
+    "title": "Le nom : définition et fonctions",
+    "level": ["CE1", "CE2"],
+    "category": "Grammaire",
+    "objectives": [
+      "Comprendre ce qu'est un nom.",
+      "Identifier un nom dans une phrase.",
+      "Distinguer noms communs et noms propres."
+    ],
+    "theory": [
+      {
+        "title": "Qu'est-ce qu'un nom ?",
+        "content": "Un nom sert à désigner une personne, un animal, une chose, un lieu ou une idée."
+      },
+      {
+        "title": "Les noms communs et propres",
+        "content": "Les noms communs désignent des êtres ou des choses de manière générale. Les noms propres désignent quelque chose d'unique et commencent par une majuscule."
+      },
+      {
+        "title": "Genre et nombre",
+        "content": "Les noms ont un genre (masculin ou féminin) et un nombre (singulier ou pluriel)."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Le chien court.",
+        "explanation": "Nom commun : il désigne un animal."
+      },
+      {
+        "sentence": "Marie mange une pomme.",
+        "explanation": "Nom propre : il commence par une majuscule."
+      }
+    ]
+  },
+  {
+    "id": "le-verbe",
+    "slug": "le-verbe",
+    "title": "Le verbe : rôle et reconnaissance",
+    "level": ["CE1", "CE2"],
+    "category": "Grammaire",
+    "objectives": [
+      "Savoir reconnaître un verbe.",
+      "Comprendre que le verbe exprime une action ou un état.",
+      "Identifier l'infinitif d'un verbe."
+    ],
+    "theory": [
+      {
+        "title": "Qu'est-ce qu'un verbe ?",
+        "content": "Le verbe exprime une action ou un état. Il change de forme selon le sujet et le temps."
+      },
+      {
+        "title": "Le verbe à l'infinitif",
+        "content": "L'infinitif est la forme du verbe qui ne change pas. Il est souvent introduit par « de » ou « à »."
+      },
+      {
+        "title": "Trouver le verbe",
+        "content": "On peut souvent trouver le verbe en posant la question : « Que fait le sujet ? »"
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Paul joue au ballon.",
+        "explanation": "Le verbe « joue » indique l'action."
+      },
+      {
+        "sentence": "Le chat est calme.",
+        "explanation": "Le verbe « est » exprime un état."
+      }
+    ]
+  },
+  {
+    "id": "le-sujet",
+    "slug": "le-sujet",
+    "title": "Le sujet du verbe",
+    "level": ["CE1", "CE2"],
+    "category": "Syntaxe",
+    "objectives": [
+      "Comprendre le rôle du sujet.",
+      "Identifier le sujet dans une phrase.",
+      "Associer sujet et verbe."
+    ],
+    "theory": [
+      {
+        "title": "Qu'est-ce que le sujet ?",
+        "content": "Le sujet est celui qui fait l'action ou celui dont on parle dans la phrase."
+      },
+      {
+        "title": "Accord sujet/verbe",
+        "content": "Le verbe doit toujours s'accorder avec le sujet."
+      },
+      {
+        "title": "Comment trouver le sujet ?",
+        "content": "On pose la question : « Qui est-ce qui ? » ou « Qu'est-ce qui ? » fait l'action."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Les oiseaux chantent.",
+        "explanation": "« Les oiseaux » est le sujet du verbe « chantent »."
+      },
+      {
+        "sentence": "Emma lit un livre.",
+        "explanation": "« Emma » est le sujet."
+      }
+    ]
+  },
+  {
+    "id": "l-adjectif",
+    "slug": "l-adjectif",
+    "title": "L'adjectif qualificatif",
+    "level": ["CE1", "CE2"],
+    "category": "Grammaire",
+    "objectives": [
+      "Savoir reconnaître un adjectif qualificatif.",
+      "Comprendre que l'adjectif donne des informations sur le nom.",
+      "Accorder l'adjectif avec le nom."
+    ],
+    "theory": [
+      {
+        "title": "Définition",
+        "content": "L'adjectif qualificatif décrit ou précise le nom."
+      },
+      {
+        "title": "L'accord",
+        "content": "L'adjectif s'accorde en genre et en nombre avec le nom qu'il décrit."
+      },
+      {
+        "title": "Place de l'adjectif",
+        "content": "L'adjectif peut être placé avant ou après le nom."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Une maison rouge.",
+        "explanation": "« Rouge » décrit le nom « maison »."
+      },
+      {
+        "sentence": "Le petit chien court.",
+        "explanation": "« Petit » est un adjectif."
+      }
+    ]
+  },
+  {
+    "id": "les-determinants",
+    "slug": "les-determinants",
+    "title": "Les déterminants",
+    "level": ["CE1", "CE2"],
+    "category": "Grammaire",
+    "objectives": [
+      "Comprendre le rôle du déterminant.",
+      "Identifier les déterminants les plus fréquents.",
+      "Associer déterminant et nom."
+    ],
+    "theory": [
+      {
+        "title": "Définition",
+        "content": "Le déterminant accompagne toujours un nom et indique son genre et son nombre."
+      },
+      {
+        "title": "Les principaux types",
+        "content": "Définis (le, la, les), indéfinis (un, une, des), possessifs (mon, ma, mes…), démonstratifs (ce, cette, ces…)."
+      },
+      {
+        "title": "Fonction",
+        "content": "Il annonce le nom et donne des indications sur lui."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "La voiture roule vite.",
+        "explanation": "« La » accompagne « voiture »."
+      },
+      {
+        "sentence": "Ces enfants jouent.",
+        "explanation": "« Ces » est un déterminant démonstratif."
+      }
+    ]
+  },
+  {
+    "id": "le-singulier-pluriel",
+    "slug": "le-singulier-pluriel",
+    "title": "Singulier et pluriel",
+    "level": ["CE1", "CE2"],
+    "category": "Orthographe",
+    "objectives": [
+      "Faire la différence entre singulier et pluriel.",
+      "Former le pluriel régulier.",
+      "Connaître quelques cas particuliers."
+    ],
+    "theory": [
+      {
+        "title": "Définition",
+        "content": "Le singulier indique un seul élément, le pluriel indique plusieurs éléments."
+      },
+      {
+        "title": "Pluriel régulier",
+        "content": "On forme le plus souvent le pluriel en ajoutant un -s."
+      },
+      {
+        "title": "Cas particuliers",
+        "content": "Les mots en -al deviennent souvent -aux (cheval/chevaux), ceux en -eau prennent -x (bateau/bateaux)."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Un chat → des chats",
+        "explanation": "Pluriel régulier avec -s."
+      },
+      {
+        "sentence": "Un cheval → des chevaux",
+        "explanation": "Cas particulier en -al."
+      }
+    ]
+  },
+  {
+    "id": "les-phrases-negatives",
+    "slug": "les-phrases-negatives",
+    "title": "La phrase négative",
+    "level": ["CE1", "CE2"],
+    "category": "Syntaxe",
+    "objectives": [
+      "Reconnaître une phrase négative.",
+      "Utiliser correctement « ne…pas ».",
+      "Transformer une phrase affirmative en phrase négative."
+    ],
+    "theory": [
+      {
+        "title": "Définition",
+        "content": "Une phrase négative sert à dire que quelque chose ne se fait pas ou n'existe pas."
+      },
+      {
+        "title": "Les marqueurs de négation",
+        "content": "La négation la plus fréquente est : ne … pas."
+      },
+      {
+        "title": "Place des mots",
+        "content": "« ne » est placé avant le verbe, « pas » après."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Je ne veux pas sortir.",
+        "explanation": "Structure ne…pas."
+      },
+      {
+        "sentence": "Le chat ne mange pas.",
+        "explanation": "Phrase négative."
+      }
+    ]
+  },
+  {
+    "id": "les-homophones-a-et-a",
+    "slug": "les-homophones-a-et-a",
+    "title": "Homophones : a / à",
+    "level": ["CE1", "CE2"],
+    "category": "Orthographe",
+    "objectives": [
+      "Différencier « a » et « à ».",
+      "Employer correctement chaque forme.",
+      "Comprendre le sens selon le contexte."
+    ],
+    "theory": [
+      {
+        "title": "a (verbe avoir)",
+        "content": "« a » sans accent est le verbe avoir conjugué au présent."
+      },
+      {
+        "title": "à (préposition)",
+        "content": "« à » avec accent est une préposition qui indique un lieu, un moment ou un destinataire."
+      },
+      {
+        "title": "Astuce",
+        "content": "On peut remplacer « a » par « avait ». Si la phrase reste correcte, c'est le verbe."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Il a un chien.",
+        "explanation": "On peut dire « Il avait un chien » : c'est le verbe."
+      },
+      {
+        "sentence": "Je vais à l'école.",
+        "explanation": "Préposition qui indique un lieu."
+      }
+    ]
+  },
+  {
+    "id": "le-present-des-verbes-en-er",
+    "slug": "le-present-des-verbes-en-er",
+    "title": "Le présent des verbes en -er",
+    "level": ["CE1", "CE2"],
+    "category": "Conjugaison",
+    "objectives": [
+      "Conjuguer les verbes du 1er groupe au présent.",
+      "Reconnaître leurs terminaisons.",
+      "Utiliser correctement les pronoms personnels."
+    ],
+    "theory": [
+      {
+        "title": "Les verbes en -er",
+        "content": "Ce sont les verbes du 1er groupe, comme « parler », « chanter », « jouer »."
+      },
+      {
+        "title": "Terminaisons",
+        "content": "Les terminaisons au présent sont : -e, -es, -e, -ons, -ez, -ent."
+      },
+      {
+        "title": "Accord",
+        "content": "La terminaison change selon le pronom (je, tu, il...)."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Nous jouons au ballon.",
+        "explanation": "Le verbe « jouer » se conjugue avec la terminaison -ons."
+      },
+      {
+        "sentence": "Elle danse bien.",
+        "explanation": "Terminaison -e."
+      }
+    ]
+  },
+  {
+    "id": "les-adverbes",
+    "slug": "les-adverbes",
+    "title": "Les adverbes",
+    "level": ["CE1", "CE2"],
+    "category": "Grammaire",
+    "objectives": [
+      "Comprendre ce qu'est un adverbe.",
+      "Identifier des adverbes courants.",
+      "Savoir leur utilité dans une phrase."
+    ],
+    "theory": [
+      {
+        "title": "Définition",
+        "content": "L'adverbe modifie le verbe, un adjectif ou un autre adverbe. Il apporte une précision."
+      },
+      {
+        "title": "Types d'adverbes",
+        "content": "Adverbes de manière (bien, vite), de temps (hier, toujours), de lieu (ici, là)."
+      },
+      {
+        "title": "Fonction",
+        "content": "Il précise comment, où, quand ou à quel point quelque chose se passe."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Le chien court vite.",
+        "explanation": "« vite » est un adverbe de manière."
+      },
+      {
+        "sentence": "Il vient toujours ici.",
+        "explanation": "« toujours » (temps), « ici » (lieu)."
+      }
+    ]
+  },
+    {
+    "id": "les-classes-grammaticales",
+    "slug": "les-classes-grammaticales",
+    "title": "Les classes grammaticales",
+    "level": ["CM1", "CM2"],
+    "category": "Grammaire",
+    "objectives": [
+      "Connaître les principales classes grammaticales.",
+      "Identifier la classe d’un mot.",
+      "Comprendre la fonction des mots dans la phrase."
+    ],
+    "theory": [
+      {
+        "title": "Qu'est-ce qu'une classe grammaticale ?",
+        "content": "La classe grammaticale indique la nature d’un mot : nom, verbe, adjectif, déterminant, pronom, adverbe, préposition, conjonction, interjection."
+      },
+      {
+        "title": "Mots variables / invariables",
+        "content": "Les noms, adjectifs, déterminants et verbes varient; les adverbes, prépositions et conjonctions sont invariables."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Le petit chat dort.",
+        "explanation": "Nom : chat ; déterminant : le ; adjectif : petit ; verbe : dort."
+      },
+      {
+        "sentence": "Il parle doucement.",
+        "explanation": "Adverbe : doucement ; pronom : il."
+      }
+    ]
+  },
+  {
+    "id": "le-groupe-sujet",
+    "slug": "le-groupe-sujet",
+    "title": "Le groupe sujet",
+    "level": ["CM1", "CM2"],
+    "category": "Syntaxe",
+    "objectives": [
+      "Repérer le groupe sujet dans une phrase.",
+      "Comprendre son rôle.",
+      "Accorder correctement le verbe avec le sujet."
+    ],
+    "theory": [
+      {
+        "title": "Définition",
+        "content": "Le groupe sujet (GS) est celui qui fait l’action ou dont on parle."
+      },
+      {
+        "title": "Composition",
+        "content": "Il peut être un nom, un groupe nominal, un pronom ou un infinitif."
+      },
+      {
+        "title": "Accord",
+        "content": "Le verbe s’accorde toujours avec le sujet."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Les élèves de CM2 travaillent.",
+        "explanation": "« Les élèves de CM2 » est le groupe sujet."
+      },
+      {
+        "sentence": "Courir est bon pour la santé.",
+        "explanation": "Le sujet est l’infinitif « courir »."
+      }
+    ]
+  },
+  {
+    "id": "le-complement-du-verbe",
+    "slug": "le-complement-du-verbe",
+    "title": "Le complément du verbe (COD / COI)",
+    "level": ["CM1", "CM2"],
+    "category": "Syntaxe",
+    "objectives": [
+      "Identifier le COD et le COI.",
+      "Comprendre leur rôle dans la phrase.",
+      "Différencier complément essentiel et circonstanciel."
+    ],
+    "theory": [
+      {
+        "title": "COD",
+        "content": "Le COD complète directement le verbe sans préposition."
+      },
+      {
+        "title": "COI",
+        "content": "Le COI est introduit par une préposition (à, de, pour...)."
+      },
+      {
+        "title": "Questions utiles",
+        "content": "Pour le COD : « qui ? » / « quoi ? ». Pour le COI : « à qui ? », « de quoi ? », etc."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Elle lit un livre.",
+        "explanation": "COD : « un livre »."
+      },
+      {
+        "sentence": "Il parle à son ami.",
+        "explanation": "COI : « à son ami »."
+      }
+    ]
+  },
+  {
+    "id": "le-complement-circonstanciel",
+    "slug": "le-complement-circonstanciel",
+    "title": "Les compléments circonstanciels",
+    "level": ["CM1", "CM2"],
+    "category": "Syntaxe",
+    "objectives": [
+      "Connaître les types de compléments circonstanciels.",
+      "Savoir les repérer dans une phrase.",
+      "Comprendre qu’ils sont facultatifs."
+    ],
+    "theory": [
+      {
+        "title": "Définition",
+        "content": "Les compléments circonstanciels (CC) donnent des informations sur les circonstances de l’action : temps, lieu, manière, cause, but..."
+      },
+      {
+        "title": "Mobilité",
+        "content": "Ils peuvent être déplacés ou supprimés sans changer le sens principal de la phrase."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Il viendra demain.",
+        "explanation": "CC de temps : demain."
+      },
+      {
+        "sentence": "Elle court avec énergie.",
+        "explanation": "CC de manière : avec énergie."
+      }
+    ]
+  },
+  {
+    "id": "le-passe-simple",
+    "slug": "le-passe-simple",
+    "title": "Le passé simple",
+    "level": ["CM1", "CM2"],
+    "category": "Conjugaison",
+    "objectives": [
+      "Connaître les terminaisons du passé simple.",
+      "Savoir conjuguer les verbes courants.",
+      "Reconnaître le passé simple dans un récit."
+    ],
+    "theory": [
+      {
+        "title": "Usage",
+        "content": "Le passé simple est utilisé dans les récits pour exprimer des actions courtes et ponctuelles."
+      },
+      {
+        "title": "Terminaisons du 1er groupe",
+        "content": "-ai, -as, -a, -âmes, -âtes, -èrent."
+      },
+      {
+        "title": "Terminaisons du 2e et 3e groupe",
+        "content": "2e groupe : -is, -is, -it, -îmes, -îtes, -irent ; 3e groupe varie beaucoup."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Il marcha longtemps.",
+        "explanation": "Verbe du 1er groupe au passé simple."
+      },
+      {
+        "sentence": "Ils finirent leur travail.",
+        "explanation": "Verbe du 2e groupe."
+      }
+    ]
+  },
+  {
+    "id": "les-valeurs-des-temps",
+    "slug": "les-valeurs-des-temps",
+    "title": "Les valeurs des temps verbaux",
+    "level": ["CM1", "CM2"],
+    "category": "Conjugaison",
+    "objectives": [
+      "Comprendre l’usage des temps du passé, présent et futur.",
+      "Reconnaître la valeur d’un temps dans un texte.",
+      "Savoir choisir le bon temps selon la situation."
+    ],
+    "theory": [
+      {
+        "title": "Présent",
+        "content": "Présent d’actualité, de narration, de vérité générale."
+      },
+      {
+        "title": "Passé",
+        "content": "Passé composé (actions achevées), imparfait (description ou habitude), passé simple (récit)."
+      },
+      {
+        "title": "Futur",
+        "content": "Exprime une action à venir ou une certitude."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Chaque été, il allait à la mer.",
+        "explanation": "Imparfait : habitude."
+      },
+      {
+        "sentence": "Demain, nous partirons tôt.",
+        "explanation": "Futur simple : action à venir."
+      }
+    ]
+  },
+  {
+    "id": "les-homophones-grammaticaux",
+    "slug": "les-homophones-grammaticaux",
+    "title": "Homophones grammaticaux",
+    "level": ["CM1", "CM2"],
+    "category": "Orthographe",
+    "objectives": [
+      "Différencier les homophones les plus courants.",
+      "Comprendre leur fonction.",
+      "Utiliser des astuces pour bien les écrire."
+    ],
+    "theory": [
+      {
+        "title": "et / est",
+        "content": "« et » relie deux mots ; « est » est une forme du verbe être."
+      },
+      {
+        "title": "son / sont",
+        "content": "« son » est un déterminant ; « sont » est une forme du verbe être."
+      },
+      {
+        "title": "ces / ses / c’est",
+        "content": "« ces » = démonstratif ; « ses » = possessif ; « c’est » = cela est."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Il est gentil et poli.",
+        "explanation": "« et » relie deux adjectifs ; « est » verbe être."
+      },
+      {
+        "sentence": "Ces enfants rangent leurs affaires.",
+        "explanation": "« ces » = démonstratif."
+      }
+    ]
+  },
+  {
+    "id": "les-types-de-phrases",
+    "slug": "les-types-de-phrases-cm",
+    "title": "Les types de phrases (approfondissement)",
+    "level": ["CM1", "CM2"],
+    "category": "Syntaxe",
+    "objectives": [
+      "Identifier les quatre types de phrases.",
+      "Comprendre les nuances entre ordre, souhait et conseil.",
+      "Reconnaître les structures complexes."
+    ],
+    "theory": [
+      {
+        "title": "Déclarative",
+        "content": "Elle informe et se termine par un point."
+      },
+      {
+        "title": "Interrogative",
+        "content": "Elle pose une question, avec « est-ce que », inversion ou intonation."
+      },
+      {
+        "title": "Impérative",
+        "content": "Ordre, conseil ou souhait ; verbe à l’impératif."
+      },
+      {
+        "title": "Exclamative",
+        "content": "Exprime un sentiment fort."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Peux-tu venir ici ?",
+        "explanation": "Phrase interrogative."
+      },
+      {
+        "sentence": "Quelle surprise !",
+        "explanation": "Phrase exclamative."
+      }
+    ]
+  },
+  {
+    "id": "les-champs-lexicaux",
+    "slug": "les-champs-lexicaux",
+    "title": "Les champs lexicaux",
+    "level": ["CM1", "CM2"],
+    "category": "Vocabulaire",
+    "objectives": [
+      "Comprendre ce qu’est un champ lexical.",
+      "Identifier les mots appartenant à un même champ.",
+      "Enrichir son vocabulaire."
+    ],
+    "theory": [
+      {
+        "title": "Définition",
+        "content": "Un champ lexical regroupe des mots liés à un même thème ou une même idée."
+      },
+      {
+        "title": "Types de mots",
+        "content": "Il peut contenir des noms, verbes, adjectifs ou adverbes."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Mer, vague, sable, plage.",
+        "explanation": "Tous appartiennent au champ lexical de la mer."
+      },
+      {
+        "sentence": "Courir, sauter, marcher.",
+        "explanation": "Champ lexical du mouvement."
+      }
+    ]
+  },
+  {
+    "id": "les-figures-de-style",
+    "slug": "les-figures-de-style",
+    "title": "Figures de style (niveau CM)",
+    "level": ["CM1", "CM2"],
+    "category": "Vocabulaire",
+    "objectives": [
+      "Découvrir les figures de style simples.",
+      "Repérer comparaison et métaphore.",
+      "Comprendre leur rôle dans un texte."
+    ],
+    "theory": [
+      {
+        "title": "Comparaison",
+        "content": "Elle rapproche deux éléments grâce à un outil : comme, tel, pareil à..."
+      },
+      {
+        "title": "Métaphore",
+        "content": "Elle rapproche deux éléments sans outil de comparaison."
+      },
+      {
+        "title": "Personnification",
+        "content": "Elle donne des caractéristiques humaines à un objet ou un animal."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Il est courageux comme un lion.",
+        "explanation": "Comparaison."
+      },
+      {
+        "sentence": "La nuit enveloppe la ville.",
+        "explanation": "Personnification."
+      }
+    ]
+  }
+]
