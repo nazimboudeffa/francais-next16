@@ -2,7 +2,6 @@
 
 // Fonction pour lire le JSON côté serveur
 import { useParams } from "next/navigation";
-import Navbar from '../../components/Navbar';
 import cours from '../cours.json';
 import React from 'react';
 
@@ -13,8 +12,6 @@ export default function CoursePage() {
 		return <main className="p-8">Cours introuvable.</main>;
 	}
 	return (
-		<>
-		<Navbar />
 		<main className="max-w-3xl mx-auto p-6">
 			<h1 className="text-3xl font-bold mb-2">{coursData.title}</h1>
 			<div className="mb-4 flex gap-2 flex-wrap">
@@ -59,6 +56,5 @@ export default function CoursePage() {
 				))}
 			</section>
 		</main>
-		</>
 	);
 }
