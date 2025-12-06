@@ -757,5 +757,329 @@
         "explanation": "Personnification."
       }
     ]
+  },
+    {
+    "id": "present-verbes-er",
+    "slug": "present-verbes-er",
+    "title": "Le présent des verbes en -er",
+    "level": ["CE1", "CE2"],
+    "category": "Conjugaison",
+    "objectives": [
+      "Conjuguer les verbes du 1er groupe au présent.",
+      "Reconnaître les terminaisons.",
+      "Associer correctement le verbe et son pronom."
+    ],
+    "theory": [
+      {
+        "title": "Les verbes en -er",
+        "content": "Ce sont les verbes du 1er groupe, comme « chanter », « jouer », « parler »."
+      },
+      {
+        "title": "Terminaisons",
+        "content": "Les terminaisons au présent sont : -e, -es, -e, -ons, -ez, -ent."
+      },
+      {
+        "title": "Astuce",
+        "content": "Pour trouver l’infinitif, on peut ajouter « il faut » devant : il faut jouer."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Nous marchons dans la rue.",
+        "explanation": "Terminaison -ons avec « nous »."
+      },
+      {
+        "sentence": "Il chante bien.",
+        "explanation": "Terminaison -e avec « il »."
+      }
+    ]
+  },
+  {
+    "id": "present-verbes-etre",
+    "slug": "present-verbes-etre",
+    "title": "Le verbe ÊTRE au présent",
+    "level": ["CE1", "CE2"],
+    "category": "Conjugaison",
+    "objectives": [
+      "Connaître les formes du verbe être au présent.",
+      "Utiliser ce verbe dans une phrase.",
+      "Différencier être et avoir."
+    ],
+    "theory": [
+      {
+        "title": "Conjugaison",
+        "content": "Je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont."
+      },
+      {
+        "title": "Rôle du verbe",
+        "content": "Il permet d’exprimer un état ou une situation."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Tu es malade.",
+        "explanation": "Verbe être conjugué : « es »."
+      },
+      {
+        "sentence": "Nous sommes prêts.",
+        "explanation": "Verbe être au pluriel : « sommes »."
+      }
+    ]
+  },
+  {
+    "id": "present-verbes-avoir",
+    "slug": "present-verbes-avoir",
+    "title": "Le verbe AVOIR au présent",
+    "level": ["CE1", "CE2"],
+    "category": "Conjugaison",
+    "objectives": [
+      "Mémoriser la conjugaison du verbe avoir au présent.",
+      "L’utiliser dans des phrases simples.",
+      "Éviter les confusions avec « à »."
+    ],
+    "theory": [
+      {
+        "title": "Conjugaison",
+        "content": "J’ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont."
+      },
+      {
+        "title": "Utilité",
+        "content": "Le verbe avoir sert à exprimer une possession ou une caractéristique."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Il a un vélo.",
+        "explanation": "« a » verbe avoir."
+      },
+      {
+        "sentence": "Vous avez faim.",
+        "explanation": "« avez » = verbe avoir, 2ᵉ personne du pluriel."
+      }
+    ]
+  },
+  {
+    "id": "futur-proche",
+    "slug": "futur-proche",
+    "title": "Le futur proche",
+    "level": ["CE1", "CE2"],
+    "category": "Conjugaison",
+    "objectives": [
+      "Reconnaître le futur proche.",
+      "Construire une phrase au futur proche.",
+      "Comprendre qu’il indique une action bientôt réalisée."
+    ],
+    "theory": [
+      {
+        "title": "Construction",
+        "content": "Verbe aller au présent + verbe à l’infinitif."
+      },
+      {
+        "title": "Usage",
+        "content": "Il exprime une action qui va se produire très bientôt."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Je vais jouer dehors.",
+        "explanation": "« vais » + jouer = futur proche."
+      },
+      {
+        "sentence": "Ils vont partir.",
+        "explanation": "« vont » + infinitif."
+      }
+    ]
+  },
+  {
+    "id": "imparfait-introduction",
+    "slug": "imparfait-introduction",
+    "title": "L’imparfait (introduction)",
+    "level": ["CE1", "CE2"],
+    "category": "Conjugaison",
+    "objectives": [
+      "Découvrir l’imparfait.",
+      "Reconnaître une action passée qui dure.",
+      "Former l’imparfait pour quelques verbes courants."
+    ],
+    "theory": [
+      {
+        "title": "Quand l’utiliser ?",
+        "content": "Pour parler d’une action passée qui se répétait ou durait."
+      },
+      {
+        "title": "Terminaisons",
+        "content": "Les terminaisons sont : -ais, -ais, -ait, -ions, -iez, -aient."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Quand j’étais petit, je jouais au parc.",
+        "explanation": "« étais » et « jouais » sont à l’imparfait."
+      },
+      {
+        "sentence": "Nous regardions les étoiles.",
+        "explanation": "Terminaison -ions."
+      }
+    ]
+  },
+  {
+    "id": "present-verbe-aller",
+    "slug": "present-verbe-aller",
+    "title": "Le verbe ALLER au présent",
+    "level": ["CE1", "CE2"],
+    "category": "Conjugaison",
+    "objectives": [
+      "Connaître la conjugaison du verbe aller au présent.",
+      "L’utiliser pour parler d’un déplacement.",
+      "Reconnaître sa place dans le futur proche."
+    ],
+    "theory": [
+      {
+        "title": "Conjugaison",
+        "content": "Je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont."
+      },
+      {
+        "title": "Particularité",
+        "content": "C’est un verbe irrégulier."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Je vais à l’école.",
+        "explanation": "« vais » : verbe aller au présent."
+      },
+      {
+        "sentence": "Ils vont au parc.",
+        "explanation": "« vont » : 3ᵉ personne du pluriel."
+      }
+    ]
+  },
+  {
+    "id": "present-verbe-faire",
+    "slug": "present-verbe-faire",
+    "title": "Le verbe FAIRE au présent",
+    "level": ["CE1", "CE2"],
+    "category": "Conjugaison",
+    "objectives": [
+      "Connaître les formes du verbe faire au présent.",
+      "L’utiliser dans une phrase.",
+      "Connaître ses particularités."
+    ],
+    "theory": [
+      {
+        "title": "Conjugaison",
+        "content": "Je fais, tu fais, il/elle fait, nous faisons, vous faites, ils/elles font."
+      },
+      {
+        "title": "Usage",
+        "content": "Il exprime une action, une activité ou la météo."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Elle fait un dessin.",
+        "explanation": "« fait » : verbe faire au présent."
+      },
+      {
+        "sentence": "Ils font du sport.",
+        "explanation": "« font » : terminaison particulière."
+      }
+    ]
+  },
+  {
+    "id": "infinitif",
+    "slug": "infinitif",
+    "title": "L’infinitif du verbe",
+    "level": ["CE1", "CE2"],
+    "category": "Conjugaison",
+    "objectives": [
+      "Reconnaître l’infinitif d’un verbe.",
+      "Comprendre que l’infinitif n’est pas conjugué.",
+      "Savoir trouver l’infinitif d’un verbe conjugué."
+    ],
+    "theory": [
+      {
+        "title": "Définition",
+        "content": "L’infinitif est la forme du verbe qui ne change pas. Il finit souvent par -er, -ir ou -re."
+      },
+      {
+        "title": "Astuce",
+        "content": "On peut mettre « il faut » devant : il faut manger."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Je mange une pomme → manger",
+        "explanation": "Infinitif : manger."
+      },
+      {
+        "sentence": "Tu finis ton gâteau → finir",
+        "explanation": "Infinitif : finir."
+      }
+    ]
+  },
+  {
+    "id": "verbes-en-ir-present",
+    "slug": "verbes-en-ir-present",
+    "title": "Le présent des verbes en -ir",
+    "level": ["CE1", "CE2"],
+    "category": "Conjugaison",
+    "objectives": [
+      "Conjuguer quelques verbes en -ir au présent.",
+      "Reconnaître les terminaisons.",
+      "Utiliser correctement ces verbes dans une phrase."
+    ],
+    "theory": [
+      {
+        "title": "Les verbes du 2ᵉ groupe",
+        "content": "Ceux qui font -issons à la 1ᵉʳe personne du pluriel : finir, choisir, grandir."
+      },
+      {
+        "title": "Terminaisons",
+        "content": "-is, -is, -it, -issons, -issez, -issent."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Nous finissons le gâteau.",
+        "explanation": "Terminaison -issons."
+      },
+      {
+        "sentence": "Il grandit vite.",
+        "explanation": "Verbe du 2ᵉ groupe."
+      }
+    ]
+  },
+  {
+    "id": "present-verbe-prendre",
+    "slug": "present-verbe-prendre",
+    "title": "Le verbe PRENDRE au présent",
+    "level": ["CE1", "CE2"],
+    "category": "Conjugaison",
+    "objectives": [
+      "Mémoriser la conjugaison du verbe prendre.",
+      "Utiliser « prendre » dans une phrase.",
+      "Connaître ses irrégularités au pluriel."
+    ],
+    "theory": [
+      {
+        "title": "Conjugaison",
+        "content": "Je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent."
+      },
+      {
+        "title": "Particularité",
+        "content": "Au pluriel, le verbe prend deux n à « ils/elles prennent »."
+      }
+    ],
+    "examples": [
+      {
+        "sentence": "Je prends mon sac.",
+        "explanation": "« prends » : verbe prendre, 1ʳᵉ personne."
+      },
+      {
+        "sentence": "Ils prennent le bus.",
+        "explanation": "« prennent » : 3ᵉ personne du pluriel."
+      }
+    ]
   }
 ]
