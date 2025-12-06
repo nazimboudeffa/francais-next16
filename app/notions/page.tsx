@@ -41,7 +41,7 @@ export default function NotionsPage() {
 				<div className="flex flex-col gap-8">
 					{data.map((niveau, idx) => {
 						const isLevelOpen = openLevels[niveau.level] ?? false;
-						const levelBg = idx % 2 === 0 ? 'bg-blue-100' : 'bg-purple-100';
+						const levelBg = idx % 2 === 0 ? 'bg-blue-300' : 'bg-purple-300';
 						return (
 							<section key={niveau.level} className={`mb-4 rounded-xl border border-blue-200 shadow-sm transition-colors duration-200 ${levelBg} p-3 sm:p-4`}>
 								<div className="flex items-center justify-between gap-2 mb-3">
