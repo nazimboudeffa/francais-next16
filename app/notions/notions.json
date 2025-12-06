@@ -1,5 +1,236 @@
 [
   {
+    "level": "CP",
+    "notions": [
+      {
+        "title": "Contes et récits patrimoniaux",
+        "text": "Les contes et récits patrimoniaux sont des histoires traditionnelles transmises de génération en génération. Ils mettent en scène des personnages archétypaux, des situations fantastiques et des morales universelles. Ces récits permettent aux jeunes lecteurs de découvrir leur héritage culturel tout en stimulant leur imagination.",
+        "references": [
+          { "titre": "Le Petit Chaperon rouge", "auteur": "Charles Perrault" },
+          { "titre": "Boucle d'or et les trois ours", "auteur": "Conte traditionnel" }
+        ]
+      },
+      {
+        "title": "Albums de littérature jeunesse",
+        "text": "Les albums de littérature jeunesse sont des livres illustrés destinés aux jeunes enfants. Ils combinent des images attrayantes avec des textes simples pour raconter des histoires captivantes. Ces albums favorisent le développement du langage, de l'imagination et de la compréhension chez les jeunes lecteurs.",
+        "references": [
+          { "titre": "Chien Bleu", "auteur": "Nadja" },
+          { "titre": "La Chèvre biscornue", "auteur": "Christine Beigel & Hervé Le Goff" }
+        ]
+      },
+      {
+        "title": "Récits d'aventure",
+        "text": "Les récits d'aventure racontent des histoires palpitantes où les personnages vivent des péripéties extraordinaires. Ces récits stimulent l'imagination et le goût du risque chez les jeunes lecteurs, tout en leur faisant découvrir des univers variés.",
+        "references": [
+          { "titre": "Le Grand Voyage de Petit Renard", "auteur": "Antoine Guilloppé" }
+        ]
+      },
+      {
+        "title": "Poésie et jeux sur la langue",
+        "text": "La poésie et les jeux sur la langue permettent aux jeunes enfants de découvrir le plaisir des mots, des sons et des rythmes. Ces activités favorisent le développement du langage, de la créativité et de l'expression personnelle.",
+        "references": [
+          { "titre": "Histoires pour rire", "auteur": "Pierre Gripari" }
+        ]
+      },
+      {
+        "title": "Fables et textes courts",
+        "text": "Les fables et textes courts sont des histoires brèves qui transmettent des leçons de vie à travers des personnages souvent animaux. Ces récits permettent aux jeunes lecteurs de réfléchir sur des valeurs morales tout en appréciant la concision et l'efficacité narrative.",
+        "references": [
+          { "titre": "Le Corbeau et le Renard", "auteur": "Jean de La Fontaine" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "level": "CE1",
+    "notions": [
+      {
+        "title": "Contes et récits traditionnels",
+        "text": "Les contes et récits traditionnels sont des histoires transmises oralement ou par écrit, souvent issues du folklore. Ils mettent en scène des personnages et des situations qui reflètent les valeurs et les croyances d'une culture. Ces récits permettent aux enfants de développer leur imagination et leur compréhension du monde.",
+        "references": [
+          { "titre": "Le Chat Botté", "auteur": "Charles Perrault" },
+          { "titre": "Le Petit Prince", "auteur": "Antoine de Saint-Exupéry" }
+        ]
+      },
+      {
+        "title": "Albums de littérature jeunesse",
+        "text": "Les albums de littérature jeunesse sont des livres illustrés destinés aux jeunes enfants. Ils combinent des images attrayantes avec des textes simples pour raconter des histoires captivantes. Ces albums favorisent le développement du langage, de l'imagination et de la compréhension chez les jeunes lecteurs.",
+        "references": [
+          { "titre": "Le Gruffalo", "auteur": "Julia Donaldson" },
+          { "titre": "Elmer", "auteur": "David McKee" }
+        ]
+      },
+      {
+        "title": "Récits d'aventure",
+        "text": "Les récits d'aventure racontent des histoires palpitantes où les personnages vivent des péripéties extraordinaires. Ces récits stimulent l'imagination et le goût du risque chez les jeunes lecteurs, tout en leur faisant découvrir des univers variés.",
+        "references": [
+          { "titre": "Tintin au Congo", "auteur": "Hergé" }
+        ]
+      },
+      {
+        "title": "Poésie",
+        "text": "La poésie permet aux enfants de découvrir le plaisir des mots, des sons et des rythmes. Elle favorise le développement du langage, de la créativité et de l'expression personnelle.",
+        "references": [
+          { "titre": "Le Cancre", "auteur": "Jacques Prévert" }
+        ]
+      },
+      {
+        "title": "Théâtre pour la jeunesse",
+        "text": "Le théâtre pour la jeunesse propose des pièces adaptées aux enfants, mettant en scène des histoires captivantes et des personnages attachants. Ces œuvres permettent aux jeunes lecteurs de découvrir l'art dramatique tout en développant leur imagination et leur sens de l'écoute.",
+        "references": [
+          { "titre": "La Belle Lisse Poire du Prince de Motordu (adaptation théâtre)", "auteur": "Pef" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "level": "CE2",
+    "notions": [
+      {
+        "title": "Contes et récits du patrimoine",
+        "text": "Les contes et récits du patrimoine sont des histoires transmises de génération en génération, souvent ancrées dans la culture et l'histoire d'un peuple. Ils permettent aux enfants de découvrir leur héritage culturel tout en développant leur imagination.",
+        "references": [
+          { "titre": "Les Musiciens de Brême", "auteur": "Grimm" },
+          { "titre": "Aladin", "auteur": "Mille et une nuits" }
+        ]
+      },
+      {
+        "title": "Mythes et légendes",
+        "text": "Les mythes et légendes sont des récits anciens qui expliquent les origines du monde, des phénomènes naturels ou des valeurs culturelles à travers des histoires souvent fantastiques. Ils permettent aux enfants de s'immerger dans des univers riches en symboles et en enseignements.",
+        "references": [
+          { "titre": "Les Douze Travaux d'Hercule", "auteur": "Mythologie grecque" },
+          { "titre": "Le Roi Arthur et l'épée magique", "auteur": "Légendes arthuriennes" }
+        ]
+      },
+      {
+        "title": "Récits d'aventure",
+        "text": "Les récits d'aventure racontent des histoires palpitantes où les personnages vivent des péripéties extraordinaires. Ces récits stimulent l'imagination et le goût du risque chez les jeunes lecteurs, tout en leur faisant découvrir des univers variés.",
+        "references": [
+          { "titre": "Les Malheurs de Sophie", "auteur": "Comtesse de Ségur" },
+          { "titre": "Matilda", "auteur": "Roald Dahl" }
+        ]
+      },
+      {
+        "title": "Poésie",
+        "text": "La poésie permet aux enfants de découvrir le plaisir des mots, des sons et des rythmes. Elle favorise le développement du langage, de la créativité et de l'expression personnelle.",
+        "references": [
+          { "titre": "Liberté", "auteur": "Paul Éluard" }
+        ]
+      },
+      {
+        "title": "Théâtre",
+        "text": "Le théâtre propose des pièces adaptées aux enfants, mettant en scène des histoires captivantes et des personnages attachants. Ces œuvres permettent aux jeunes lecteurs de découvrir l'art dramatique tout en développant leur imagination et leur sens de l'écoute.",
+        "references": [
+          { "titre": "Le Médecin volant", "auteur": "Molière" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "level": "CM1",
+    "notions": [
+      {
+        "title": "Mythologie et récits fondateurs",
+        "text": "Les mythes et récits fondateurs sont des histoires anciennes qui expliquent les origines du monde, des peuples ou des valeurs fondamentales. Ils mettent en scène des héros, des dieux et des événements extraordinaires, offrant aux enfants une compréhension des racines culturelles et des croyances.",
+        "references": [
+          { "titre": "L'Odyssée (extraits)", "auteur": "Homère" },
+          { "titre": "Les Métamorphoses (extraits)", "auteur": "Ovide" }
+        ]
+      },
+      {
+        "title": "Récits historiques",
+        "text": "Les récits historiques racontent des événements passés, souvent basés sur des faits réels. Ils permettent aux enfants de mieux comprendre l'histoire, les sociétés et les enjeux du passé, tout en développant leur esprit critique.",
+        "references": [
+          { "titre": "La Guerre des Gaules (adaptations jeunesse)", "auteur": "Jules César" },
+          { "titre": "Le Journal d'Anne Frank (extraits)", "auteur": "Anne Frank" }
+        ]
+      },
+      {
+        "title": "Récits d'aventure",
+        "text": "Les récits d'aventure racontent des histoires palpitantes où les personnages vivent des péripéties extraordinaires. Ces récits stimulent l'imagination et le goût du risque chez les jeunes lecteurs, tout en leur faisant découvrir des univers variés.",
+        "references": [
+          { "titre": "Le Livre de la Jungle", "auteur": "Rudyard Kipling" },
+          { "titre": "Le Tour du monde en 80 jours", "auteur": "Jules Verne" }
+        ]
+      },
+      {
+        "title": "Contes et merveilles",
+        "text": "Les contes et récits du patrimoine sont des histoires transmises de génération en génération, souvent ancrées dans la culture et l'histoire d'un peuple. Ils permettent aux enfants de découvrir leur héritage culturel tout en développant leur imagination.",
+        "references": [
+          { "titre": "Les Mille et une nuits (extraits)", "auteur": "Contes orientaux" }
+        ]
+      },
+      {
+        "title": "Poésie",
+        "text": "La poésie permet aux enfants de découvrir le plaisir des mots, des sons et des rythmes. Elle favorise le développement du langage, de la créativité et de l'expression personnelle.",
+        "references": [
+          { "titre": "Clair de Lune", "auteur": "Paul Verlaine" }
+        ]
+      },
+      {
+        "title": "Théâtre",
+        "references": [
+          { "titre": "Le Bourgeois gentilhomme (extraits)", "auteur": "Molière" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "level": "CM2",
+    "notions": [
+      {
+        "title": "Mythologie et grands récits du patrimoine",
+        "text": "Les mythes et grands récits du patrimoine sont des histoires anciennes qui expliquent les origines du monde, des peuples ou des valeurs fondamentales. Ils mettent en scène des héros, des dieux et des événements extraordinaires, offrant aux enfants une compréhension des racines culturelles et des croyances.",
+        "references": [
+          { "titre": "Le Mythe de Sisyphe", "auteur": "Mythologie grecque" },
+          { "titre": "L'Enéide (extraits)", "auteur": "Virgile" }
+        ]
+      },
+      {
+        "title": "Récits historiques et mémoriels",
+        "text": "Les récits historiques et mémoriels racontent des événements passés, souvent basés sur des faits réels. Ils permettent aux enfants de mieux comprendre l'histoire, les sociétés et les enjeux du passé, tout en développant leur esprit critique.",
+        "references": [
+          { "titre": "La Case de l'Oncle Tom", "auteur": "Harriet Beecher Stowe" },
+          { "titre": "Le Journal d'un enfant de la Résistance (BD)", "auteur": "Dugomier & Ers" }
+        ]
+      },
+      {
+        "title": "Récits d'aventure",
+        "text": "Les récits d'aventure racontent des histoires palpitantes où les personnages vivent des péripéties extraordinaires. Ces récits stimulent l'imagination et le goût du risque chez les jeunes lecteurs, tout en leur faisant découvrir des univers variés.",
+        "references": [
+          { "titre": "L'Île au trésor", "auteur": "Robert Louis Stevenson" },
+          { "titre": "Robinson Crusoé", "auteur": "Daniel Defoe" }
+        ]
+      },
+      {
+        "title": "Fictions pour interroger le réel",
+        "text": "Les fictions pour interroger le réel sont des récits qui utilisent l'imaginaire pour explorer des questions et des problématiques du monde réel. Ils permettent aux enfants de réfléchir sur des thèmes importants tout en stimulant leur créativité et leur esprit critique.",
+        "references": [
+          { "titre": "Le Passe-Miroir (extraits)", "auteur": "Christelle Dabos" }
+        ]
+      },
+      {
+        "title": "Poésie",
+        "text": "La poésie permet aux enfants de découvrir le plaisir des mots, des sons et des rythmes. Elle favorise le développement du langage, de la créativité et de l'expression personnelle.",
+        "references": [
+          { "titre": "Liberté", "auteur": "Paul Éluard" },
+          { "titre": "Demain, dès l'aube", "auteur": "Victor Hugo" }
+        ]
+      },
+      {
+        "title": "Théâtre",
+        "text": "Le théâtre propose des pièces adaptées aux enfants, mettant en scène des histoires captivantes et des personnages attachants. Ces œuvres permettent aux jeunes lecteurs de découvrir l'art dramatique tout en développant leur imagination et leur sens de l'écoute.",
+        "references": [
+          { "titre": "Le Malade imaginaire (extraits)", "auteur": "Molière" }
+        ]
+      }
+    ]
+  },
+  {
     "level": "6e",
     "notions": [
       {
