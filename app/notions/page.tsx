@@ -9,9 +9,9 @@ type Reference = {
 };
 
 type Notion = {
-	title: string;
-	text: string;
-	references: Reference[];
+  title: string;
+  text?: string;
+  references: Reference[];
 };
 
 type NotionsByLevel = {
@@ -44,17 +44,17 @@ export default function NotionsPage() {
 									return (
 										<li key={notion.title} className="border rounded-lg p-3 sm:p-4 bg-purple-50 shadow-sm overflow-x-auto">
 											<div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-2 gap-2 sm:gap-0">
-												<div className="font-semibold text-base sm:text-lg text-blue-900 break-words">{notion.title}</div>
+												<div className="font-semibold text-base sm:text-lg text-blue-900 break-word">{notion.title}</div>
 												<button
 													className={`sm:ml-4 w-8 h-8 flex items-center justify-center rounded-full border-2 transition-colors duration-200 ${isOpen ? 'bg-white border-blue-300 text-blue-700' : 'bg-white border-blue-300 text-blue-700 hover:bg-blue-100'}`}
 													onClick={() => toggle(niveau.level, notion.title)}
 													aria-label={isOpen ? 'Cacher le cours' : 'Voir le cours'}
 												>
-													<span className="text-xl font-bold">{isOpen ? '−' : '+'}</span>
+													<span className="text-xl font-bold">{isOpen ? '-' : '+'}</span>
 												</button>
 											</div>
-											{isOpen && (
-												<div className="mb-2 text-purple-900 bg-purple-100 rounded p-3 border border-purple-200 shadow-inner animate-fade-in break-words">
+											{isOpen && notion.text && (
+												<div className="mb-2 text-purple-900 bg-purple-100 rounded p-3 border border-purple-200 shadow-inner animate-fade-in break-word">
 													{notion.text}
 												</div>
 											)}
@@ -63,7 +63,7 @@ export default function NotionsPage() {
 													<div className="font-medium text-sm mb-1 text-blue-700">Références :</div>
 													<ul className="list-disc list-inside ml-4">
 														{notion.references.map((ref) => (
-															<li key={ref.titre + ref.auteur} className="text-blue-900 break-words">
+															<li key={ref.titre + ref.auteur} className="text-blue-900 break-word">
 																<span className="font-semibold">{ref.titre}</span> — <span className="italic">{ref.auteur}</span>
 															</li>
 														))}
