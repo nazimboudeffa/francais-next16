@@ -456,5 +456,135 @@
         ]
       }
     ]
+  },
+  {
+    "level": "2nde",
+    "notions": [
+      {
+        "title": "La littérature d’idées du XVIe siècle au XVIIIe siècle",
+        "references": [
+          { "titre": "Discours de la méthode", "auteur": "René Descartes" },
+          { "titre": "Lettres persanes", "auteur": "Montesquieu" }
+        ]
+      },
+      {
+        "title": "La poésie du XIXe au XXIe siècle",
+        "references": [
+          { "titre": "Les Fleurs du mal (extraits)", "auteur": "Charles Baudelaire" },
+          { "titre": "Alcools (extraits)", "auteur": "Guillaume Apollinaire" }
+        ]
+      },
+      {
+        "title": "Le roman et le récit du XVIIIe au XXIe siècle",
+        "references": [
+          { "titre": "Manon Lescaut", "auteur": "Abbé Prévost" },
+          { "titre": "La Peste", "auteur": "Albert Camus" }
+        ]
+      },
+      {
+        "title": "Le théâtre du XVIIe au XXIe siècle",
+        "references": [
+          { "titre": "Phèdre", "auteur": "Jean Racine" },
+          { "titre": "En attendant Godot", "auteur": "Samuel Beckett" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "level": "1ère Générale",
+    "notions": [
+      {
+        "title": "La poésie du Moyen Âge au XIXe siècle",
+        "references": [
+          { "titre": "Les Contemplations", "auteur": "Victor Hugo" },
+          { "titre": "Les Regrets (extraits)", "auteur": "Joachim Du Bellay" }
+        ]
+      },
+      {
+        "title": "La littérature d’idées du XVIe au XVIIIe siècle",
+        "references": [
+          { "titre": "Les Essais (extraits)", "auteur": "Montaigne" },
+          { "titre": "Dictionnaire philosophique (extraits)", "auteur": "Voltaire" }
+        ]
+      },
+      {
+        "title": "Le roman et le récit du XIXe au XXIe siècle",
+        "references": [
+          { "titre": "Madame Bovary", "auteur": "Gustave Flaubert" },
+          { "titre": "L’Étranger", "auteur": "Albert Camus" }
+        ]
+      },
+      {
+        "title": "Le théâtre du XVIIe au XXIe siècle",
+        "references": [
+          { "titre": "Le Misanthrope", "auteur": "Molière" },
+          { "titre": "Lorenzaccio", "auteur": "Alfred de Musset" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "level": "1ère Technologique",
+    "notions": [
+      {
+        "title": "Identité et diversité",
+        "references": [
+          { "titre": "Le Portrait de Dorian Gray", "auteur": "Oscar Wilde" }
+        ]
+      },
+      {
+        "title": "Informations, médias et opinions",
+        "references": [
+          { "titre": "1984", "auteur": "George Orwell" }
+        ]
+      },
+      {
+        "title": "L’homme et la nature",
+        "references": [
+          { "titre": "La Fontaine, Fables (sélection)", "auteur": "Jean de La Fontaine" }
+        ]
+      },
+      {
+        "title": "Éthique et responsabilité",
+        "references": [
+          { "titre": "Antigone", "auteur": "Jean Anouilh" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "level": "Terminale",
+    "notions": [
+      {
+        "title": "La littérature d’idées et le journalisme",
+        "references": [
+          { "titre": "Les Justes", "auteur": "Albert Camus" },
+          { "titre": "Indignez-vous !", "auteur": "Stéphane Hessel" }
+        ]
+      },
+      {
+        "title": "Les grands débats du monde contemporain",
+        "references": [
+          { "titre": "La Supplication", "auteur": "Svetlana Aleksievitch" },
+          { "titre": "Le Meilleur des mondes", "auteur": "Aldous Huxley" }
+        ]
+      },
+      {
+        "title": "L'art et la création",
+        "references": [
+          { "titre": "Les Mémoires d’Hadrien", "auteur": "Marguerite Yourcenar" }
+        ]
+      },
+      {
+        "title": "La recherche du sens",
+        "references": [
+          { "titre": "La Nausée", "auteur": "Jean-Paul Sartre" },
+          { "titre": "Si c’est un homme", "auteur": "Primo Levi" }
+        ]
+      }
+    ]
   }
 ]
