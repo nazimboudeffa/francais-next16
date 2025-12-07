@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-start">
 			{/* Hero Section */}
-			<section className="max-w-3xl w-full py-16 px-4 flex flex-col items-center text-center bg-white dark:bg-zinc-900 rounded-lg shadow">
+			<section className="max-w-4xl w-full py-16 px-4 flex flex-col items-center text-center bg-white dark:bg-zinc-900 rounded-lg shadow">
 				<h1 className="text-4xl md:text-6xl font-extrabold text-blue-700 dark:text-blue-300 mb-4 drop-shadow-lg">Ma Littérature</h1>
 				<p className="text-lg md:text-2xl text-zinc-700 dark:text-zinc-200 max-w-2xl mb-6">
 					Plongez dans la beauté et la diversité de la littérature française.<br />
