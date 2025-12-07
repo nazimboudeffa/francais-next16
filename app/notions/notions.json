@@ -1,588 +1,580 @@
 [
   {
-    "level": "CP",
+    "classe": "CP",
     "notions": [
       {
-        "title": "Contes et récits patrimoniaux",
-        "text": "Les contes et récits patrimoniaux sont des histoires traditionnelles transmises de génération en génération. Ils mettent en scène des personnages archétypaux, des situations fantastiques et des morales universelles. Ces récits permettent aux jeunes lecteurs de découvrir leur héritage culturel tout en stimulant leur imagination.",
+        "titre": "Contes et récits patrimoniaux",
+        "explication": "Les contes et récits patrimoniaux sont des histoires traditionnelles transmises de génération en génération. Ils mettent en scène des personnages archétypaux, des situations fantastiques et des morales universelles. Ces récits permettent aux jeunes lecteurs de découvrir leur héritage culturel tout en stimulant leur imagination.",
         "references": [
-          { "titre": "Le Petit Chaperon rouge", "auteur": "Charles Perrault" },
-          { "titre": "Boucle d'or et les trois ours", "auteur": "Conte traditionnel" }
+          { "oeuvre": "Le Petit Chaperon rouge", "auteur": "Charles Perrault" },
+          { "oeuvre": "Boucle d'or et les trois ours", "auteur": "Conte traditionnel" }
         ]
       },
       {
-        "title": "Albums de littérature jeunesse",
-        "text": "Les albums de littérature jeunesse sont des livres illustrés destinés aux jeunes enfants. Ils combinent des images attrayantes avec des textes simples pour raconter des histoires captivantes. Ces albums favorisent le développement du langage, de l'imagination et de la compréhension chez les jeunes lecteurs.",
+        "titre": "Albums de littérature jeunesse",
+        "explication": "Les albums de littérature jeunesse sont des livres illustrés destinés aux jeunes enfants. Ils combinent des images attrayantes avec des explicationes simples pour raconter des histoires captivantes. Ces albums favorisent le développement du langage, de l'imagination et de la compréhension chez les jeunes lecteurs.",
         "references": [
-          { "titre": "Chien Bleu", "auteur": "Nadja" },
-          { "titre": "La Chèvre biscornue", "auteur": "Christine Beigel & Hervé Le Goff" }
+          { "oeuvre": "Chien Bleu", "auteur": "Nadja" },
+          { "oeuvre": "La Chèvre biscornue", "auteur": "Christine Beigel & Hervé Le Goff" }
         ]
       },
       {
-        "title": "Récits d'aventure",
-        "text": "Les récits d'aventure racontent des histoires palpitantes où les personnages vivent des péripéties extraordinaires. Ces récits stimulent l'imagination et le goût du risque chez les jeunes lecteurs, tout en leur faisant découvrir des univers variés.",
+        "titre": "Récits d'aventure",
+        "explication": "Les récits d'aventure racontent des histoires palpitantes où les personnages vivent des péripéties extraordinaires. Ces récits stimulent l'imagination et le goût du risque chez les jeunes lecteurs, tout en leur faisant découvrir des univers variés.",
         "references": [
-          { "titre": "Le Grand Voyage de Petit Renard", "auteur": "Antoine Guilloppé" }
+          { "oeuvre": "Le Grand Voyage de Petit Renard", "auteur": "Antoine Guilloppé" }
         ]
       },
       {
-        "title": "Poésie et jeux sur la langue",
-        "text": "La poésie et les jeux sur la langue permettent aux jeunes enfants de découvrir le plaisir des mots, des sons et des rythmes. Ces activités favorisent le développement du langage, de la créativité et de l'expression personnelle.",
+        "titre": "Poésie et jeux sur la langue",
+        "explication": "La poésie et les jeux sur la langue permettent aux jeunes enfants de découvrir le plaisir des mots, des sons et des rythmes. Ces activités favorisent le développement du langage, de la créativité et de l'expression personnelle.",
         "references": [
-          { "titre": "Histoires pour rire", "auteur": "Pierre Gripari" }
+          { "oeuvre": "Histoires pour rire", "auteur": "Pierre Gripari" }
         ]
       },
       {
-        "title": "Fables et textes courts",
-        "text": "Les fables et textes courts sont des histoires brèves qui transmettent des leçons de vie à travers des personnages souvent animaux. Ces récits permettent aux jeunes lecteurs de réfléchir sur des valeurs morales tout en appréciant la concision et l'efficacité narrative.",
+        "titre": "Fables et explicationes courts",
+        "explication": "Les fables et explicationes courts sont des histoires brèves qui transmettent des leçons de vie à travers des personnages souvent animaux. Ces récits permettent aux jeunes lecteurs de réfléchir sur des valeurs morales tout en appréciant la concision et l'efficacité narrative.",
         "references": [
-          { "titre": "Le Corbeau et le Renard", "auteur": "Jean de La Fontaine" }
+          { "oeuvre": "Le Corbeau et le Renard", "auteur": "Jean de La Fontaine" }
         ]
       }
     ]
   },
 
   {
-    "level": "CE1",
+    "classe": "CE1",
     "notions": [
       {
-        "title": "Contes et récits traditionnels",
-        "text": "Les contes et récits traditionnels sont des histoires transmises oralement ou par écrit, souvent issues du folklore. Ils mettent en scène des personnages et des situations qui reflètent les valeurs et les croyances d'une culture. Ces récits permettent aux enfants de développer leur imagination et leur compréhension du monde.",
+        "titre": "Contes et récits traditionnels",
+        "explication": "Les contes et récits traditionnels sont des histoires transmises oralement ou par écrit, souvent issues du folklore. Ils mettent en scène des personnages et des situations qui reflètent les valeurs et les croyances d'une culture. Ces récits permettent aux enfants de développer leur imagination et leur compréhension du monde.",
         "references": [
-          { "titre": "Le Chat Botté", "auteur": "Charles Perrault" },
-          { "titre": "Le Petit Prince", "auteur": "Antoine de Saint-Exupéry" }
+          { "oeuvre": "Le Chat Botté", "auteur": "Charles Perrault" },
+          { "oeuvre": "Le Petit Prince", "auteur": "Antoine de Saint-Exupéry" }
         ]
       },
       {
-        "title": "Albums de littérature jeunesse",
-        "text": "Les albums de littérature jeunesse sont des livres illustrés destinés aux jeunes enfants. Ils combinent des images attrayantes avec des textes simples pour raconter des histoires captivantes. Ces albums favorisent le développement du langage, de l'imagination et de la compréhension chez les jeunes lecteurs.",
+        "titre": "Albums de littérature jeunesse",
+        "explication": "Les albums de littérature jeunesse sont des livres illustrés destinés aux jeunes enfants. Ils combinent des images attrayantes avec des explicationes simples pour raconter des histoires captivantes. Ces albums favorisent le développement du langage, de l'imagination et de la compréhension chez les jeunes lecteurs.",
         "references": [
-          { "titre": "Le Gruffalo", "auteur": "Julia Donaldson" },
-          { "titre": "Elmer", "auteur": "David McKee" }
+          { "oeuvre": "Le Gruffalo", "auteur": "Julia Donaldson" },
+          { "oeuvre": "Elmer", "auteur": "David McKee" }
         ]
       },
       {
-        "title": "Récits d'aventure",
-        "text": "Les récits d'aventure racontent des histoires palpitantes où les personnages vivent des péripéties extraordinaires. Ces récits stimulent l'imagination et le goût du risque chez les jeunes lecteurs, tout en leur faisant découvrir des univers variés.",
+        "titre": "Récits d'aventure",
+        "explication": "Les récits d'aventure racontent des histoires palpitantes où les personnages vivent des péripéties extraordinaires. Ces récits stimulent l'imagination et le goût du risque chez les jeunes lecteurs, tout en leur faisant découvrir des univers variés.",
         "references": [
-          { "titre": "Tintin au Congo", "auteur": "Hergé" }
+          { "oeuvre": "Tintin au Congo", "auteur": "Hergé" }
         ]
       },
       {
-        "title": "Poésie",
-        "text": "La poésie permet aux enfants de découvrir le plaisir des mots, des sons et des rythmes. Elle favorise le développement du langage, de la créativité et de l'expression personnelle.",
+        "titre": "Poésie",
+        "explication": "La poésie permet aux enfants de découvrir le plaisir des mots, des sons et des rythmes. Elle favorise le développement du langage, de la créativité et de l'expression personnelle.",
         "references": [
-          { "titre": "Le Cancre", "auteur": "Jacques Prévert" }
+          { "oeuvre": "Le Cancre", "auteur": "Jacques Prévert" }
         ]
       },
       {
-        "title": "Théâtre pour la jeunesse",
-        "text": "Le théâtre pour la jeunesse propose des pièces adaptées aux enfants, mettant en scène des histoires captivantes et des personnages attachants. Ces œuvres permettent aux jeunes lecteurs de découvrir l'art dramatique tout en développant leur imagination et leur sens de l'écoute.",
+        "titre": "Théâtre pour la jeunesse",
+        "explication": "Le théâtre pour la jeunesse propose des pièces adaptées aux enfants, mettant en scène des histoires captivantes et des personnages attachants. Ces œuvres permettent aux jeunes lecteurs de découvrir l'art dramatique tout en développant leur imagination et leur sens de l'écoute.",
         "references": [
-          { "titre": "La Belle Lisse Poire du Prince de Motordu (adaptation théâtre)", "auteur": "Pef" }
+          { "oeuvre": "La Belle Lisse Poire du Prince de Motordu (adaptation théâtre)", "auteur": "Pef" }
         ]
       }
     ]
   },
 
   {
-    "level": "CE2",
+    "classe": "CE2",
     "notions": [
       {
-        "title": "Contes et récits du patrimoine",
-        "text": "Les contes et récits du patrimoine sont des histoires transmises de génération en génération, souvent ancrées dans la culture et l'histoire d'un peuple. Ils permettent aux enfants de découvrir leur héritage culturel tout en développant leur imagination.",
+        "titre": "Contes et récits du patrimoine",
+        "explication": "Les contes et récits du patrimoine sont des histoires transmises de génération en génération, souvent ancrées dans la culture et l'histoire d'un peuple. Ils permettent aux enfants de découvrir leur héritage culturel tout en développant leur imagination.",
         "references": [
-          { "titre": "Les Musiciens de Brême", "auteur": "Grimm" },
-          { "titre": "Aladin", "auteur": "Mille et une nuits" }
+          { "oeuvre": "Les Musiciens de Brême", "auteur": "Grimm" },
+          { "oeuvre": "Aladin", "auteur": "Mille et une nuits" }
         ]
       },
       {
-        "title": "Mythes et légendes",
-        "text": "Les mythes et légendes sont des récits anciens qui expliquent les origines du monde, des phénomènes naturels ou des valeurs culturelles à travers des histoires souvent fantastiques. Ils permettent aux enfants de s'immerger dans des univers riches en symboles et en enseignements.",
+        "titre": "Mythes et légendes",
+        "explication": "Les mythes et légendes sont des récits anciens qui expliquent les origines du monde, des phénomènes naturels ou des valeurs culturelles à travers des histoires souvent fantastiques. Ils permettent aux enfants de s'immerger dans des univers riches en symboles et en enseignements.",
         "references": [
-          { "titre": "Les Douze Travaux d'Hercule", "auteur": "Mythologie grecque" },
-          { "titre": "Le Roi Arthur et l'épée magique", "auteur": "Légendes arthuriennes" }
+          { "oeuvre": "Les Douze Travaux d'Hercule", "auteur": "Mythologie grecque" },
+          { "oeuvre": "Le Roi Arthur et l'épée magique", "auteur": "Légendes arthuriennes" }
         ]
       },
       {
-        "title": "Récits d'aventure",
-        "text": "Les récits d'aventure racontent des histoires palpitantes où les personnages vivent des péripéties extraordinaires. Ces récits stimulent l'imagination et le goût du risque chez les jeunes lecteurs, tout en leur faisant découvrir des univers variés.",
+        "titre": "Récits d'aventure",
+        "explication": "Les récits d'aventure racontent des histoires palpitantes où les personnages vivent des péripéties extraordinaires. Ces récits stimulent l'imagination et le goût du risque chez les jeunes lecteurs, tout en leur faisant découvrir des univers variés.",
         "references": [
-          { "titre": "Les Malheurs de Sophie", "auteur": "Comtesse de Ségur" },
-          { "titre": "Matilda", "auteur": "Roald Dahl" }
+          { "oeuvre": "Les Malheurs de Sophie", "auteur": "Comtesse de Ségur" },
+          { "oeuvre": "Matilda", "auteur": "Roald Dahl" }
         ]
       },
       {
-        "title": "Poésie",
-        "text": "La poésie permet aux enfants de découvrir le plaisir des mots, des sons et des rythmes. Elle favorise le développement du langage, de la créativité et de l'expression personnelle.",
+        "titre": "Poésie",
+        "explication": "La poésie permet aux enfants de découvrir le plaisir des mots, des sons et des rythmes. Elle favorise le développement du langage, de la créativité et de l'expression personnelle.",
         "references": [
-          { "titre": "Liberté", "auteur": "Paul Éluard" }
+          { "oeuvre": "Liberté", "auteur": "Paul Éluard" }
         ]
       },
       {
-        "title": "Théâtre",
-        "text": "Le théâtre propose des pièces adaptées aux enfants, mettant en scène des histoires captivantes et des personnages attachants. Ces œuvres permettent aux jeunes lecteurs de découvrir l'art dramatique tout en développant leur imagination et leur sens de l'écoute.",
+        "titre": "Théâtre",
+        "explication": "Le théâtre propose des pièces adaptées aux enfants, mettant en scène des histoires captivantes et des personnages attachants. Ces œuvres permettent aux jeunes lecteurs de découvrir l'art dramatique tout en développant leur imagination et leur sens de l'écoute.",
         "references": [
-          { "titre": "Le Médecin volant", "auteur": "Molière" }
+          { "oeuvre": "Le Médecin volant", "auteur": "Molière" }
         ]
       }
     ]
   },
 
   {
-    "level": "CM1",
+    "classe": "CM1",
     "notions": [
       {
-        "title": "Mythologie et récits fondateurs",
-        "text": "Les mythes et récits fondateurs sont des histoires anciennes qui expliquent les origines du monde, des peuples ou des valeurs fondamentales. Ils mettent en scène des héros, des dieux et des événements extraordinaires, offrant aux enfants une compréhension des racines culturelles et des croyances.",
+        "titre": "Mythologie et récits fondateurs",
+        "explication": "Les mythes et récits fondateurs sont des histoires anciennes qui expliquent les origines du monde, des peuples ou des valeurs fondamentales. Ils mettent en scène des héros, des dieux et des événements extraordinaires, offrant aux enfants une compréhension des racines culturelles et des croyances.",
         "references": [
-          { "titre": "L'Odyssée (extraits)", "auteur": "Homère" },
-          { "titre": "Les Métamorphoses (extraits)", "auteur": "Ovide" }
+          { "oeuvre": "L'Odyssée (extraits)", "auteur": "Homère" },
+          { "oeuvre": "Les Métamorphoses (extraits)", "auteur": "Ovide" }
         ]
       },
       {
-        "title": "Récits historiques",
-        "text": "Les récits historiques racontent des événements passés, souvent basés sur des faits réels. Ils permettent aux enfants de mieux comprendre l'histoire, les sociétés et les enjeux du passé, tout en développant leur esprit critique.",
+        "titre": "Récits historiques",
+        "explication": "Les récits historiques racontent des événements passés, souvent basés sur des faits réels. Ils permettent aux enfants de mieux comprendre l'histoire, les sociétés et les enjeux du passé, tout en développant leur esprit critique.",
         "references": [
-          { "titre": "La Guerre des Gaules (adaptations jeunesse)", "auteur": "Jules César" },
-          { "titre": "Le Journal d'Anne Frank (extraits)", "auteur": "Anne Frank" }
+          { "oeuvre": "La Guerre des Gaules (adaptations jeunesse)", "auteur": "Jules César" },
+          { "oeuvre": "Le Journal d'Anne Frank (extraits)", "auteur": "Anne Frank" }
         ]
       },
       {
-        "title": "Récits d'aventure",
-        "text": "Les récits d'aventure racontent des histoires palpitantes où les personnages vivent des péripéties extraordinaires. Ces récits stimulent l'imagination et le goût du risque chez les jeunes lecteurs, tout en leur faisant découvrir des univers variés.",
+        "titre": "Récits d'aventure",
+        "explication": "Les récits d'aventure racontent des histoires palpitantes où les personnages vivent des péripéties extraordinaires. Ces récits stimulent l'imagination et le goût du risque chez les jeunes lecteurs, tout en leur faisant découvrir des univers variés.",
         "references": [
-          { "titre": "Le Livre de la Jungle", "auteur": "Rudyard Kipling" },
-          { "titre": "Le Tour du monde en 80 jours", "auteur": "Jules Verne" }
+          { "oeuvre": "Le Livre de la Jungle", "auteur": "Rudyard Kipling" },
+          { "oeuvre": "Le Tour du monde en 80 jours", "auteur": "Jules Verne" }
         ]
       },
       {
-        "title": "Contes et merveilles",
-        "text": "Les contes et récits du patrimoine sont des histoires transmises de génération en génération, souvent ancrées dans la culture et l'histoire d'un peuple. Ils permettent aux enfants de découvrir leur héritage culturel tout en développant leur imagination.",
+        "titre": "Contes et merveilles",
+        "explication": "Les contes et récits du patrimoine sont des histoires transmises de génération en génération, souvent ancrées dans la culture et l'histoire d'un peuple. Ils permettent aux enfants de découvrir leur héritage culturel tout en développant leur imagination.",
         "references": [
-          { "titre": "Les Mille et une nuits (extraits)", "auteur": "Contes orientaux" }
+          { "oeuvre": "Les Mille et une nuits (extraits)", "auteur": "Contes orientaux" }
         ]
       },
       {
-        "title": "Poésie",
-        "text": "La poésie permet aux enfants de découvrir le plaisir des mots, des sons et des rythmes. Elle favorise le développement du langage, de la créativité et de l'expression personnelle.",
+        "titre": "Poésie",
+        "explication": "La poésie permet aux enfants de découvrir le plaisir des mots, des sons et des rythmes. Elle favorise le développement du langage, de la créativité et de l'expression personnelle.",
         "references": [
-          { "titre": "Clair de Lune", "auteur": "Paul Verlaine" }
+          { "oeuvre": "Clair de Lune", "auteur": "Paul Verlaine" }
         ]
       },
       {
-        "title": "Théâtre",
+        "titre": "Théâtre",
         "references": [
-          { "titre": "Le Bourgeois gentilhomme (extraits)", "auteur": "Molière" }
+          { "oeuvre": "Le Bourgeois gentilhomme (extraits)", "auteur": "Molière" }
         ]
       }
     ]
   },
 
   {
-    "level": "CM2",
+    "classe": "CM2",
     "notions": [
       {
-        "title": "Mythologie et grands récits du patrimoine",
-        "text": "Les mythes et grands récits du patrimoine sont des histoires anciennes qui expliquent les origines du monde, des peuples ou des valeurs fondamentales. Ils mettent en scène des héros, des dieux et des événements extraordinaires, offrant aux enfants une compréhension des racines culturelles et des croyances.",
+        "titre": "Mythologie et grands récits du patrimoine",
+        "explication": "Les mythes et grands récits du patrimoine sont des histoires anciennes qui expliquent les origines du monde, des peuples ou des valeurs fondamentales. Ils mettent en scène des héros, des dieux et des événements extraordinaires, offrant aux enfants une compréhension des racines culturelles et des croyances.",
         "references": [
-          { "titre": "Le Mythe de Sisyphe", "auteur": "Mythologie grecque" },
-          { "titre": "L'Enéide (extraits)", "auteur": "Virgile" }
+          { "oeuvre": "Le Mythe de Sisyphe", "auteur": "Mythologie grecque" },
+          { "oeuvre": "L'Enéide (extraits)", "auteur": "Virgile" }
         ]
       },
       {
-        "title": "Récits historiques et mémoriels",
-        "text": "Les récits historiques et mémoriels racontent des événements passés, souvent basés sur des faits réels. Ils permettent aux enfants de mieux comprendre l'histoire, les sociétés et les enjeux du passé, tout en développant leur esprit critique.",
+        "titre": "Récits historiques et mémoriels",
+        "explication": "Les récits historiques et mémoriels racontent des événements passés, souvent basés sur des faits réels. Ils permettent aux enfants de mieux comprendre l'histoire, les sociétés et les enjeux du passé, tout en développant leur esprit critique.",
         "references": [
-          { "titre": "La Case de l'Oncle Tom", "auteur": "Harriet Beecher Stowe" },
-          { "titre": "Le Journal d'un enfant de la Résistance (BD)", "auteur": "Dugomier & Ers" }
+          { "oeuvre": "La Case de l'Oncle Tom", "auteur": "Harriet Beecher Stowe" },
+          { "oeuvre": "Le Journal d'un enfant de la Résistance (BD)", "auteur": "Dugomier & Ers" }
         ]
       },
       {
-        "title": "Récits d'aventure",
-        "text": "Les récits d'aventure racontent des histoires palpitantes où les personnages vivent des péripéties extraordinaires. Ces récits stimulent l'imagination et le goût du risque chez les jeunes lecteurs, tout en leur faisant découvrir des univers variés.",
+        "titre": "Récits d'aventure",
+        "explication": "Les récits d'aventure racontent des histoires palpitantes où les personnages vivent des péripéties extraordinaires. Ces récits stimulent l'imagination et le goût du risque chez les jeunes lecteurs, tout en leur faisant découvrir des univers variés.",
         "references": [
-          { "titre": "L'Île au trésor", "auteur": "Robert Louis Stevenson" },
-          { "titre": "Robinson Crusoé", "auteur": "Daniel Defoe" }
+          { "oeuvre": "L'Île au trésor", "auteur": "Robert Louis Stevenson" },
+          { "oeuvre": "Robinson Crusoé", "auteur": "Daniel Defoe" }
         ]
       },
       {
-        "title": "Fictions pour interroger le réel",
-        "text": "Les fictions pour interroger le réel sont des récits qui utilisent l'imaginaire pour explorer des questions et des problématiques du monde réel. Ils permettent aux enfants de réfléchir sur des thèmes importants tout en stimulant leur créativité et leur esprit critique.",
+        "titre": "Fictions pour interroger le réel",
+        "explication": "Les fictions pour interroger le réel sont des récits qui utilisent l'imaginaire pour explorer des questions et des problématiques du monde réel. Ils permettent aux enfants de réfléchir sur des thèmes importants tout en stimulant leur créativité et leur esprit critique.",
         "references": [
-          { "titre": "Le Passe-Miroir (extraits)", "auteur": "Christelle Dabos" }
+          { "oeuvre": "Le Passe-Miroir (extraits)", "auteur": "Christelle Dabos" }
         ]
       },
       {
-        "title": "Poésie",
-        "text": "La poésie permet aux enfants de découvrir le plaisir des mots, des sons et des rythmes. Elle favorise le développement du langage, de la créativité et de l'expression personnelle.",
+        "titre": "Poésie",
+        "explication": "La poésie permet aux enfants de découvrir le plaisir des mots, des sons et des rythmes. Elle favorise le développement du langage, de la créativité et de l'expression personnelle.",
         "references": [
-          { "titre": "Liberté", "auteur": "Paul Éluard" },
-          { "titre": "Demain, dès l'aube", "auteur": "Victor Hugo" }
+          { "oeuvre": "Liberté", "auteur": "Paul Éluard" },
+          { "oeuvre": "Demain, dès l'aube", "auteur": "Victor Hugo" }
         ]
       },
       {
-        "title": "Théâtre",
-        "text": "Le théâtre propose des pièces adaptées aux enfants, mettant en scène des histoires captivantes et des personnages attachants. Ces œuvres permettent aux jeunes lecteurs de découvrir l'art dramatique tout en développant leur imagination et leur sens de l'écoute.",
+        "titre": "Théâtre",
+        "explication": "Le théâtre propose des pièces adaptées aux enfants, mettant en scène des histoires captivantes et des personnages attachants. Ces œuvres permettent aux jeunes lecteurs de découvrir l'art dramatique tout en développant leur imagination et leur sens de l'écoute.",
         "references": [
-          { "titre": "Le Malade imaginaire (extraits)", "auteur": "Molière" }
+          { "oeuvre": "Le Malade imaginaire (extraits)", "auteur": "Molière" }
         ]
       }
     ]
   },
   {
-    "level": "6e",
+    "classe": "6e",
     "notions": [
       {
-        "title": "Créer, recréer le monde : récit des origines",
-        "text": "Les récits des origines, qu'ils soient mythologiques ou religieux, cherchent à expliquer la création du monde et de l'humanité. Ils mettent en scène des divinités, des forces naturelles et des événements extraordinaires pour illustrer ces débuts. Ces récits reflètent les croyances et les valeurs des cultures qui les ont produits, offrant ainsi une vision du monde et de la place de l'homme dans celui-ci.",
+        "titre": "Créer, recréer le monde : récit des origines",
+        "explication": "Les récits des origines, qu'ils soient mythologiques ou religieux, cherchent à expliquer la création du monde et de l'humanité. Ils mettent en scène des divinités, des forces naturelles et des événements extraordinaires pour illustrer ces débuts. Ces récits reflètent les croyances et les valeurs des cultures qui les ont produits, offrant ainsi une vision du monde et de la place de l'homme dans celui-ci.",
         "references": [
-          { "titre": "Les Métamorphoses (extraits)", "auteur": "Ovide" },
-          { "titre": "Mythes grecs pour les petits", "auteur": "Collectif" },
-          { "titre": "Récits des temps mythiques (version jeunesse)", "auteur": "Claude Lévi-Strauss" },
-          { "titre": "La Genèse (extraits)", "auteur": "Texte traditionnel" }
+          { "oeuvre": "Les Métamorphoses (extraits)", "auteur": "Ovide" },
+          { "oeuvre": "Mythes grecs pour les petits", "auteur": "Collectif" },
+          { "oeuvre": "Récits des temps mythiques (version jeunesse)", "auteur": "Claude Lévi-Strauss" },
+          { "oeuvre": "La Genèse (extraits)", "auteur": "explicatione traditionnel" }
         ]
       },
       {
-        "title": "Chanter et enchanter le monde : mots et merveilles",
-        "text": "Les récits merveilleux transportent les lecteurs dans des univers fantastiques où l'imaginaire règne en maître. Ils mettent en scène des personnages extraordinaires, des créatures magiques et des aventures hors du commun. Ces histoires invitent à la rêverie et à l'évasion, tout en véhiculant souvent des leçons morales ou des réflexions sur la condition humaine.",
+        "titre": "Chanter et enchanter le monde : mots et merveilles",
+        "explication": "Les récits merveilleux transportent les lecteurs dans des univers fantastiques où l'imaginaire règne en maître. Ils mettent en scène des personnages extraordinaires, des créatures magiques et des aventures hors du commun. Ces histoires invitent à la rêverie et à l'évasion, tout en véhiculant souvent des leçons morales ou des réflexions sur la condition humaine.",
         "references": [
-          { "titre": "Contes", "auteur": "Charles Perrault" },
-          { "titre": "Contes", "auteur": "H. C. Andersen" },
-          { "titre": "Le Magicien d'Oz", "auteur": "L. Frank Baum" },
-          { "titre": "Les Mille et Une Nuits (extraits)", "auteur": "Tradition arabe" }
+          { "oeuvre": "Contes", "auteur": "Charles Perrault" },
+          { "oeuvre": "Contes", "auteur": "H. C. Andersen" },
+          { "oeuvre": "Le Magicien d'Oz", "auteur": "L. Frank Baum" },
+          { "oeuvre": "Les Mille et Une Nuits (extraits)", "auteur": "Tradition arabe" }
         ]
       },
       {
-        "title": "Se masquer, jouer, déjouer : ruses en action",
-        "text": "Les récits de ruses mettent en avant des personnages qui utilisent leur intelligence, leur astuce et leur ingéniosité pour surmonter des obstacles, tromper des adversaires ou atteindre leurs objectifs. Ces histoires célèbrent la créativité et la débrouillardise, tout en soulignant souvent les valeurs de courage et de persévérance.",
+        "titre": "Se masquer, jouer, déjouer : ruses en action",
+        "explication": "Les récits de ruses mettent en avant des personnages qui utilisent leur intelligence, leur astuce et leur ingéniosité pour surmonter des obstacles, tromper des adversaires ou atteindre leurs objectifs. Ces histoires célèbrent la créativité et la débrouillardise, tout en soulignant souvent les valeurs de courage et de persévérance.",
         "references": [
-          { "titre": "Le Médecin malgré lui", "auteur": "Molière" },
-          { "titre": "Les Fourberies de Scapin", "auteur": "Molière" },
-          { "titre": "Le Petit Chaperon rouge", "auteur": "Joël Pommerat" },
-          { "titre": "Le Roman de Renart", "auteur": "Anonyme médiéval" },
-          { "titre": "Fables (Le Corbeau et le Renard…)", "auteur": "La Fontaine" },
-          { "titre": "Pinocchio", "auteur": "Carlo Collodi" }
+          { "oeuvre": "Le Médecin malgré lui", "auteur": "Molière" },
+          { "oeuvre": "Les Fourberies de Scapin", "auteur": "Molière" },
+          { "oeuvre": "Le Petit Chaperon rouge", "auteur": "Joël Pommerat" },
+          { "oeuvre": "Le Roman de Renart", "auteur": "Anonyme médiéval" },
+          { "oeuvre": "Fables (Le Corbeau et le Renard…)", "auteur": "La Fontaine" },
+          { "oeuvre": "Pinocchio", "auteur": "Carlo Collodi" }
         ]
       },
       {
-        "title": "Partir à l'aventure !",
-        "text": "Les récits d'aventure racontent les périples de héros et d'héroïnes qui quittent leur quotidien pour explorer des territoires inconnus, affronter des dangers et vivre des expériences extraordinaires. Ces histoires mettent en avant le courage, la curiosité et la soif de découverte, tout en offrant aux lecteurs une évasion passionnante.",
+        "titre": "Partir à l'aventure !",
+        "explication": "Les récits d'aventure racontent les périples de héros et d'héroïnes qui quittent leur quotidien pour explorer des territoires inconnus, affronter des dangers et vivre des expériences extraordinaires. Ces histoires mettent en avant le courage, la curiosité et la soif de découverte, tout en offrant aux lecteurs une évasion passionnante.",
         "references": [
-          { "titre": "Croc-Blanc", "auteur": "Jack London" },
-          { "titre": "L'Appel de la forêt", "auteur": "Jack London" },
-          { "titre": "La Rivière à l'envers", "auteur": "Jean-Claude Mourlevat" },
-          { "titre": "Vendredi ou la Vie sauvage", "auteur": "Michel Tournier" },
-          { "titre": "L'Île au trésor", "auteur": "R. L. Stevenson" },
-          { "titre": "Le Livre de la jungle", "auteur": "Rudyard Kipling" },
-          { "titre": "Le Tour du monde en 80 jours", "auteur": "Jules Verne" },
-          { "titre": "Tobie Lolness", "auteur": "Timothée de Fombelle" }
+          { "oeuvre": "Croc-Blanc", "auteur": "Jack London" },
+          { "oeuvre": "L'Appel de la forêt", "auteur": "Jack London" },
+          { "oeuvre": "La Rivière à l'envers", "auteur": "Jean-Claude Mourlevat" },
+          { "oeuvre": "Vendredi ou la Vie sauvage", "auteur": "Michel Tournier" },
+          { "oeuvre": "L'Île au trésor", "auteur": "R. L. Stevenson" },
+          { "oeuvre": "Le Livre de la jungle", "auteur": "Rudyard Kipling" },
+          { "oeuvre": "Le Tour du monde en 80 jours", "auteur": "Jules Verne" },
+          { "oeuvre": "Tobie Lolness", "auteur": "Timothée de Fombelle" }
         ]
       },
       {
-        "title": "Rencontrer des monstres : expérience de l'autre, expérience de soi",
-        "text": "Les récits mettant en scène des monstres explorent la rencontre avec l'altérité, qu'elle soit effrayante, fascinante ou incomprise. Ces histoires permettent de réfléchir sur la différence, la peur et la tolérance, tout en offrant des aventures captivantes où les héros doivent affronter des créatures extraordinaires.",
+        "titre": "Rencontrer des monstres : expérience de l'autre, expérience de soi",
+        "explication": "Les récits mettant en scène des monstres explorent la rencontre avec l'altérité, qu'elle soit effrayante, fascinante ou incomprise. Ces histoires permettent de réfléchir sur la différence, la peur et la tolérance, tout en offrant des aventures captivantes où les héros doivent affronter des créatures extraordinaires.",
         "references": [
-          { "titre": "L'Odyssée", "auteur": "Homère" },
-          { "titre": "Le Prince Chéri", "auteur": "Mme Leprince de Beaumont" },
-          { "titre": "Beowulf (extraits adaptés)", "auteur": "Anonyme" },
-          { "titre": "Coraline", "auteur": "Neil Gaiman" },
-          { "titre": "La Belle et la Bête", "auteur": "Mme de Villeneuve / Mme Leprince de Beaumont" }
-        ]
-      }
-    ]
-  },
-
-  {
-    "level": "5e",
-    "notions": [
-      {
-        "title": "Se chercher, se construire - Le voyage et l'aventure : pourquoi aller vers l'inconnu ?",
-        "text": "Les récits de voyage et d'aventure mettent en scène des personnages qui quittent leur environnement familier pour explorer des territoires inconnus. Ces histoires soulignent la quête de soi, la découverte de nouvelles cultures et la confrontation à l'inattendu. Elles invitent à réfléchir sur les motivations profondes qui poussent les individus à s'aventurer au-delà de leurs limites.",
-        "references": [
-          { "titre": "Voyage au centre de la Terre", "auteur": "Jules Verne" },
-          { "titre": "L'Odyssée (extraits)", "auteur": "Homère" },
-          { "titre": "Là où vont nos pères", "auteur": "Shaun Tan" },
-          { "titre": "La Quête d'Ewilan", "auteur": "Pierre Bottero" }
-        ]
-      },
-      {
-        "title": "Vivre en société, participer à la société - Avec autrui : famille, amis, réseaux",
-        "text": "Les récits centrés sur la vie en société explorent les relations entre individus au sein de la famille, des amitiés et des réseaux sociaux. Ils mettent en lumière les dynamiques, les conflits et les solidarités qui façonnent la vie collective. Ces histoires invitent à réfléchir sur les valeurs, les responsabilités et les enjeux liés à la coexistence et à la participation sociale.",
-        "references": [
-          { "titre": "Le Petit Prince", "auteur": "Antoine de Saint-Exupéry" },
-          { "titre": "Les Royaumes du Nord", "auteur": "Philip Pullman" },
-          { "titre": "Matilda", "auteur": "Roald Dahl" },
-          { "titre": "Les Misérables (extraits)", "auteur": "Victor Hugo" }
-        ]
-      },
-      {
-        "title": "Regarder le monde, inventer des mondes - Imaginer des univers nouveaux",
-        "text": "Les récits d'imagination créent des univers alternatifs où les règles du réel sont bouleversées. Ces histoires permettent d'explorer des idées novatrices, des sociétés différentes et des possibilités infinies, tout en questionnant notre propre réalité et en stimulant la créativité.",
-        "references": [
-          { "titre": "Le Hobbit", "auteur": "J. R. R. Tolkien" },
-          { "titre": "Fahrenheit 451 (extraits)", "auteur": "Ray Bradbury" },
-          { "titre": "La Passe-miroir (extraits)", "auteur": "Christelle Dabos" },
-          { "titre": "Les Mondes d'Aldébaran (BD)", "auteur": "Léo" }
-        ]
-      },
-      {
-        "title": "Agir sur le monde - Héros / héroïnes et héroïsme",
-        "text": "Les récits mettant en scène des héros et héroïnes explorent les notions de courage, de sacrifice et de dépassement de soi. Ces histoires valorisent les actes héroïques, qu'ils soient grandioses ou quotidiens, et questionnent les différentes formes que peut prendre l'héroïsme.",
-        "references": [
-          { "titre": "Les Travaux d'Hercule", "auteur": "Mythologie grecque" },
-          { "titre": "Robin des Bois", "auteur": "Tradition populaire" },
-          { "titre": "Harry Potter à l'école des sorciers", "auteur": "J. K. Rowling" },
-          { "titre": "Le Vieil Homme et la mer (extraits)", "auteur": "Ernest Hemingway" }
-        ]
-      },
-      {
-        "title": "Questionnements complémentaires - L'être humain est-il maître de la nature ?",
-        "text": "Ces récits questionnent la relation entre l'homme et la nature, explorant les tensions, les conflits et les responsabilités qui en découlent. Ils invitent à réfléchir sur l'impact des actions humaines sur l'environnement et sur les moyens de coexister harmonieusement avec le monde naturel.",
-        "references": [
-          { "titre": "Le Livre de la jungle", "auteur": "Rudyard Kipling" },
-          { "titre": "Les Animaux dénaturés (extraits)", "auteur": "Vercors" },
-          { "titre": "Terrienne", "auteur": "Jean-Claude Mourlevat" },
-          { "titre": "La Planète des singes", "auteur": "Pierre Boulle" }
+          { "oeuvre": "L'Odyssée", "auteur": "Homère" },
+          { "oeuvre": "Le Prince Chéri", "auteur": "Mme Leprince de Beaumont" },
+          { "oeuvre": "Beowulf (extraits adaptés)", "auteur": "Anonyme" },
+          { "oeuvre": "Coraline", "auteur": "Neil Gaiman" },
+          { "oeuvre": "La Belle et la Bête", "auteur": "Mme de Villeneuve / Mme Leprince de Beaumont" }
         ]
       }
     ]
   },
 
   {
-    "level": "4e",
+    "classe": "5e",
     "notions": [
       {
-        "title": "Se chercher, se construire - Dire l'amour",
-        "text": "Les récits explorant le thème de l'amour mettent en lumière les émotions, les relations et les défis liés à ce sentiment universel. Ces histoires abordent les différentes formes d'amour, qu'il soit romantique, familial ou amical, et invitent à réfléchir sur la complexité des liens affectifs.",
+        "titre": "Se chercher, se construire - Le voyage et l'aventure : pourquoi aller vers l'inconnu ?",
+        "explication": "Les récits de voyage et d'aventure mettent en scène des personnages qui quittent leur environnement familier pour explorer des territoires inconnus. Ces histoires soulignent la quête de soi, la découverte de nouvelles cultures et la confrontation à l'inattendu. Elles invitent à réfléchir sur les motivations profondes qui poussent les individus à s'aventurer au-delà de leurs limites.",
         "references": [
-          { "titre": "Les Amours (poèmes choisis)", "auteur": "Ronsard" },
-          { "titre": "Roméo et Juliette (extraits)", "auteur": "Shakespeare" },
-          { "titre": "Le Livre de ma mère (extraits)", "auteur": "Albert Cohen" }
+          { "oeuvre": "Voyage au centre de la Terre", "auteur": "Jules Verne" },
+          { "oeuvre": "L'Odyssée (extraits)", "auteur": "Homère" },
+          { "oeuvre": "Là où vont nos pères", "auteur": "Shaun Tan" },
+          { "oeuvre": "La Quête d'Ewilan", "auteur": "Pierre Bottero" }
         ]
       },
       {
-        "title": "Vivre en société, participer à la société - Individu et société : confrontations de valeurs ?",
-        "text": "Les récits centrés sur les confrontations entre l'individu et la société explorent les tensions, les conflits et les compromis qui en résultent. Ces histoires mettent en lumière les défis auxquels sont confrontés les individus lorsqu'ils cherchent à affirmer leurs valeurs personnelles face aux normes et attentes sociales.",
+        "titre": "Vivre en société, participer à la société - Avec autrui : famille, amis, réseaux",
+        "explication": "Les récits centrés sur la vie en société explorent les relations entre individus au sein de la famille, des amitiés et des réseaux sociaux. Ils mettent en lumière les dynamiques, les conflits et les solidarités qui façonnent la vie collective. Ces histoires invitent à réfléchir sur les valeurs, les responsabilités et les enjeux liés à la coexistence et à la participation sociale.",
         "references": [
-          { "titre": "Candide (extraits)", "auteur": "Voltaire" },
-          { "titre": "Antigone", "auteur": "Anouilh" },
-          { "titre": "Matin brun", "auteur": "Franck Pavloff" },
-          { "titre": "No et moi", "auteur": "Delphine de Vigan" }
+          { "oeuvre": "Le Petit Prince", "auteur": "Antoine de Saint-Exupéry" },
+          { "oeuvre": "Les Royaumes du Nord", "auteur": "Philip Pullman" },
+          { "oeuvre": "Matilda", "auteur": "Roald Dahl" },
+          { "oeuvre": "Les Misérables (extraits)", "auteur": "Victor Hugo" }
         ]
       },
       {
-        "title": "Regarder le monde, inventer des mondes - La fiction pour interroger le réel",
-        "text": "Les récits d'imagination créent des univers alternatifs où les règles du réel sont bouleversées. Ces histoires permettent d'explorer des idées novatrices, des sociétés différentes et des possibilités infinies, tout en questionnant notre propre réalité et en stimulant la créativité.",
+        "titre": "Regarder le monde, inventer des mondes - Imaginer des univers nouveaux",
+        "explication": "Les récits d'imagination créent des univers alternatifs où les règles du réel sont bouleversées. Ces histoires permettent d'explorer des idées novatrices, des sociétés différentes et des possibilités infinies, tout en questionnant notre propre réalité et en stimulant la créativité.",
         "references": [
-          { "titre": "1984 (extraits)", "auteur": "George Orwell" },
-          { "titre": "Le Passeur", "auteur": "Lois Lowry" },
-          { "titre": "La Vague", "auteur": "Todd Strasser" },
-          { "titre": "Des Fleurs pour Algernon (extraits)", "auteur": "Daniel Keyes" }
+          { "oeuvre": "Le Hobbit", "auteur": "J. R. R. Tolkien" },
+          { "oeuvre": "Fahrenheit 451 (extraits)", "auteur": "Ray Bradbury" },
+          { "oeuvre": "La Passe-miroir (extraits)", "auteur": "Christelle Dabos" },
+          { "oeuvre": "Les Mondes d'Aldébaran (BD)", "auteur": "Léo" }
         ]
       },
       {
-        "title": "Agir sur le monde - Informer, s'informer, déformer ?",
-        "text": "Les récits portant sur l'information et la désinformation explorent les enjeux liés à la diffusion des connaissances, à la manipulation de l'information et à la responsabilité des médias. Ces histoires invitent à réfléchir sur l'importance de l'esprit critique et sur les conséquences de la désinformation dans la société contemporaine.",
+        "titre": "Agir sur le monde - Héros / héroïnes et héroïsme",
+        "explication": "Les récits mettant en scène des héros et héroïnes explorent les notions de courage, de sacrifice et de dépassement de soi. Ces histoires valorisent les actes héroïques, qu'ils soient grandioses ou quotidiens, et questionnent les différentes formes que peut prendre l'héroïsme.",
         "references": [
-          { "titre": "La Fabrique du mensonge (extraits)", "auteur": "Collectif" },
-          { "titre": "Articles de presse divers", "auteur": "Collectif" },
-          { "titre": "Les Réseaux sociaux (album documentaire)", "auteur": "Thomas Scotto" }
+          { "oeuvre": "Les Travaux d'Hercule", "auteur": "Mythologie grecque" },
+          { "oeuvre": "Robin des Bois", "auteur": "Tradition populaire" },
+          { "oeuvre": "Harry Potter à l'école des sorciers", "auteur": "J. K. Rowling" },
+          { "oeuvre": "Le Vieil Homme et la mer (extraits)", "auteur": "Ernest Hemingway" }
         ]
       },
       {
-        "title": "Questionnements complémentaires - La ville, lieu de tous les possibles ?",
-        "text": "Les récits centrés sur la ville explorent les multiples facettes de cet espace complexe, où se mêlent diversité culturelle, dynamisme économique et défis sociaux. Ces histoires mettent en lumière les opportunités offertes par la vie urbaine, tout en questionnant les inégalités, la pollution et les tensions qui peuvent y régner.",
+        "titre": "Questionnements complémentaires - L'être humain est-il maître de la nature ?",
+        "explication": "Ces récits questionnent la relation entre l'homme et la nature, explorant les tensions, les conflits et les responsabilités qui en découlent. Ils invitent à réfléchir sur l'impact des actions humaines sur l'environnement et sur les moyens de coexister harmonieusement avec le monde naturel.",
         "references": [
-          { "titre": "Zazie dans le métro (extraits)", "auteur": "Raymond Queneau" },
-          { "titre": "Les Cités obscures (BD)", "auteur": "Schuiten & Peeters" },
-          { "titre": "Métropolis (extraits)", "auteur": "Fritz Lang" }
+          { "oeuvre": "Le Livre de la jungle", "auteur": "Rudyard Kipling" },
+          { "oeuvre": "Les Animaux dénaturés (extraits)", "auteur": "Vercors" },
+          { "oeuvre": "Terrienne", "auteur": "Jean-Claude Mourlevat" },
+          { "oeuvre": "La Planète des singes", "auteur": "Pierre Boulle" }
         ]
       }
     ]
   },
 
   {
-    "level": "3e",
+    "classe": "4e",
     "notions": [
       {
-        "title": "Se chercher, se construire – Se raconter, se représenter",
-        "text": "Les récits explorant le thème de l'identité et de la construction de soi mettent en lumière les parcours personnels, les questionnements et les transformations des individus. Ces histoires invitent à réfléchir sur la manière dont chacun se construit et se raconte à travers ses expériences et ses choix.",
+        "titre": "Se chercher, se construire - Dire l'amour",
+        "explication": "Les récits explorant le thème de l'amour mettent en lumière les émotions, les relations et les défis liés à ce sentiment universel. Ces histoires abordent les différentes formes d'amour, qu'il soit romantique, familial ou amical, et invitent à réfléchir sur la complexité des liens affectifs.",
         "references": [
-          { "titre": "Mémoires d'une jeune fille rangée (extraits)", "auteur": "Simone de Beauvoir" },
-          { "titre": "Vipère au poing", "auteur": "Hervé Bazin" },
-          { "titre": "Journal d'Anne Frank (extraits)", "auteur": "Anne Frank" },
-          { "titre": "L'Arabe du futur (extraits)", "auteur": "Riad Sattouf" }
+          { "oeuvre": "Les Amours (poèmes choisis)", "auteur": "Ronsard" },
+          { "oeuvre": "Roméo et Juliette (extraits)", "auteur": "Shakespeare" },
+          { "oeuvre": "Le Livre de ma mère (extraits)", "auteur": "Albert Cohen" }
         ]
       },
       {
-        "title": "Vivre en société, participer à la société – Dénoncer les travers de la société",
-        "text": "Les récits engagés mettent en lumière les injustices, les inégalités et les dysfonctionnements de la société. Ces histoires invitent à la réflexion critique et à la prise de conscience des enjeux sociaux, tout en valorisant l'engagement individuel et collectif pour un monde meilleur.",
+        "titre": "Vivre en société, participer à la société - Individu et société : confrontations de valeurs ?",
+        "explication": "Les récits centrés sur les confrontations entre l'individu et la société explorent les tensions, les conflits et les compromis qui en résultent. Ces histoires mettent en lumière les défis auxquels sont confrontés les individus lorsqu'ils cherchent à affirmer leurs valeurs personnelles face aux normes et attentes sociales.",
         "references": [
-          { "titre": "Les Lettres persanes (extraits)", "auteur": "Montesquieu" },
-          { "titre": "Germinal (extraits)", "auteur": "Émile Zola" },
-          { "titre": "La Ferme des animaux", "auteur": "George Orwell" },
-          { "titre": "Matin brun", "auteur": "Franck Pavloff" }
+          { "oeuvre": "Candide (extraits)", "auteur": "Voltaire" },
+          { "oeuvre": "Antigone", "auteur": "Anouilh" },
+          { "oeuvre": "Matin brun", "auteur": "Franck Pavloff" },
+          { "oeuvre": "No et moi", "auteur": "Delphine de Vigan" }
         ]
       },
       {
-        "title": "Regarder le monde, inventer des mondes - Visions poétiques du monde",
-        "text": "Les récits d'imagination créent des univers alternatifs où les règles du réel sont bouleversées. Ces histoires permettent d'explorer des idées novatrices, des sociétés différentes et des possibilités infinies, tout en questionnant notre propre réalité et en stimulant la créativité.",
+        "titre": "Regarder le monde, inventer des mondes - La fiction pour interroger le réel",
+        "explication": "Les récits d'imagination créent des univers alternatifs où les règles du réel sont bouleversées. Ces histoires permettent d'explorer des idées novatrices, des sociétés différentes et des possibilités infinies, tout en questionnant notre propre réalité et en stimulant la créativité.",
         "references": [
-          { "titre": "Poèmes choisis", "auteur": "Prévert" },
-          { "titre": "Poèmes choisis", "auteur": "Éluard" },
-          { "titre": "Le Parti pris des choses (extraits)", "auteur": "Francis Ponge" },
-          { "titre": "Le Petit Prince (chapitres poétiques)", "auteur": "Antoine de Saint-Exupéry" }
+          { "oeuvre": "1984 (extraits)", "auteur": "George Orwell" },
+          { "oeuvre": "Le Passeur", "auteur": "Lois Lowry" },
+          { "oeuvre": "La Vague", "auteur": "Todd Strasser" },
+          { "oeuvre": "Des Fleurs pour Algernon (extraits)", "auteur": "Daniel Keyes" }
         ]
       },
       {
-        "title": "Agir sur le monde - Agir dans la cité : individu et pouvoir",
-        "text": "Les récits centrés sur le pouvoir et la citoyenneté explorent les relations entre les individus et les structures de pouvoir au sein de la société. Ces histoires mettent en lumière les enjeux liés à l'autorité, à la justice et à la participation citoyenne, tout en invitant à réfléchir sur les responsabilités et les droits de chacun dans la vie collective.",
+        "titre": "Agir sur le monde - Informer, s'informer, déformer ?",
+        "explication": "Les récits portant sur l'information et la désinformation explorent les enjeux liés à la diffusion des connaissances, à la manipulation de l'information et à la responsabilité des médias. Ces histoires invitent à réfléchir sur l'importance de l'esprit critique et sur les conséquences de la désinformation dans la société contemporaine.",
         "references": [
-          { "titre": "Discours de la servitude volontaire (extraits)", "auteur": "La Boétie" },
-          { "titre": "On", "auteur": "Olivier de Solminihac" },
-          { "titre": "Le Dernier Jour d'un condamné", "auteur": "Victor Hugo" },
-          { "titre": "Fahrenheit 451 (extraits)", "auteur": "Ray Bradbury" }
+          { "oeuvre": "La Fabrique du mensonge (extraits)", "auteur": "Collectif" },
+          { "oeuvre": "Articles de presse divers", "auteur": "Collectif" },
+          { "oeuvre": "Les Réseaux sociaux (album documentaire)", "auteur": "Thomas Scotto" }
         ]
       },
       {
-        "title": "Questionnements complémentaires - Progrès et rêves scientifiques",
-        "text": "Les récits explorant les progrès scientifiques et technologiques mettent en lumière les avancées, les espoirs et les défis liés à la science. Ces histoires invitent à réfléchir sur l'impact des découvertes scientifiques sur la société, la morale et l'avenir de l'humanité.",
+        "titre": "Questionnements complémentaires - La ville, lieu de tous les possibles ?",
+        "explication": "Les récits centrés sur la ville explorent les multiples facettes de cet espace complexe, où se mêlent diversité culturelle, dynamisme économique et défis sociaux. Ces histoires mettent en lumière les opportunités offertes par la vie urbaine, tout en questionnant les inégalités, la pollution et les tensions qui peuvent y régner.",
         "references": [
-          { "titre": "La Nuit des temps (extraits)", "auteur": "René Barjavel" },
-          { "titre": "Le Meilleur des mondes (extraits)", "auteur": "Aldous Huxley" },
-          { "titre": "Les Robots (nouvelles)", "auteur": "Isaac Asimov" },
-          { "titre": "Frankenstein (extraits)", "auteur": "Mary Shelley" }
-        ]
-      }
-    ]
-  },
-  {
-    "level": "2nde",
-    "notions": [
-      {
-        "title": "La littérature d’idées du XVIe siècle au XVIIIe siècle",
-        "references": [
-          { "titre": "Discours de la méthode", "auteur": "René Descartes" },
-          { "titre": "Lettres persanes", "auteur": "Montesquieu" }
-        ]
-      },
-      {
-        "title": "La poésie du XIXe au XXIe siècle",
-        "references": [
-          { "titre": "Les Fleurs du mal (extraits)", "auteur": "Charles Baudelaire" },
-          { "titre": "Alcools (extraits)", "auteur": "Guillaume Apollinaire" }
-        ]
-      },
-      {
-        "title": "Le roman et le récit du XVIIIe au XXIe siècle",
-        "references": [
-          { "titre": "Manon Lescaut", "auteur": "Abbé Prévost" },
-          { "titre": "La Peste", "auteur": "Albert Camus" }
-        ]
-      },
-      {
-        "title": "Le théâtre du XVIIe au XXIe siècle",
-        "references": [
-          { "titre": "Phèdre", "auteur": "Jean Racine" },
-          { "titre": "En attendant Godot", "auteur": "Samuel Beckett" }
+          { "oeuvre": "Zazie dans le métro (extraits)", "auteur": "Raymond Queneau" },
+          { "oeuvre": "Les Cités obscures (BD)", "auteur": "Schuiten & Peeters" },
+          { "oeuvre": "Métropolis (extraits)", "auteur": "Fritz Lang" }
         ]
       }
     ]
   },
 
   {
-    "level": "1ère Générale",
+    "classe": "3e",
     "notions": [
       {
-        "title": "La poésie du Moyen Âge au XIXe siècle",
+        "titre": "Se chercher, se construire – Se raconter, se représenter",
+        "explication": "Les récits explorant le thème de l'identité et de la construction de soi mettent en lumière les parcours personnels, les questionnements et les transformations des individus. Ces histoires invitent à réfléchir sur la manière dont chacun se construit et se raconte à travers ses expériences et ses choix.",
         "references": [
-          { "titre": "Les Contemplations", "auteur": "Victor Hugo" },
-          { "titre": "Les Regrets (extraits)", "auteur": "Joachim Du Bellay" }
+          { "oeuvre": "Mémoires d'une jeune fille rangée (extraits)", "auteur": "Simone de Beauvoir" },
+          { "oeuvre": "Vipère au poing", "auteur": "Hervé Bazin" },
+          { "oeuvre": "Journal d'Anne Frank (extraits)", "auteur": "Anne Frank" },
+          { "oeuvre": "L'Arabe du futur (extraits)", "auteur": "Riad Sattouf" }
         ]
       },
       {
-        "title": "La littérature d’idées du XVIe au XVIIIe siècle",
+        "titre": "Vivre en société, participer à la société – Dénoncer les travers de la société",
+        "explication": "Les récits engagés mettent en lumière les injustices, les inégalités et les dysfonctionnements de la société. Ces histoires invitent à la réflexion critique et à la prise de conscience des enjeux sociaux, tout en valorisant l'engagement individuel et collectif pour un monde meilleur.",
         "references": [
-          { "titre": "Les Essais (extraits)", "auteur": "Montaigne" },
-          { "titre": "Dictionnaire philosophique (extraits)", "auteur": "Voltaire" }
+          { "oeuvre": "Les Lettres persanes (extraits)", "auteur": "Montesquieu" },
+          { "oeuvre": "Germinal (extraits)", "auteur": "Émile Zola" },
+          { "oeuvre": "La Ferme des animaux", "auteur": "George Orwell" },
+          { "oeuvre": "Matin brun", "auteur": "Franck Pavloff" }
         ]
       },
       {
-        "title": "Le roman et le récit du XIXe au XXIe siècle",
+        "titre": "Regarder le monde, inventer des mondes - Visions poétiques du monde",
+        "explication": "Les récits d'imagination créent des univers alternatifs où les règles du réel sont bouleversées. Ces histoires permettent d'explorer des idées novatrices, des sociétés différentes et des possibilités infinies, tout en questionnant notre propre réalité et en stimulant la créativité.",
         "references": [
-          { "titre": "Madame Bovary", "auteur": "Gustave Flaubert" },
-          { "titre": "L’Étranger", "auteur": "Albert Camus" }
+          { "oeuvre": "Poèmes choisis", "auteur": "Prévert" },
+          { "oeuvre": "Poèmes choisis", "auteur": "Éluard" },
+          { "oeuvre": "Le Parti pris des choses (extraits)", "auteur": "Francis Ponge" },
+          { "oeuvre": "Le Petit Prince (chapitres poétiques)", "auteur": "Antoine de Saint-Exupéry" }
         ]
       },
       {
-        "title": "Le théâtre du XVIIe au XXIe siècle",
+        "titre": "Agir sur le monde - Agir dans la cité : individu et pouvoir",
+        "explication": "Les récits centrés sur le pouvoir et la citoyenneté explorent les relations entre les individus et les structures de pouvoir au sein de la société. Ces histoires mettent en lumière les enjeux liés à l'autorité, à la justice et à la participation citoyenne, tout en invitant à réfléchir sur les responsabilités et les droits de chacun dans la vie collective.",
         "references": [
-          { "titre": "Le Misanthrope", "auteur": "Molière" },
-          { "titre": "Lorenzaccio", "auteur": "Alfred de Musset" }
+          { "oeuvre": "Discours de la servitude volontaire (extraits)", "auteur": "La Boétie" },
+          { "oeuvre": "On", "auteur": "Olivier de Solminihac" },
+          { "oeuvre": "Le Dernier Jour d'un condamné", "auteur": "Victor Hugo" },
+          { "oeuvre": "Fahrenheit 451 (extraits)", "auteur": "Ray Bradbury" }
+        ]
+      },
+      {
+        "titre": "Questionnements complémentaires - Progrès et rêves scientifiques",
+        "explication": "Les récits explorant les progrès scientifiques et technologiques mettent en lumière les avancées, les espoirs et les défis liés à la science. Ces histoires invitent à réfléchir sur l'impact des découvertes scientifiques sur la société, la morale et l'avenir de l'humanité.",
+        "references": [
+          { "oeuvre": "La Nuit des temps (extraits)", "auteur": "René Barjavel" },
+          { "oeuvre": "Le Meilleur des mondes (extraits)", "auteur": "Aldous Huxley" },
+          { "oeuvre": "Les Robots (nouvelles)", "auteur": "Isaac Asimov" },
+          { "oeuvre": "Frankenstein (extraits)", "auteur": "Mary Shelley" }
         ]
       }
     ]
   },
-
   {
-    "level": "1ère Technologique",
-    "notions": [
+  "classe": "2nde",
+  "notions": [
+    {
+      "titre": "La littérature d'idées et la presse du XIXe au XXIe siècle",
+      "explication": "Cette notion explore l'évolution de la littérature d'idées et du journalisme depuis le XIXe siècle jusqu'à nos jours. Elle met en lumière le rôle des écrivains et des journalistes dans la société, leur influence sur l'opinion publique, ainsi que les débats et les enjeux sociaux, politiques et culturels qu'ils abordent à travers leurs œuvres.",
+      "references": [
+        { "oeuvre": "Dictionnaire philosophique", "auteur": "Voltaire" },
+        { "oeuvre": "Discours de la servitude volontaire", "auteur": "Étienne de La Boétie" },
+        { "oeuvre": "Déclaration des droits de la femme et de la citoyenne", "auteur": "Olympe de Gouges" },
+        { "oeuvre": "Lettre à d'Alembert sur les spectacles", "auteur": "Jean-Jacques Rousseau" }
+      ]
+    },
+    {
+      "titre": "Le roman et le récit du Moyen Âge au XXIe siècle",
+      "references": [
+        { "oeuvre": "Le Comte de Monte-Cristo", "auteur": "Alexandre Dumas" },
+        { "oeuvre": "Notre-Dame de Paris", "auteur": "Victor Hugo" },
+        { "oeuvre": "1984", "auteur": "George Orwell" },
+        { "oeuvre": "Voyage au bout de la nuit", "auteur": "Louis-Ferdinand Céline" }
+      ]
+    },
+    {
+      "titre": "La poésie du XIXe au XXIe siècle",
+      "references": [
+        { "oeuvre": "Les Fleurs du mal", "auteur": "Charles Baudelaire" },
+        { "oeuvre": "Alcools", "auteur": "Guillaume Apollinaire" },
+        { "oeuvre": "Capitale de la douleur", "auteur": "Paul Éluard" },
+        { "oeuvre": "Une Saison en Enfer", "auteur": "Arthur Rimbaud" }
+      ]
+    },
+    {
+      "titre": "Le théâtre du XVIIe au XXIe siècle",
+      "references": [
+        { "oeuvre": "Dom Juan", "auteur": "Molière" },
+        { "oeuvre": "Phèdre", "auteur": "Jean Racine" },
+        { "oeuvre": "En attendant Godot", "auteur": "Samuel Beckett" },
+        { "oeuvre": "Antigone", "auteur": "Jean Anouilh" }
+      ]
+    }
+    ]
+  },
+  {
+  "classe": "1ère",
+  "notions": [
       {
-        "title": "Identité et diversité",
+        "titre": "La poésie du XIXe siècle au XXIe siècle",
+        "explication": "Cette notion explore l'évolution de la poésie française du XIXe siècle à nos jours. Elle met en lumière les différents mouvements poétiques, les thèmes récurrents et les innovations formelles qui ont marqué cette période. Les élèves étudieront des œuvres majeures qui illustrent la richesse et la diversité de la poésie contemporaine.",
         "references": [
-          { "titre": "Le Portrait de Dorian Gray", "auteur": "Oscar Wilde" }
+          { "oeuvre": "Les Fleurs du mal", "auteur": "Charles Baudelaire"},
+          { "oeuvre": "Les Contemplations", "auteur": "Victor Hugo"},
+          { "oeuvre": "Sagesse", "auteur": "Paul Verlaine"},
+          { "oeuvre": "Les Yeux d'Elsa", "auteur": "Louis Aragon"},
+          { "oeuvre": "Mes forêts", "auteur": "Hélène Dorion"}
         ]
       },
       {
-        "title": "Informations, médias et opinions",
+        "titre": "La littérature d'idées du XVIe au XVIIIe siècle",
+        "explication": "Cette notion aborde les grands textes et auteurs qui ont marqué la littérature d'idées entre le XVIe et le XVIIIe siècle, mettant en avant les débats philosophiques, politiques et sociaux de cette période.",
         "references": [
-          { "titre": "1984", "auteur": "George Orwell" }
+          { "oeuvre": "Essais", "auteur": "Montaigne"},
+          { "oeuvre": "Traité sur la tolérance", "auteur": "Voltaire"},
+          { "oeuvre": "Micromégas", "auteur": "Voltaire"},
+          { "oeuvre": "Les Provinciales", "auteur": "Blaise Pascal"}
         ]
       },
       {
-        "title": "L’homme et la nature",
+        "titre": "Le roman et le récit du XVIIIe siècle au XXIe siècle",
+        "explication": "Cette notion explore l'évolution du roman et du récit depuis le XVIIIe siècle jusqu'à nos jours, en mettant en lumière les différents courants littéraires, les thèmes majeurs et les innovations narratives qui ont façonné ce genre.",
         "references": [
-          { "titre": "La Fontaine, Fables (sélection)", "auteur": "Jean de La Fontaine" }
+          { "oeuvre": "Madame Bovary", "auteur": "Gustave Flaubert"},
+          { "oeuvre": "Le Rouge et le Noir", "auteur": "Stendhal"},
+          { "oeuvre": "La Peste", "auteur": "Albert Camus"},
+          { "oeuvre": "La Condition humaine", "auteur": "André Malraux"}
         ]
       },
       {
-        "title": "Éthique et responsabilité",
+        "titre": "Le théâtre du XVIIe au XXIe siècle",
+        "explication": "Cette notion examine l'évolution du théâtre français du XVIIe siècle à nos jours, en mettant en lumière les grands auteurs, les courants dramatiques et les innovations scéniques qui ont marqué cette période.",
         "references": [
-          { "titre": "Antigone", "auteur": "Jean Anouilh" }
+          { "oeuvre": "Le Misanthrope", "auteur": "Molière"},
+          { "oeuvre": "Bérénice", "auteur": "Jean Racine"},
+          { "oeuvre": "Huis clos", "auteur": "Jean-Paul Sartre"},
+          { "oeuvre": "Rhinocéros", "auteur": "Eugène Ionesco"}
         ]
       }
     ]
   },
-
   {
-    "level": "Terminale",
-    "notions": [
+  "classe": "Terminale",
+  "notions": [
       {
-        "title": "La littérature d’idées et le journalisme",
+        "titre": "Littérature et engagement",
+        "explication": "Cette notion explore le rôle de la littérature en tant qu'outil d'engagement social, politique et moral. Elle met en lumière comment les écrivains utilisent leurs œuvres pour dénoncer les injustices, défendre des causes et influencer l'opinion publique à travers les siècles.",
         "references": [
-          { "titre": "Les Justes", "auteur": "Albert Camus" },
-          { "titre": "Indignez-vous !", "auteur": "Stéphane Hessel" }
+          { "oeuvre": "Les Châtiments", "auteur": "Victor Hugo"},
+          { "oeuvre": "La Ferme des animaux", "auteur": "George Orwell"},
+          { "oeuvre": "Les Justes", "auteur": "Albert Camus"},
+          { "oeuvre": "Les Raisins de la colère", "auteur": "John Steinbeck"}
         ]
       },
       {
-        "title": "Les grands débats du monde contemporain",
+        "titre": "Les réécritures du XVIIe au XXIe siècle",
+        "explication": "Cette notion examine comment les œuvres littéraires sont réécrites, adaptées ou transformées à travers les époques. Elle met en lumière les différentes approches de la réécriture, qu'il s'agisse de modernisation, de parodie, de pastiche ou d'intertextualité, et analyse l'impact de ces transformations sur la réception des textes originaux.",
         "references": [
-          { "titre": "La Supplication", "auteur": "Svetlana Aleksievitch" },
-          { "titre": "Le Meilleur des mondes", "auteur": "Aldous Huxley" }
+          { "oeuvre": "Antigone", "auteur": "Sophocle"},
+          { "oeuvre": "Antigone", "auteur": "Jean Anouilh"},
+          { "oeuvre": "La Machine infernale", "auteur": "Jean Cocteau"}
         ]
       },
       {
-        "title": "L'art et la création",
+        "titre": "L'altérité : l'étranger, l'étrange",
+        "explication": "Cette notion explore la thématique de l'altérité à travers la littérature, en mettant en lumière les représentations de l'étranger et de l'étrange. Elle analyse comment les écrivains abordent les questions d'identité, de différence et de marginalité, et comment ces thèmes sont utilisés pour interroger les normes sociales et culturelles.",
         "references": [
-          { "titre": "Les Mémoires d’Hadrien", "auteur": "Marguerite Yourcenar" }
-        ]
-      },
-      {
-        "title": "La recherche du sens",
-        "references": [
-          { "titre": "La Nausée", "auteur": "Jean-Paul Sartre" },
-          { "titre": "Si c’est un homme", "auteur": "Primo Levi" }
+          { "oeuvre": "L'Étranger", "auteur": "Albert Camus"},
+          { "oeuvre": "Le Procès", "auteur": "Franz Kafka"},
+          { "oeuvre": "Le Horla", "auteur": "Guy de Maupassant"},
+          { "oeuvre": "La Métamorphose", "auteur": "Franz Kafka"}
         ]
       }
     ]

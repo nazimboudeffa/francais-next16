@@ -3,18 +3,18 @@ import notionsData from './notions.json';
 import React from 'react';
 
 type Reference = {
-	titre: string;
+	oeuvre: string;
 	auteur: string;
 };
 
 type Notion = {
-  title: string;
-  text?: string;
+  titre: string;
+  explication?: string;
   references: Reference[];
 };
 
 type NotionsByLevel = {
-	level: string;
+	classe: string;
 	notions: Notion[];
 };
 
@@ -37,15 +37,15 @@ export default function NotionsPage() {
 			<h1 className="text-2xl sm:text-3xl font-bold mb-6 text-blue-700 dark:text-blue-300">Notions par niveau</h1>
 			<div className="flex flex-col gap-8">
 				{data.map((niveau, idx) => {
-					const isLevelOpen = openLevels[niveau.level] ?? false;
+					const isLevelOpen = openLevels[niveau.classe] ?? false;
 					const levelBg = idx % 2 === 0 ? 'bg-blue-300' : 'bg-purple-300';
 					return (
-						<section key={niveau.level} className={`mb-4 rounded-xl border border-blue-200 shadow-sm transition-colors duration-200 ${levelBg} p-3 sm:p-4`}>
+						<section key={niveau.classe} className={`mb-4 rounded-xl border border-blue-200 shadow-sm transition-colors duration-200 ${levelBg} p-3 sm:p-4`}>
 							<div className="flex items-center justify-between gap-2 mb-3">
-								<h2 className="text-xl sm:text-2xl font-semibold text-blue-900">{niveau.level}</h2>
+								<h2 className="text-xl sm:text-2xl font-semibold text-blue-900">{niveau.classe}</h2>
 								<button
 									className={`w-9 h-9 flex items-center justify-center rounded-full border-2 transition-all duration-200 bg-white border-blue-300 text-blue-700 hover:bg-blue-100 shadow-sm group focus:outline-none focus:ring-2 focus:ring-blue-400 ${isLevelOpen ? 'ring-2 ring-blue-200' : ''}`}
-									onClick={() => toggleLevel(niveau.level)}
+									onClick={() => toggleLevel(niveau.classe)}
 									aria-label={isLevelOpen ? 'Replier le niveau' : 'Déplier le niveau'}
 								>
 									<span
@@ -62,15 +62,15 @@ export default function NotionsPage() {
 							{isLevelOpen && (
 								<ul className="space-y-4">
 									{niveau.notions.map((notion) => {
-										const key = `${niveau.level}-${notion.title}`;
+										const key = `${niveau.classe}-${notion.titre}`;
 										const isOpen = openIndexes[key];
 										return (
-											<li key={notion.title} className="border rounded-lg p-3 sm:p-4 bg-white shadow-sm overflow-x-auto">
+											<li key={notion.titre} className="border rounded-lg p-3 sm:p-4 bg-white shadow-sm overflow-x-auto">
 												<div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-2 gap-2 sm:gap-0">
-													<div className="font-semibold text-base sm:text-lg text-blue-900 break-word">{notion.title}</div>
+													<div className="font-semibold text-base sm:text-lg text-blue-900 break-word">{notion.titre}</div>
 													<button
 														className={`sm:ml-4 w-9 h-9 flex items-center justify-center rounded-full border-2 transition-all duration-200 bg-white border-blue-300 text-blue-700 hover:bg-blue-100 shadow-sm group focus:outline-none focus:ring-2 focus:ring-blue-400 ${isOpen ? 'ring-2 ring-blue-200' : ''}`}
-														onClick={() => toggle(niveau.level, notion.title)}
+														onClick={() => toggle(niveau.classe, notion.titre)}
 														aria-label={isOpen ? 'Cacher le cours' : 'Voir le cours'}
 													>
 														<span
@@ -92,9 +92,9 @@ export default function NotionsPage() {
 														</span>
 													</button>
 												</div>
-												{isOpen && notion.text && (
+												{isOpen && notion.explication && (
 													<div className="mb-2 text-blue-900 bg-blue-50 rounded p-3 border border-blue-100 shadow-inner animate-fade-in break-word">
-														{notion.text}
+														{notion.explication}
 													</div>
 												)}
 												{notion.references.length > 0 && (
@@ -102,8 +102,8 @@ export default function NotionsPage() {
 														<div className="font-medium text-sm mb-1 text-blue-700">Références :</div>
 														<ul className="list-disc list-inside ml-4">
 															{notion.references.map((ref) => (
-																<li key={ref.titre + ref.auteur} className="text-blue-900 break-word">
-																	<span className="font-semibold">{ref.titre}</span> — <span className="italic">{ref.auteur}</span>
+																<li key={ref.oeuvre + ref.auteur} className="text-blue-900 break-word">
+																	<span className="font-semibold">{ref.oeuvre}</span> — <span className="italic">{ref.auteur}</span>
 																</li>
 															))}
 														</ul>
