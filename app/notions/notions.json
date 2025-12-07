@@ -472,6 +472,7 @@
     },
     {
       "titre": "Le roman et le récit du Moyen Âge au XXIe siècle",
+      "explication": "Cette notion examine l'évolution du roman et du récit depuis le Moyen Âge jusqu'à nos jours, en mettant en lumière les différents courants littéraires, les thèmes majeurs et les innovations narratives qui ont façonné ce genre au fil des siècles.",
       "references": [
         { "oeuvre": "Le Comte de Monte-Cristo", "auteur": "Alexandre Dumas" },
         { "oeuvre": "Notre-Dame de Paris", "auteur": "Victor Hugo" },
@@ -481,6 +482,7 @@
     },
     {
       "titre": "La poésie du XIXe au XXIe siècle",
+      "explication": "Cette notion explore l'évolution de la poésie française du XIXe siècle à nos jours. Elle met en lumière les différents mouvements poétiques, les thèmes récurrents et les innovations formelles qui ont marqué cette période. Les élèves étudieront des œuvres majeures qui illustrent la richesse et la diversité de la poésie contemporaine.",
       "references": [
         { "oeuvre": "Les Fleurs du mal", "auteur": "Charles Baudelaire" },
         { "oeuvre": "Alcools", "auteur": "Guillaume Apollinaire" },
@@ -490,6 +492,7 @@
     },
     {
       "titre": "Le théâtre du XVIIe au XXIe siècle",
+      "explication": "Cette notion examine l'évolution du théâtre français du XVIIe siècle à nos jours, en mettant en lumière les grands auteurs, les courants dramatiques et les innovations scéniques qui ont marqué cette période.",
       "references": [
         { "oeuvre": "Dom Juan", "auteur": "Molière" },
         { "oeuvre": "Phèdre", "auteur": "Jean Racine" },
