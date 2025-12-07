@@ -4,8 +4,8 @@ import TipeeeIcon from "../components/TipeeeIcon";
 
 export default function AboutPage() {
 	return (
-		<main className="min-h-screen flex flex-col items-center justify-center bg-zinc-50 dark:bg-black px-4 py-12">
-			<section className="max-w-2xl w-full bg-white dark:bg-zinc-900 rounded-lg shadow p-8 text-center">
+		<main className="min-h-screen flex flex-col items-center">
+			<section className="max-w-3xl w-full bg-white dark:bg-zinc-900 rounded-lg shadow p-8 text-center">
 				<h1 className="text-3xl font-bold text-blue-700 dark:text-blue-300 mb-4">À propos</h1>
 				<p className="text-zinc-700 dark:text-zinc-200 mb-4">
 					Ma Littérature est une plateforme dédiée à l&apos;apprentissage et à la découverte de notions littéraires, de cours et de références.

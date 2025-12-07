@@ -2,9 +2,9 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <main className="min-h-screen flex flex-col items-center justify-start bg-linear-to-b from-blue-50 to-zinc-100 dark:from-zinc-900 dark:to-zinc-800">
+    <main className="min-h-screen flex flex-col items-center justify-start">
 			{/* Hero Section */}
-			<section className="w-full py-16 px-4 flex flex-col items-center text-center">
+			<section className="max-w-3xl w-full py-16 px-4 flex flex-col items-center text-center bg-white dark:bg-zinc-900 rounded-lg shadow">
 				<h1 className="text-4xl md:text-6xl font-extrabold text-blue-700 dark:text-blue-300 mb-4 drop-shadow-lg">Ma Littérature</h1>
 				<p className="text-lg md:text-2xl text-zinc-700 dark:text-zinc-200 max-w-2xl mb-6">
 					Plongez dans la beauté et la diversité de la littérature française.<br />
