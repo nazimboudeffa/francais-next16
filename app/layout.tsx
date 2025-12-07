@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Ma Littérature",
-  description: "Une ressource complète pour apprendre le français.",
+  description: "Des ressources pour lire des œuvres littéraires.",
 };
 
 export default function RootLayout({
