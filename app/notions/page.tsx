@@ -3,8 +3,8 @@ import notionsData from './notions.json';
 import React from 'react';
 
 type Reference = {
-	oeuvre: string;
-	auteur: string;
+  oeuvre: string;
+  auteur: string;
 };
 
 type Notion = {
@@ -47,9 +47,12 @@ export default function NotionsPage() {
 									{niveau.cycle ? (
 										<a
 											href={`notions/${niveau.cycle}`}
-											className="text-blue-700 underline hover:text-blue-900 hover:underline font-semibold transition-colors"
+											className="inline-flex items-center gap-2 text-blue-700 underline hover:text-blue-900 hover:underline transition-colors"
 										>
-											{niveau.classe}
+											{niveau.classe}											
+											<svg className="w-4 h-4 text-blue-700" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" aria-hidden="true">
+												<path strokeLinecap="round" strokeLinejoin="round" d="M7 17L17 7M7 7h10v10" />
+											</svg>
 										</a>
 									) : (
 										niveau.classe
