@@ -134,6 +134,7 @@
 
   {
     "classe": "CM1",
+    "cycle": "cycle3",
     "notions": [
       {
         "titre": "Mythologie et récits fondateurs",
@@ -184,6 +185,7 @@
 
   {
     "classe": "CM2",
+    "cycle": "cycle3",
     "notions": [
       {
         "titre": "Mythologie et grands récits du patrimoine",
@@ -235,6 +237,7 @@
   },
   {
     "classe": "6e",
+    "cycle": "6e",
     "notions": [
       {
         "titre": "Créer, recréer le monde : récit des origines",

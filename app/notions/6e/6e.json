@@ -1,0 +1,956 @@
+[
+  {
+    "AUTEURS":"ADAM Marie-Thérèse",
+    "TITRE":"Héros de la mythologie grecque",
+    "EDITEUR":"Gallimard",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"conte",
+    "NIVEAU":"bons lecteurs"
+  },
+  {
+    "AUTEURS":"ADRIANSEN Sophie",
+    "TITRE":"Max et les poissons",
+    "EDITEUR":"Nathan",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"Découvrir des textes de différents genres mettant en scène les ruses et détours qu'invente le faible pour résister au plus fort",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"ARROU-VIGNOD Jean-Philippe",
+    "TITRE":"Mimsy Pocket et les enfants sans nom",
+    "EDITEUR":"Gallimard",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"Comprendre comment s'inventent et se déploient les ruses de l'intelligence aux dépens des puissants et quels sont les effets produits sur le lecteur ou le spectateur",
+    "GENRE":"récit",
+    "NIVEAU":"bons lecteurs"
+  },
+  {
+    "AUTEURS":"AUFRAY Gilles, GALEA Claudine, LEVEY Sylvain, PAPIN Nathalie, PILLET Françoise, SERRES Karin",
+    "TITRE":"Il était une deuxième fois",
+    "EDITEUR":"Espaces 34",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"théâtre",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"BARON Marc, ZAÜ",
+    "TITRE":"Petits poèmes en rang par trois",
+    "EDITEUR":"Bulles de savon",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"S'interroger sur le statut de ces textes, sur les valeurs qu'ils expriment, sur leurs ressemblances et leurs différences",
+    "GENRE":"poésie",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"BASHÔ Matsuo",
+    "TITRE":"Cent onze haïku",
+    "EDITEUR":"Verdier",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"Découvrir différents récits de création, appartenant à différentes cultures et des poèmes de célébration du monde et\/ou manifestant la puissance créatrice de la parole poétique",
+    "GENRE":"poésie",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"BESNIER Michel, GALERON Henri",
+    "TITRE":"Mon kdi n'est pas un kdo",
+    "EDITEUR":"Motus",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"S'interroger sur le statut de ces textes, sur les valeurs qu'ils expriment, sur leurs ressemblances et leurs différences",
+    "GENRE":"poésie",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"BIEZIN Michaël, RICOSSÉ Julie",
+    "TITRE":"Samson, le sang et le miel",
+    "EDITEUR":"Nathan",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"Découvrir différents récits de création, appartenant à différentes cultures et des poèmes de célébration du monde et\/ou manifestant la puissance créatrice de la parole poétique",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"BLANVILLAIN Luc",
+    "TITRE":"Mes parents sont dans ma classe",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"Découvrir des textes de différents genres mettant en scène les ruses et détours qu'invente le faible pour résister au plus fort",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"BOUCHER Michel",
+    "TITRE":"Trésor Ier",
+    "EDITEUR":"Thierry Magnier",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"BOUSSELET Anne",
+    "TITRE":"Dieux et héros des Romains",
+    "EDITEUR":"Gallimard",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"Comprendre en quoi ces récits et ces créations poétiques répondent à des questions fondamentales, et en quoi ils témoignent d'une conception du monde",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"BUFFON, RABIER Benjamin",
+    "TITRE":"Le Buffon choisi",
+    "EDITEUR":"Circonflexe",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"Découvrir des textes de différents genres mettant en scène les ruses et détours qu'invente le faible pour résister au plus fort",
+    "GENRE":"récit",
+    "NIVEAU":"bons lecteurs"
+  },
+  {
+    "AUTEURS":"CASTAN Bruno",
+    "TITRE":"Belle des eaux",
+    "EDITEUR":"Théâtrales",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"théâtre",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"CHABAS Jean-François, BLAIN Christophe",
+    "TITRE":"Les secrets de Faith Green",
+    "EDITEUR":"Casterman",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"S'interroger sur les raisons de l'intérêt que l'on prend à leur lecture",
+    "GENRE":"récit",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"CHABAS Jean-François, SALA David",
+    "TITRE":"Féroce",
+    "EDITEUR":"Casterman",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"S'interroger sur les limites de l'humain que le monstre permet de figurer et d'explorer",
+    "GENRE":"conte",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"CHAGALL Marc",
+    "TITRE":"Les Fables de La Fontaine",
+    "EDITEUR":"RMN",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"Comprendre comment s'inventent et se déploient les ruses de l'intelligence aux dépens des puissants et quels sont les effets produits sur le lecteur ou le spectateur",
+    "GENRE":"poésie",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"CHERER Sophie, DEISS Véronique",
+    "TITRE":"L'ogre maigre et l'enfant fou",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"S'interroger sur les limites de l'humain que le monstre permet de figurer et d'explorer",
+    "GENRE":"conte",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"CHIARELLO Fanny",
+    "TITRE":"Banale",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"Découvrir des textes de différents genres mettant en scène les ruses et détours qu'invente le faible pour résister au plus fort",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"CHRISTIEN Marie-Josée",
+    "TITRE":"Quand la nuit voit le jour",
+    "EDITEUR":"Tertium Éditions",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"Comprendre en quoi ces récits et ces créations poétiques répondent à des questions fondamentales, et en quoi ils témoignent d'une conception du monde",
+    "GENRE":"poésie",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"CLAVEL Fabien",
+    "TITRE":"Panique dans la mythologie - Hugo et le cheval de Troie",
+    "EDITEUR":"Rageot Éditeur",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"S'interroger sur la finalité, le sens de la ruse, sur la notion d'intrigue et sur les valeurs mises en jeu",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"CLAVEL Fabien, PELON Sébastien",
+    "TITRE":"Panique dans la mythologie - Hugo contre le Minotaure",
+    "EDITEUR":"Rageot Éditeur",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"CLAVEL Fabien, PELON Sébastien",
+    "TITRE":"Panique dans la mythologie - L'odyssée d'Hugo",
+    "EDITEUR":"Rageot Éditeur",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Comprendre le sens des émotions fortes que suscitent la description ou la représentation des monstres et le récit ou la mise en scène de l'affrontement avec eux",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"COHEN-JANCA Irène",
+    "TITRE":"Qui a tué Michka ?",
+    "EDITEUR":"Rouergue",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"récit",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"DAHL Roald, BLAKE Quentin",
+    "TITRE":"James et la grosse pêche",
+    "EDITEUR":"Gallimard",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"conte",
+    "NIVEAU":"bons lecteurs"
+  },
+  {
+    "AUTEURS":"DAVIDSON Marie-Thérèse, RICOSSÉ Julie",
+    "TITRE":"Moïse entre Dieu et les hommes",
+    "EDITEUR":"Nathan",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"S'interroger sur le statut de ces textes, sur les valeurs qu'ils expriment, sur leurs ressemblances et leurs différences",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"DEBACKER Agnès, PIANINA Vincent",
+    "TITRE":"Le jour d'Igor",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"conte",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"DELERM Martine",
+    "TITRE":"Marie-Banlieue",
+    "EDITEUR":"Folio",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"S'interroger sur les raisons de l'intérêt que l'on prend à leur lecture",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"DELYE Pierre, Albertine",
+    "TITRE":"Caprices ? C'est fini !",
+    "EDITEUR":"Didier Jeunesse",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"Comprendre comment s'inventent et se déploient les ruses de l'intelligence aux dépens des puissants et quels sont les effets produits sur le lecteur ou le spectateur",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"FAMPOU François, MAZOUÉ Patrice",
+    "TITRE":"La langue au chat",
+    "EDITEUR":"Cadex Éditions",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"Découvrir différents récits de création, appartenant à différentes cultures et des poèmes de célébration du monde et\/ou manifestant la puissance créatrice de la parole poétique",
+    "GENRE":"poésie",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"FDIDA Jean-Jacques, CACHIN Claude",
+    "TITRE":"La Barbe bleue ou Conte de l'Oiseau d'Ourdi",
+    "EDITEUR":"Didier Jeunesse",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"S'interroger sur les limites de l'humain que le monstre permet de figurer et d'explorer",
+    "GENRE":"conte",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"FÉRET-FLEURY Christine",
+    "TITRE":"Chaân, la rebelle",
+    "EDITEUR":"Flammarion",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"FILIPPI Denis-Pierre, REVEL Sandrine",
+    "TITRE":"Un drôle d'ange gardien",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"Découvrir des textes de différents genres mettant en scène les ruses et détours qu'invente le faible pour résister au plus fort",
+    "GENRE":"BD",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"GAY-PARA Praline",
+    "TITRE":"Oriyou et le pêcheur et autres contes de la Caraïbe",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"Comprendre en quoi ces récits et ces créations poétiques répondent à des questions fondamentales, et en quoi ils témoignent d'une conception du monde",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"GAY-PARA Praline, FRONTY Aurélia",
+    "TITRE":"Sous la peau d'un homme",
+    "EDITEUR":"Didier Jeunesse",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"Comprendre comment s'inventent et se déploient les ruses de l'intelligence aux dépens des puissants et quels sont les effets produits sur le lecteur ou le spectateur",
+    "GENRE":"conte",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"GENDRIN Catherine",
+    "TITRE":"Contes nomades",
+    "EDITEUR":"Rue du monde",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"Comprendre en quoi ces récits et ces créations poétiques répondent à des questions fondamentales, et en quoi ils témoignent d'une conception du monde",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"GENDRIN Catherine, GUEYFIER Judith",
+    "TITRE":"Les contes de l'olivier : contes juifs et arabes réunis",
+    "EDITEUR":"Rue du monde",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"S'interroger sur le statut de ces textes, sur les valeurs qu'ils expriment, sur leurs ressemblances et leurs différences",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"GENDRIN Catherine, NOVI Nathalie",
+    "TITRE":"Yeghvala, la belle sorcière",
+    "EDITEUR":"Didier Jeunesse",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"GERRIER Nicolas",
+    "TITRE":"Départs d'enfants",
+    "EDITEUR":"L'Atelier du Poisson Soluble",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Comprendre pourquoi le récit capte l'attention du lecteur et la retient",
+    "GENRE":"récit",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"GOLDMAN Gérard",
+    "TITRE":"Je fais ce qui me plaît",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"Découvrir des textes de différents genres mettant en scène les ruses et détours qu'invente le faible pour résister au plus fort",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"GRANOUILLET Gilles",
+    "TITRE":"Poucet pour les grands",
+    "EDITEUR":"Lansman Editeur",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Comprendre le sens des émotions fortes que suscitent la description ou la représentation des monstres et le récit ou la mise en scène de l'affrontement avec eux",
+    "GENRE":"théâtre",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"GRENIER Christian, CARON Philippe",
+    "TITRE":"Les douzes travaux d'Hercule",
+    "EDITEUR":"Nathan",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"S'interroger sur les limites de l'humain que le monstre permet de figurer et d'explorer",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"GREVET Yves",
+    "TITRE":"C'était mon oncle !",
+    "EDITEUR":"Syros",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"S'interroger sur les limites de l'humain que le monstre permet de figurer et d'explorer",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"GUTMAN Colas",
+    "TITRE":"Les inséparables",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"S'interroger sur la finalité, le sens de la ruse, sur la notion d'intrigue et sur les valeurs mises en jeu",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"HEITZ Bruno",
+    "TITRE":"Louisette la taupe - L'heure du Grimm",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"Comprendre comment s'inventent et se déploient les ruses de l'intelligence aux dépens des puissants et quels sont les effets produits sur le lecteur ou le spectateur",
+    "GENRE":"BD",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"HELLER Brigitte",
+    "TITRE":"Petites histoires des expressions de la mythologie",
+    "EDITEUR":"Flammarion",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"Découvrir différents récits de création, appartenant à différentes cultures et des poèmes de célébration du monde et\/ou manifestant la puissance créatrice de la parole poétique",
+    "GENRE":"récit",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"HOUSTON James",
+    "TITRE":"Akavak",
+    "EDITEUR":"Flammarion",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"HUB Ulrich",
+    "TITRE":"L’Arche part à 8 heures",
+    "EDITEUR":"Alice",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"Comprendre en quoi ces récits et ces créations poétiques répondent à des questions fondamentales, et en quoi ils témoignent d'une conception du monde",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"HUGO Victor, MAZOUÉ Olivier",
+    "TITRE":"Le Crapaud",
+    "EDITEUR":"Courtes et longues",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"poésie",
+    "NIVEAU":"bons lecteurs"
+  },
+  {
+    "AUTEURS":"HUMANN Sophie",
+    "TITRE":"Infirmière pendant la première guerre mondiale, journal de Geneviève Darfeuil",
+    "EDITEUR":"Gallimard",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Comprendre pourquoi le récit capte l'attention du lecteur et la retient",
+    "GENRE":"récit",
+    "NIVEAU":"bons lecteurs"
+  },
+  {
+    "AUTEURS":"JULLIARD Claire",
+    "TITRE":"Les mauvaises notes",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"KÉRILLIS Hélène, HIÉ Vanessa",
+    "TITRE":"La couleur de la nuit Gauguin",
+    "EDITEUR":"L'Élan vert",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"KERLOC'H Jean-Pierre, SAILLARD Rémi",
+    "TITRE":"Lisebelle et la bête",
+    "EDITEUR":"L'Élan vert",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"KOCJAN Grégoire, COMIS Pauline",
+    "TITRE":"Ogrus, histoires à digérer",
+    "EDITEUR":"L'Atelier du Poisson Soluble",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"KOENIG Viviane, SALA Éric, LOUËT Bertrand",
+    "TITRE":"Nitocris, reine d'Egypte",
+    "EDITEUR":"Hatier",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"S'interroger sur la finalité, le sens de la ruse, sur la notion d'intrigue et sur les valeurs mises en jeu",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"LACOTTE Daniel, ROIG Lola",
+    "TITRE":"Etincelles",
+    "EDITEUR":"Bulles de savon",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"Comprendre en quoi ces récits et ces créations poétiques répondent à des questions fondamentales, et en quoi ils témoignent d'une conception du monde",
+    "GENRE":"poésie",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"LAFFON Martine",
+    "TITRE":"Orphée l'ensorceleur",
+    "EDITEUR":"Flammarion",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"LAFFON Martine",
+    "TITRE":"Poséidon le terrible",
+    "EDITEUR":"Flammarion",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"LAMARCHE Léo",
+    "TITRE":"Les larmes de Psyché",
+    "EDITEUR":"Nathan",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"S'interroger sur les limites de l'humain que le monstre permet de figurer et d'explorer",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"LAPORTE Michel, SOCHARD Frédéric",
+    "TITRE":"10 contes des mille et une nuits",
+    "EDITEUR":"Flammarion",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"conte",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"LARIZZA Olivier",
+    "TITRE":"16 contes de Grande-Bretagne",
+    "EDITEUR":"Flammarion",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"conte",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"LAVACHERY Thomas",
+    "TITRE":"Tor et le troll",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"conte",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"LEBEAU Suzanne",
+    "TITRE":"L'Ogrelet",
+    "EDITEUR":"Théâtrales",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"théâtre",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"LESTRADE (de) AGNES",
+    "TITRE":"Mon père est une saucisse",
+    "EDITEUR":"Rouergue",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"S'interroger sur la finalité, le sens de la ruse, sur la notion d'intrigue et sur les valeurs mises en jeu",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"LETERQ Didier",
+    "TITRE":"Théo et l'énigme des diamants",
+    "EDITEUR":"Le Pommier",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"S'interroger sur la finalité, le sens de la ruse, sur la notion d'intrigue et sur les valeurs mises en jeu",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"LONCKE Aurélien",
+    "TITRE":"Gabbin",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"LONCKE Aurélien",
+    "TITRE":"La Bande à Grimme et la sorcière du Palais-Bonbon",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"Comprendre comment s'inventent et se déploient les ruses de l'intelligence aux dépens des puissants et quels sont les effets produits sur le lecteur ou le spectateur",
+    "GENRE":"récit",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"MATHIS Jean-Marc, MARTIN Thierry",
+    "TITRE":"Le Roman de Renart - Le Puits",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"Comprendre comment s'inventent et se déploient les ruses de l'intelligence aux dépens des puissants et quels sont les effets produits sur le lecteur ou le spectateur",
+    "GENRE":"BD",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"MAZETTI Katarina",
+    "TITRE":"Les cousins Karlsson",
+    "EDITEUR":"Thierry Magnier",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"MONTARDRE Hélène, USDIN Elene",
+    "TITRE":"Persée et le regard de pierre",
+    "EDITEUR":"Nathan",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Comprendre le sens des émotions fortes que suscitent la description ou la représentation des monstres et le récit ou la mise en scène de l'affrontement avec eux",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"MORPURGO Michael",
+    "TITRE":"Enfant de la jungle",
+    "EDITEUR":"Folio",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Comprendre pourquoi le récit capte l'attention du lecteur et la retient",
+    "GENRE":"récit",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"MORPURGO Michael, PLACE François",
+    "TITRE":"Le royaume de Kensuké",
+    "EDITEUR":"Gallimard",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"récit",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"MOTSCH Elisabeth, DUMAS Philippe",
+    "TITRE":"Le prince qui voulait voir le monde",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"S'interroger sur les raisons de l'intérêt que l'on prend à leur lecture",
+    "GENRE":"conte",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"MOURLEVAT Jean-Claude",
+    "TITRE":"La rivière à l'envers",
+    "EDITEUR":"Pocket",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Comprendre pourquoi le récit capte l'attention du lecteur et la retient",
+    "GENRE":"récit",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"MOURLEVAT Jean-Claude",
+    "TITRE":"L'homme à l'oreille coupée",
+    "EDITEUR":"Thierry Magnier",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"MURAIL Marie-Aude",
+    "TITRE":"Malo de Lange et le fils du roi",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"NESS Patrick",
+    "TITRE":"Quelques minutes après minuit",
+    "EDITEUR":"Folio",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"récit",
+    "NIVEAU":"bons lecteurs"
+  },
+  {
+    "AUTEURS":"NÈVE Sylvie",
+    "TITRE":"Poème du petit Poucet",
+    "EDITEUR":"Trouvères et Compagnie",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Comprendre le sens des émotions fortes que suscitent la description ou la représentation des monstres et le récit ou la mise en scène de l'affrontement avec eux",
+    "GENRE":"poésie",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"NICODÈME Béatrice",
+    "TITRE":"Les cauchemars de Cassandre",
+    "EDITEUR":"Nathan",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"Découvrir différents récits de création, appartenant à différentes cultures et des poèmes de célébration du monde et\/ou manifestant la puissance créatrice de la parole poétique",
+    "GENRE":"conte",
+    "NIVEAU":"bons lecteurs"
+  },
+  {
+    "AUTEURS":"PASSARET Anne-Marie",
+    "TITRE":"Contes russes : les fileuses d'or",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"conte",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"PESSAN Éric",
+    "TITRE":"Aussi loin que possible",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"PETIT Xavier-Laurent",
+    "TITRE":"153 jours en hiver",
+    "EDITEUR":"Flammarion",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"S'interroger sur les raisons de l'intérêt que l'on prend à leur lecture",
+    "GENRE":"récit",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"PINGUILLY Yves",
+    "TITRE":"L'Afrique d'Ouest en Est",
+    "EDITEUR":"Nathan",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"S'interroger sur le statut de ces textes, sur les valeurs qu'ils expriment, sur leurs ressemblances et leurs différences",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"PIQUEMAL Michel, NOUHEN Élodie",
+    "TITRE":"Mon miel ma douceur",
+    "EDITEUR":"Didier Jeunesse",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"Comprendre en quoi ces récits et ces créations poétiques répondent à des questions fondamentales, et en quoi ils témoignent d'une conception du monde",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"PLUMERI Arnaud, BLOZ",
+    "TITRE":"Les Dinosaures en bande dessinée",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"BD",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"RACHMUHL Françoise",
+    "TITRE":"Démétrer la généreuse",
+    "EDITEUR":"Flammarion",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"Découvrir des textes de différents genres mettant en scène les ruses et détours qu'invente le faible pour résister au plus fort",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"RACHMUHL Françoise",
+    "TITRE":"Héraclès le valeureux",
+    "EDITEUR":"Flammarion",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"RACHMÜHL Françoise",
+    "TITRE":"15 contes d'Europe",
+    "EDITEUR":"Flammarion",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"RIVAIS Yak",
+    "TITRE":"Les contes du miroir",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"conte",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"SEMPÉ Jean-Jacques, GOSCINNY René",
+    "TITRE":"La rentrée du Petit Nicolas - les histoires inédites du Petit Nicolas 3",
+    "EDITEUR":"Folio",
+    "ENJEU":"Résister au plus fort : ruses, mensonges et masques",
+    "DETAIL":"Découvrir des textes de différents genres mettant en scène les ruses et détours qu'invente le faible pour résister au plus fort",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"SHEN Qifeng, DUHAZÉ Gaëlle",
+    "TITRE":"Homme-Requin",
+    "EDITEUR":"HongFei Cultures (Éditions)",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"SIGWARD Valérie, USDIN Elene",
+    "TITRE":"Médée la Magicienne",
+    "EDITEUR":"Nathan",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"S'interroger sur les limites de l'humain que le monstre permet de figurer et d'explorer",
+    "GENRE":"conte",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"SIMARD Eric",
+    "TITRE":"L'enfaon",
+    "EDITEUR":"Syros",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"S'interroger sur les limites de l'humain que le monstre permet de figurer et d'explorer",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"SIMON Quitterie",
+    "TITRE":"David, le berger devenu roi",
+    "EDITEUR":"Nathan",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"Comprendre en quoi ces récits et ces créations poétiques répondent à des questions fondamentales, et en quoi ils témoignent d'une conception du monde",
+    "GENRE":"récit",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"SOLET Bertrand",
+    "TITRE":"Les prisonniers de Pompéi",
+    "EDITEUR":"Seuil",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"SOLOTAREFF Grégoire, NADJA",
+    "TITRE":"Blanche Neige et Grise Pluie",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"S'interroger sur les limites de l'humain que le monstre permet de figurer et d'explorer",
+    "GENRE":"conte",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"SURGET Alain",
+    "TITRE":"Le renard de Morlange",
+    "EDITEUR":"Nathan",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"S'interroger sur les limites de l'humain que le monstre permet de figurer et d'explorer",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"SYLVANDER Matthieu, BARRIER Perceval",
+    "TITRE":"Béatrice l'intrépide",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"THIBERT Colin",
+    "TITRE":"Le bus 666",
+    "EDITEUR":"Thierry Magnier",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Comprendre le sens des émotions fortes que suscitent la description ou la représentation des monstres et le récit ou la mise en scène de l'affrontement avec eux",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"THIÈS Paul",
+    "TITRE":"Intrigues à Athènes",
+    "EDITEUR":"Seuil",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"récit",
+    "NIVEAU":null
+  },
+  {
+    "AUTEURS":"TOSTAIN Christophe",
+    "TITRE":"L'arbre boit",
+    "EDITEUR":"Espaces 34",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"Découvrir différents récits de création, appartenant à différentes cultures et des poèmes de célébration du monde et\/ou manifestant la puissance créatrice de la parole poétique",
+    "GENRE":"théâtre",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"TUROCHE-DROMERY Sarah",
+    "TITRE":"Martin gaffeur tout-terrain",
+    "EDITEUR":"Thierry Magnier",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"VAN DE VENDEL Edward",
+    "TITRE":"Le choix de Sam",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"VANTAL Anne",
+    "TITRE":"Méduse - le mauvais œil",
+    "EDITEUR":"Nathan",
+    "ENJEU":"Le monstre, aux limites de l'humain",
+    "DETAIL":"Découvrir des œuvres, des textes et des documents mettant en scène des figures de monstres",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"VATINEL Pascal",
+    "TITRE":"Les fils du ciel",
+    "EDITEUR":"Actes Sud",
+    "ENJEU":"Récits d'aventures",
+    "DETAIL":"Découvrir des œuvres et des textes qui, par le monde qu'ils représentent et par l'histoire qu'ils racontent, tiennent en haleine le lecteur et l'entrainent dans la lecture",
+    "GENRE":"récit",
+    "NIVEAU":"lecture facile"
+  },
+  {
+    "AUTEURS":"WALBECQ Hervé",
+    "TITRE":"Histoires du chien qui avait une ombre d'enfant",
+    "EDITEUR":"L'École des Loisirs",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"Comprendre en quoi ces récits et ces créations poétiques répondent à des questions fondamentales, et en quoi ils témoignent d'une conception du monde",
+    "GENRE":"récit",
+    "NIVEAU":"bons lecteurs"
+  },
+  {
+    "AUTEURS":"WATANABE Mayumi, PUYBARET Eric",
+    "TITRE":"Contes du Japon",
+    "EDITEUR":"Jasmin",
+    "ENJEU":"Récits de création ; création poétique",
+    "DETAIL":"Découvrir différents récits de création, appartenant à différentes cultures et des poèmes de célébration du monde et\/ou manifestant la puissance créatrice de la parole poétique",
+    "GENRE":"conte",
+    "NIVEAU":null
+  }
+]
