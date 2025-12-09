@@ -16,7 +16,7 @@ export default function SixiemePage() {
   const oeuvres: Oeuvre[] = data;
   return (
     <main className="max-w-4xl mx-auto p-6">
-      <h1 className="text-2xl font-bold mb-6 text-blue-700">Oeuvres 6e</h1>
+      <h1 className="text-2xl sm:text-3xl font-bold mb-6 text-blue-700 dark:text-blue-300">Liste de lecture de 6e</h1>
       <div className="overflow-x-auto">
         <table className="min-w-full border border-gray-300 rounded-xl shadow bg-white">
           <thead className="bg-blue-200">
