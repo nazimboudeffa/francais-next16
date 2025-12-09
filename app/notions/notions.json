@@ -301,6 +301,7 @@
 
   {
     "classe": "5e",
+    "cycle": "cycle4",
     "notions": [
       {
         "titre": "Se chercher, se construire - Le voyage et l'aventure : pourquoi aller vers l'inconnu ?",
@@ -357,6 +358,7 @@
 
   {
     "classe": "4e",
+    "cycle": "cycle4",
     "notions": [
       {
         "titre": "Se chercher, se construire - Dire l'amour",
@@ -410,6 +412,7 @@
 
   {
     "classe": "3e",
+    "cycle": "cycle4",
     "notions": [
       {
         "titre": "Se chercher, se construire – Se raconter, se représenter",
