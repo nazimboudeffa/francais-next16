@@ -1,0 +1,2458 @@
+[
+  {
+    "AUTEURS":"Banyai, Istvan",
+    "TITRES":"C - Zoom",
+    "EDITEURS":"Circonflexe",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Album tout en images"
+  },
+  {
+    "AUTEURS":"Brouillard, Anne",
+    "TITRES":"Le voyageur et les oiseaux",
+    "EDITEURS":"Seuil jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Album tout en images"
+  },
+  {
+    "AUTEURS":"Couprie, Katy",
+    "TITRES":"A table !",
+    "EDITEURS":"Thierry Magnier",
+    "Unnamed: 3":null,
+    "NIVEAUX":"1-3",
+    "CATEGORIES":"Album tout en images"
+  },
+  {
+    "AUTEURS":"Cumont, Louise-Marie",
+    "TITRES":"Les chaises",
+    "EDITEURS":"Memo",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Album tout en images"
+  },
+  {
+    "AUTEURS":"Descamps, Dominique",
+    "TITRES":"Par un beau jour",
+    "EDITEURS":"Les grandes personnes",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Album tout en images"
+  },
+  {
+    "AUTEURS":"Guilloppé, Antoine",
+    "TITRES":"Loup noir ",
+    "EDITEURS":"Casterman",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Album tout en images"
+  },
+  {
+    "AUTEURS":"Jae-Soo, Ryu",
+    "TITRES":"Le parapluie jaune",
+    "EDITEURS":"Mijade",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Album tout en images"
+  },
+  {
+    "AUTEURS":"Lee, Jihyeon",
+    "TITRES":"La piscine",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Album tout en images"
+  },
+  {
+    "AUTEURS":"Lee, Suzy",
+    "TITRES":"La vague",
+    "EDITEURS":"Kaléidoscope",
+    "Unnamed: 3":null,
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Album tout en images"
+  },
+  {
+    "AUTEURS":"Lenz, Patrick",
+    "TITRES":"Tom et l'oiseau",
+    "EDITEURS":"Sarbacane",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Album tout en images"
+  },
+  {
+    "AUTEURS":"Monteiro, Marta",
+    "TITRES":"Ombres",
+    "EDITEURS":"La Joie de lire",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Album tout en images"
+  },
+  {
+    "AUTEURS":"Moure, Gonzalo",
+    "TITRES":"Le hareng rouge",
+    "EDITEURS":"Les P'tits bêrets",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-3",
+    "CATEGORIES":"Album tout en images"
+  },
+  {
+    "AUTEURS":"Thomson, Bill",
+    "TITRES":"Dessine !",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Album tout en images"
+  },
+  {
+    "AUTEURS":"Tjong-Khing, Thé",
+    "TITRES":"La fête d'anniversaire ",
+    "EDITEURS":"Casterman",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Album tout en images"
+  },
+  {
+    "AUTEURS":"Trimouille, Pascale",
+    "TITRES":"Affaires de loup",
+    "EDITEURS":"La Joie de lire",
+    "Unnamed: 3":null,
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Album tout en images"
+  },
+  {
+    "AUTEURS":"Van Zeveren, Michel",
+    "TITRES":"La porte",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Album tout en images"
+  },
+  {
+    "AUTEURS":"Alemagna, Béatrice",
+    "TITRES":"Un lion à Paris",
+    "EDITEURS":"Casterman",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Arno",
+    "TITRES":"Tu t’occuperas de Petit-Frère ",
+    "EDITEURS":"Casterman",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Bachelet, Gilles",
+    "TITRES":"Le Chevalier de ventre-à-terre",
+    "EDITEURS":"Seuil jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Bailly-Maître, Marie-Astrid",
+    "TITRES":"L'heure rouge",
+    "EDITEURS":"L'élan vert",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Bebey, Kidi",
+    "TITRES":"Pourquoi je ne suis pas sur la photo ?",
+    "EDITEURS":"Edicef",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Bell, Davina",
+    "TITRES":"Le capitaine étoile-de-mer",
+    "EDITEURS":"Sarbacane",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Bichonnier, Henriette",
+    "TITRES":"C - Le monstre poilu",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Bouchard, André",
+    "TITRES":"Les lions ne mangent pas de croquettes",
+    "EDITEURS":"Seuil jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Boujon, Claude",
+    "TITRES":"C - La brouille",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Braud, François",
+    "TITRES":"Qui a volé la camionnette d’Ahmed ?",
+    "EDITEURS":"Casterman",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Brières-Haquet, Alice ",
+    "TITRES":"La graine et l'oiseau",
+    "EDITEURS":"Grandir",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Brown, Ruth",
+    "TITRES":"C - Crapaud",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Browne, Anthony",
+    "TITRES":"C - Marcel la mauviette",
+    "EDITEURS":"Kaléidoscope",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Bruel, Christian",
+    "TITRES":"C - Ce que mangent les maîtresses",
+    "EDITEURS":"Thierry Magnier",
+    "Unnamed: 3":null,
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Bunting, Ève",
+    "TITRES":"Toi, vole !",
+    "EDITEURS":"Syros jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Burningham, John",
+    "TITRES":"C - Préférerais-tu ?",
+    "EDITEURS":"Kaléidoscope",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Chessex, Jacques",
+    "TITRES":"C - Marie et le chat sauvage ",
+    "EDITEURS":"Grasset jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Cneut,Carll",
+    "TITRES":"La volière dorée",
+    "EDITEURS":"Pastel",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Cole, Babette",
+    "TITRES":"Princesse Finemouche",
+    "EDITEURS":"Seuil jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Colmont, Marie & Rojankowsky, Feodor",
+    "TITRES":"P - Michka",
+    "EDITEURS":"Flammarion-Père Castor",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Corentin, Philippe",
+    "TITRES":"C - L’Afrique de Zigomar",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Cornette, Jean-Luc",
+    "TITRES":"Coyote mauve",
+    "EDITEURS":"Pastel",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Courgeon, Rémi",
+    "TITRES":"Le grand arbre",
+    "EDITEURS":"Mango jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Cowell, Cressida",
+    "TITRES":"Allô Allô... Emily Brown",
+    "EDITEURS":"Casterman",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Crowther, Kitty",
+    "TITRES":"Scritch scratch dip clapote ! ",
+    "EDITEURS":"Pastel",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Cuvellier, Vincent",
+    "TITRES":"La première fois que je suis née ",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Dalrymple, Jennifer",
+    "TITRES":"Péric et Pac",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Damotte, Isabelle & Barengo, Monica",
+    "TITRES":"C'est bien trop long à raconter",
+    "EDITEURS":"Møtus",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"David, Gauthier",
+    "TITRES":"Les lettres de l'ourse",
+    "EDITEURS":"Casterman",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"De Brunhoff, Jean",
+    "TITRES":"P - Histoire de Babar : le petit éléphant",
+    "EDITEURS":"Hachette jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Dedieu, Thierry",
+    "TITRES":"Article 309 du code pénal du jardin",
+    "EDITEURS":"Seuil jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"De Greef, Sabine",
+    "TITRES":"Géant es-tu là ?",
+    "EDITEURS":"Pastel",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Delye, Pierre",
+    "TITRES":"Sssi j'te mords, t'es mort !",
+    "EDITEURS":"Didier jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Donaldson, Julia",
+    "TITRES":"C - Gruffalo",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Douzou, Olivier",
+    "TITRES":"C - Jojo la mache",
+    "EDITEURS":"Rouergue",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Dumas, Philippe",
+    "TITRES":"C - La petite géante",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Dumont, Jean-François",
+    "TITRES":"La petite oie qui ne voulait pas marcher au pas",
+    "EDITEURS":"Flammarion-Père Castor",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Elzbieta",
+    "TITRES":"C - Flon-Flon et Musette",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Erlbruch, Wolf",
+    "TITRES":"La grande question",
+    "EDITEURS":"Thierry Magnier",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Galvin, Michel",
+    "TITRES":"La vie rêvée",
+    "EDITEURS":"Rouergue",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Heidelbach, Nikolaus",
+    "TITRES":"Un livre pour Élie ",
+    "EDITEURS":"Seuil jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Herbauts, Anne",
+    "TITRES":"De quelle couleur est le vent ?",
+    "EDITEURS":"Casterman",
+    "Unnamed: 3":null,
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Hohler, Franz",
+    "TITRES":"Les trois vœux de Barbara",
+    "EDITEURS":"La Joie de lire",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Janosch",
+    "TITRES":"C - Tout est si beau à Panama",
+    "EDITEURS":"La Joie de lire",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Johansen, Hanna",
+    "TITRES":"C - La poule qui voulait pondre des œufs en or",
+    "EDITEURS":"La Joie de lire",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Johnson, Brien D ",
+    "TITRES":"Le voyage d’Henry",
+    "EDITEURS":"Casterman",
+    "Unnamed: 3":null,
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Kellogg, Steven",
+    "TITRES":"C - Le têtard mystérieux",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Kingue-Epanya, Christian",
+    "TITRES":"Le taxi-brousse de Papa Diop",
+    "EDITEURS":"Syros jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Lallemand, Orianne",
+    "TITRES":"Le chevalier, la princesse et le dragon ",
+    "EDITEURS":"Gautier Languereau",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Lecaye, Olga",
+    "TITRES":"Léo Corbeau et Gaspard Renard",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Louchard, Antonin",
+    "TITRES":"Pourquoi les lapins ne portent pas de culotte",
+    "EDITEURS":"Seuil jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Loufane",
+    "TITRES":"Pou-poule !",
+    "EDITEURS":"Kaléidoscope",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Malte, Marcus",
+    "TITRES":"Le chapeau - Et c’est toujours la même histoire",
+    "EDITEURS":"Syros jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Marti, Meritxell",
+    "TITRES":"Le festin des affreux",
+    "EDITEURS":"Seuil jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Mc Naughton, Colin",
+    "TITRES":"Oh là là !",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"McCloskey, Robert",
+    "TITRES":"C - Des myrtilles pour Lily",
+    "EDITEURS":"Le Genévrier",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"McKee, David",
+    "TITRES":"Six hommes",
+    "EDITEURS":"Kaléidoscope",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Meschenmoser, Sebastian",
+    "TITRES":"L'écureuil et la lune",
+    "EDITEURS":"Minedition",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Minne, Brigitte",
+    "TITRES":"La fée sorcière",
+    "EDITEURS":"Pastel",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Miyakoshi, Akiko",
+    "TITRES":"Un goûter en forêt",
+    "EDITEURS":"Syros",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Mounier, Fabienne",
+    "TITRES":"Histoire du petit tabouret",
+    "EDITEURS":"L’École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Nadja",
+    "TITRES":"C - Chien bleu",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Negrin, Fabian ",
+    "TITRES":"Bêtes",
+    "EDITEURS":"Seuil jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Pef",
+    "TITRES":"C - La belle lisse poire du prince de Motordu",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Place, François",
+    "TITRES":"Le prince bégayant",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Pommaux, Yvan",
+    "TITRES":"Puisque c'est ça, je pars !",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Ponti, Claude",
+    "TITRES":"C - Okilélé",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Ramos, Mario",
+    "TITRES":"C'est moi le plus fort",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Rascal",
+    "TITRES":"C - Poussin noir",
+    "EDITEURS":"Pastel",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Ringi, Kjell",
+    "TITRES":"L'étranger",
+    "EDITEURS":"Kaléidoscope",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Sendak, Maurice",
+    "TITRES":"C - Max et les Maximonstres",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Silverstein, Shel",
+    "TITRES":"C - On a toujours besoin d'un rhino chez soi",
+    "EDITEURS":"Grasset jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Sis, Peter",
+    "TITRES":"Robinson",
+    "EDITEURS":"Grasset jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Solotareff, Grégoire",
+    "TITRES":"C - Loulou",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Steiner, Jörg",
+    "TITRES":"C - L’île aux lapins",
+    "EDITEURS":"Mijade",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Stevenson, James",
+    "TITRES":"C - Un jour affreux",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Tejima, Keizaburo",
+    "TITRES":"C - Le rêve du renard",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Touron, Pierre",
+    "TITRES":"Le dernier voyage de Félicien",
+    "EDITEURS":"Balivernes éditions",
+    "Unnamed: 3":null,
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Ungerer, Tomi",
+    "TITRES":"C - Le géant de Zéralda",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Van Allsburg, Chris",
+    "TITRES":"C - Boréal express",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Vaugelade, Anaïs",
+    "TITRES":"Le déjeuner de la petite ogresse",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Vincent, Gabrielle",
+    "TITRES":"C - Ernest et Célestine, la cabane",
+    "EDITEURS":"Casterman",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Voltz, Christian",
+    "TITRES":"Le livre le plus génial que j'ai jamais lu",
+    "EDITEURS":"Pastel",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Voutch",
+    "TITRES":"La petite grenouille qui avait mal aux oreilles",
+    "EDITEURS":"Circonflexe",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Warnes, Tim",
+    "TITRES":"Dangereux !",
+    "EDITEURS":"Mijade",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Willis, Jeanne",
+    "TITRES":"La promesse",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Zullo, Germano",
+    "TITRES":"Les oiseaux",
+    "EDITEURS":"La Joie de lire",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Autres albums"
+  },
+  {
+    "AUTEURS":"Abouet, Marguerite & Sapin, Mathieu",
+    "TITRES":"Akissi «Attaque de chats» (volume 1)",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Bloch, Serge & Hubesch, Nicolas",
+    "TITRES":"Zouk- Abracadablagues",
+    "EDITEURS":"Bayard",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Böll Heinrich & Bravo Emile",
+    "TITRES":"La leçon de pêche",
+    "EDITEURS":"P'tit Glénat",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Bourgeau, Vincent",
+    "TITRES":"Le fils du pirate",
+    "EDITEURS":"Seuil jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Bravo, Émile",
+    "TITRES":"Boucle d’or et les sept ours nains",
+    "EDITEURS":"Seuil jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Briggs, Raymond",
+    "TITRES":"C - Le bonhomme de neige",
+    "EDITEURS":"Grasset jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Chauvel, David & Alfred",
+    "TITRES":"Octave et le cachalot",
+    "EDITEURS":"Delcourt",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Clarke & Gilson, François ",
+    "TITRES":"Mélusine, « Sortilèges » (volume 1)",
+    "EDITEURS":"Dupuis",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"De Brab & Zidrou",
+    "TITRES":"Zigo le clown \/T1 Baraka la cata ",
+    "EDITEURS":"Milan ",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Bandes dessinées (BD Kids)"
+  },
+  {
+    "AUTEURS":"Derib & Job",
+    "TITRES":"C - Yakari, « Yakari et Nanabozo » (volume 4)",
+    "EDITEURS":"Le Lombard",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Dieuaide, Sophie",
+    "TITRES":"Les Papooses, «Du rififi dans la prairie» (volume 6)",
+    "EDITEURS":"Casterman",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Hatke, Ben",
+    "TITRES":"Zita la fille de l'espace",
+    "EDITEURS":"Rue de sèvres",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Heitz, Bruno",
+    "TITRES":"Louisette la taupe, «Rapidissimo» (volume 1)",
+    "EDITEURS":"Casterman",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Jouannigot, Loïc",
+    "TITRES":"Château chat",
+    "EDITEURS":"Dargaud",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Kanata, Konami",
+    "TITRES":"Chi - Une vie de chat",
+    "EDITEURS":"Glénat",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Bandes dessinées (manga)"
+  },
+  {
+    "AUTEURS":"Kono, Fumiyo",
+    "TITRES":"Koko",
+    "EDITEURS":"Glénat",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Bandes dessinées (manga)"
+  },
+  {
+    "AUTEURS":"Le Huche, Magali",
+    "TITRES":"Jean-Michel le caribou est amoureux",
+    "EDITEURS":"Actes Sud",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Long, Guillaume",
+    "TITRES":"Swimming Poule Mouillée",
+    "EDITEURS":"La Joie de lire",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Luciani, Brigitte",
+    "TITRES":"Monsieur Blaireau et Madame Renarde, « La rencontre » (volume 1)",
+    "EDITEURS":"Dargaud",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Maupomé, Frédéric & Sénégas, Stéphane",
+    "TITRES":"Anuki la guerre des poules",
+    "EDITEURS":"La gouttière",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Perret, Delphine",
+    "TITRES":"Moi, le loup et les chocos",
+    "EDITEURS":"Thierry Magnier",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Peyo",
+    "TITRES":"C - Schtroumpferies",
+    "EDITEURS":"Le lombard",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Roba, Jean",
+    "TITRES":"C - Boule et Bill (volume 1)",
+    "EDITEURS":"Dupuis",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Robel, Nicolas",
+    "TITRES":"Le tigre bleu",
+    "EDITEURS":"La Joie de lire",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Ruiz, Emilio",
+    "TITRES":"Waluk",
+    "EDITEURS":"Delcourt",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Spielgelman, Art",
+    "TITRES":"Jack et la boîte",
+    "EDITEURS":"Casterman",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Taniguchi, Jirô",
+    "TITRES":"La forêt millénaire",
+    "EDITEURS":"Rue de Sèvres",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Thiot-Rader, Adrien",
+    "TITRES":"Tyrannosia",
+    "EDITEURS":"La Joie de lire",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-3",
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Tirabosco, Tom",
+    "TITRES":"Le dessert",
+    "EDITEURS":"La Joie de lire",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Bandes dessinées"
+  },
+  {
+    "AUTEURS":"Bertier, Anne",
+    "TITRES":"Rêve-moi une lettre",
+    "EDITEURS":"MeMo",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Comptines, abécédaires et jeux langagiers"
+  },
+  {
+    "AUTEURS":"Blexbolex",
+    "TITRES":"L'imagier des gens",
+    "EDITEURS":"Albin Michel jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Comptines, abécédaires et jeux langagiers"
+  },
+  {
+    "AUTEURS":"Charpentreau, Jacques",
+    "TITRES":"Les cent plus belles devinettes",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-3",
+    "CATEGORIES":"Comptines, abécédaires et jeux langagiers"
+  },
+  {
+    "AUTEURS":"David, François",
+    "TITRES":"Est-elle Estelle ?",
+    "EDITEURS":"Møtus",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Comptines, abécédaires et jeux langagiers"
+  },
+  {
+    "AUTEURS":"Escoffier, Michaël",
+    "TITRES":"Sans le A",
+    "EDITEURS":"Kaléidoscope",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Comptines, abécédaires et jeux langagiers"
+  },
+  {
+    "AUTEURS":"Galeron, Henri",
+    "TITRES":"ABCD",
+    "EDITEURS":"les grandes personnes",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Comptines, abécédaires et jeux langagiers"
+  },
+  {
+    "AUTEURS":"Krauss, Ruth",
+    "TITRES":"Un trou, c'est pour creuser",
+    "EDITEURS":"MeMo",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Comptines, abécédaires et jeux langagiers"
+  },
+  {
+    "AUTEURS":"Krouse Rosenthal, Amy",
+    "TITRES":"Point d'exclamation !",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-3",
+    "CATEGORIES":"Comptines, abécédaires et jeux langagiers"
+  },
+  {
+    "AUTEURS":"Malineau, Jean-Hugues",
+    "TITRES":"Les charades",
+    "EDITEURS":"Albin Michel jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Comptines, abécédaires et jeux langagiers"
+  },
+  {
+    "AUTEURS":"Mathis",
+    "TITRES":"Potage - papotage",
+    "EDITEURS":"Thierry Magnier",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Comptines, abécédaires et jeux langagiers"
+  },
+  {
+    "AUTEURS":"Murugarren, Miguel",
+    "TITRES":"Bestiaire universel du professeur Revillod",
+    "EDITEURS":"Casterman",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Comptines, abécédaires et jeux langagiers"
+  },
+  {
+    "AUTEURS":"Niemann, Christoph",
+    "TITRES":"Mots",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-3",
+    "CATEGORIES":"Comptines, abécédaires et jeux langagiers"
+  },
+  {
+    "AUTEURS":"Petit, Aurore",
+    "TITRES":"Cheval de courses",
+    "EDITEURS":"Albin Michel jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Comptines, abécédaires et jeux langagiers"
+  },
+  {
+    "AUTEURS":"Pianina",
+    "TITRES":"Ours molaire",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Comptines, abécédaires et jeux langagiers"
+  },
+  {
+    "AUTEURS":"Vast, Emilie",
+    "TITRES":"Alphabet des plantes",
+    "EDITEURS":"MeMo",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Comptines, abécédaires et jeux langagiers"
+  },
+  {
+    "AUTEURS":"Andersen, Hans-Christian",
+    "TITRES":"P - Poucette",
+    "EDITEURS":"Gallimard jeunesse, trad. du danois par Régis Boyer, ill. Henri Galeron dans deux collections,  La clé des contes et Folio Benjamin \/ Flammarion - Père Castor, deux versions :  ill. charlotte Gastaud, ill. Sophie Lebot \/ Milan, ill. Nathalie Choux \/ Mijade, Quentin Gréban",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":null,
+    "TITRES":"P - Le vilain petit canard",
+    "EDITEURS":"Bayard jeunesse, collection Les belles histoires, ill. Ulises Wensell \/ Flammarion - Père Castor, ill. Annette Marnat \/ Gallimard jeunesse, trad. du danois par Régis Boyer, iIl. Henri Galeron dans deux collections,  La clé des contes et L'heure des histoires \/ Magnard jeunesse, ill. Lucie Minne ",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Barnier, Perceval & Sylvander Matthieu",
+    "TITRES":"3 contes cruels",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Bertron-Martin, Agnès",
+    "TITRES":"Les trois grains de riz",
+    "EDITEURS":"Flammarion-Père Castor",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Corda, Tullio",
+    "TITRES":"Ne m'embrassez pas…(je suis très bien comme çà ! )",
+    "EDITEURS":"Lirabelle",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Dalloz, Danielle",
+    "TITRES":"Le maître du jardin",
+    "EDITEURS":"Kaléidoscope",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Dartois,Thisou",
+    "TITRES":"Le petit poucet ",
+    "EDITEURS":"Rouergue",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Dhouib, Moncef",
+    "TITRES":"Le lion et les trois buffles",
+    "EDITEURS":"Seuil jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Dib, Mohamed",
+    "TITRES":"C - L’histoire du chat qui boude",
+    "EDITEURS":"Albin Michel jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Fdida, Jean-Jacques",
+    "TITRES":"Contes d'Afrique",
+    "EDITEURS":"Didier jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Gay- Para, Praline",
+    "TITRES":"La jeune fille au visage de pierre",
+    "EDITEURS":"Actes sud junior",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Grimm, Jacob & Grimm, Wilhelm",
+    "TITRES":"P - Le Roi-Grenouille ou Le prince Grenouille",
+    "EDITEURS":"Le Genévrier, sous le titre Le roi-Grenouille ou Henri-le-Ferré, ill. Sara \/ Nord-Sud, sous le titre Le prince grenouille, trad. Anne-Marie Chapouton, ill. Binette Schroeder",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":null,
+    "TITRES":"P - Blanche-Neige",
+    "EDITEURS":"Le Genévrier, trad. Marthe Robert, ill. Sara \/ Magnard jeunesse, ill. Elisem \/ Milan, trad. Suzanne Kabok, ill. Benjamin Lacombe ",
+    "Unnamed: 3":null,
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":null,
+    "TITRES":"P - Hansel et Gretel",
+    "EDITEURS":"Casterman, ill. Sybille Delacroix, trad. de l'allemand par François Mathieu \/ Flammarion jeunesse – Père Castor, d’après Grimm, ill. Sophie Lebot \/ Gallimard jeunesse, trad. de l'allemand par Jean-Claude Mourlevat, ill. Lorenzo Mattotti \/ Grasset jeunesse, Jeannot et Margot, ill. Monique Félix \/ Kaléidoscope, ill. Anthony Browne \/ Magnard jeunesse, ill. Elisabeth Pesé \/ Minédition, ill. Sybille Schenker",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":null,
+    "TITRES":"P - Outroupistache",
+    "EDITEURS":"Flammarion-Père Castor, sous le titre Grigrigredin Menufretin, ill. Nathalie Ragondet \/ Kaléidoscope, ill. Elsa Oriol",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Gypteau, Nadia",
+    "TITRES":"Le singe et l'épi de maïs",
+    "EDITEURS":"Flammarion - Père Castor, ill. Guillaume Plantevin",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Joyce, James",
+    "TITRES":"P - Le chat et le diable",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":" La Fontaine, Jean (de)",
+    "TITRES":"P - Fables (plus particulièrement : Le Corbeau et le Renard, La cigale et la fourmi, La grenouille qui se veut faire aussi grosse que le bœuf, Le Renard et la Cigogne, Le Lion et le Rat, Le Lièvre et la Tortue, Le Loup et l'Agneau, Le petit Poisson et le Pêcheur, Le Chêne et le Roseau, La Laitière et le Pot au Lait,  Le Loup et le Chien, Le Renard et les Raisins,  Le Rat de ville et le Rat des champs)",
+    "EDITEURS":" Flammarion jeunesse - Père Castor, Le loup et l'agneau et 3 autres fables de La Fontaine, ill. Sébastien Pelon \/ Gallimard jeunesse, coll. Enfance en poésie, Fables, ill. Daniel Maja \/ Magnard jeunesse, Fables, ill. Rébecca Dautremer \/ Milan, Fables, ill. François Crozat \/ Seuil jeunesse, Les Fables livre1, ill. Thierry Dedieu  ",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Le Craver, Jean-Louis",
+    "TITRES":"Din’Roa la vaillante",
+    "EDITEURS":"Didier jeunesse (coll. A petits petons)",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Le Thanh, Taï-Marc",
+    "TITRES":"Babayaga",
+    "EDITEURS":"Gautier-Languereau \/ MeMo, adaptation de Nadiejda Teffi, trad. F Morvan, ill. Nathalie Parain",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Lionni, Léo",
+    "TITRES":"C - Pilotin (et autres fables de Trésor de fables)",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Manfeï, Obin (adapté par)",
+    "TITRES":"Le grain de maïs",
+    "EDITEURS":"Seuil jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Marnier, Richard",
+    "TITRES":"Le miel des trois compères",
+    "EDITEURS":"Rouergue",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Mbodj, Souleymane",
+    "TITRES":"Les enfants de l'antilope",
+    "EDITEURS":"Rue du monde",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Noguès, Jean-Côme",
+    "TITRES":"Le génie du pousse-pousse",
+    "EDITEURS":"Milan jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Oram, Hiawyn",
+    "TITRES":"La sorcière aux trois crapauds",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Patacrùa",
+    "TITRES":"La Princesse de Bordeaux",
+    "EDITEURS":"OQO éditions",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Perrault, Charles",
+    "TITRES":"P - Les fées",
+    "EDITEURS":"L'École des loisirs, ill. Philippe Dumas",
+    "Unnamed: 3":null,
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":null,
+    "TITRES":"P - Le petit poucet",
+    "EDITEURS":"Flammarion jeunesse, Père Castor, ill. Ronan Badel \/ Gallimard jeunesse, iIl. de Miles Hyman  dans deux collections,  La clé des contes et Folio Benjamin \/ Hélium, ill. Clémentine Sourdais \/ Magnard jeunesse, ill. Julie Faulques \/ Milan, ill. Gwen Keraval ",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":null,
+    "TITRES":"P - La belle au bois dormant",
+    "EDITEURS":"Gallimard, Folio cadet, ill. François Place \/ Magnard jeunesse, ill. Marc Majewski \/ Milan, ill. Olivier Desvaux \n",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":null,
+    "TITRES":"P - Le chat botté",
+    "EDITEURS":"Flammarion jeunesse - Père castor, ill. Gwenn Keraval \/ Gallimard jeunesse, iIl. Fred Marcellino dans deux collections,  Albums et Folio Benjamin \/ Hélium, ill. Clémentine Sourdais \/ La joie de lire, ill. Albertine \/ Magnard, ill. Sandra Demazières \/ Milan, ill. Raphaël Gauthey ",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Ross, Tony",
+    "TITRES":"C - Le garçon qui criait « Au loup ! » ",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Taback, Simms",
+    "TITRES":"Joseph avait un petit manteau ",
+    "EDITEURS":"Le Genévrier",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Tanaka, Béatrice",
+    "TITRES":"Puisque le chat est juge",
+    "EDITEURS":"Kanjil",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Yolen, Jane",
+    "TITRES":"L'empereur et le cerf-volant",
+    "EDITEURS":"Le Genévrier",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Zarcate, Catherine",
+    "TITRES":"L'enfant de cinq ans et les voleurs",
+    "EDITEURS":"Syros",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":null,
+    "TITRES":"P - Le cochon enchanté",
+    "EDITEURS":"Grasset jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":null,
+    "TITRES":"P - La goutte de miel",
+    "EDITEURS":"Bilboquet, raconté par Vincent Dès \/ Cipango, d’après le conte arménien du poète Hovhannès - Toumanian, de Séta Papazian",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":null,
+    "TITRES":"P - Jack et le haricot magique",
+    "EDITEURS":"Belin jeunesse, Christophe Bourges \/ Circonflexe, ill. Galdone \/ Flammarion jeunesse - Père Castor, Robert Giraud, ill. ill. Xavier Salomo \/ Fleurus, Crescence Bouvarel \/ Grasset jeunesse, ill. François André \/ Magnard jeunesse, raconté par Pierre Sémidor, ill. Mavalen Goust \/ Milan, Laurent Girard \/ Minedition, trad. Julie Duteil, ill. Nina Töwe \/ Nathan jeunesse, coll. Les petits cailloux, Lucile Placin \/ Tourbillon, Camille Guénot, ill. Julie Falques ",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":null,
+    "TITRES":"P - La soupe au caillou",
+    "EDITEURS":"Flammarion - Père Castor, Robert Giraud, ill. Olivier Latyk \/ L'École des loisirs, Anaïs Vaugelade \/ Les éditions des éléphants (à paraître en mars 2019), d'après Alain Serge Dzotap \/ Les éditions Fei, Jon J Muth, sous le titre La soupe aux cailloux de Fou, Lou et Shou\/ Mijade, Tony Ross \/ Milan, Agnès Cathala ",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":null,
+    "TITRES":"P - Le petit chacal et le crocodile",
+    "EDITEURS":"MeMo, conté d'après Sara Cone Bryant, ill. Simone Ohl \/ Seuil jeunesse, sous le titre Le petit chacal et le vieux crocodile, conté par ManfeÏ Obin, ill. Loustal",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":null,
+    "TITRES":"P - Les trois petits cochons",
+    "EDITEURS":"Editions Corentin, raconté par Marie-Paul Page \/ Magnard jeunesse, conte de Joseph Jacobs, ill. Puybaret \/ Gallimard jeunesse, La véritable histoire des trois petits cochons,Erik Blegvad",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Contes et fables"
+  },
+  {
+    "AUTEURS":"Abril, Henri (choix de)",
+    "TITRES":"Hardi Hérisson et autres poésies russes",
+    "EDITEURS":"Albin Michel jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Angelou, Maya",
+    "TITRES":"La vie ne me fait pas peur",
+    "EDITEURS":"Seghers jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Baron, Marc",
+    "TITRES":"Petits poèmes en rang par trois",
+    "EDITEURS":"Bulles de savon",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Bergèse, Paul",
+    "TITRES":"Les poches pleines de mots",
+    "EDITEURS":"Soc et Foc",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Besnier, Michel",
+    "TITRES":"Mes poules parlent",
+    "EDITEURS":"Møtus",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Bianu, Zéno",
+    "TITRES":"Je danse avec le big bang",
+    "EDITEURS":"Centre de Créations pour l'Enfance de Tinqueux",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Billet, Julia",
+    "TITRES":"Noémie lit et crie",
+    "EDITEURS":"Møtus",
+    "Unnamed: 3":null,
+    "NIVEAUX":"2 3",
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Boudet, Alain",
+    "TITRES":"Les mots des mois",
+    "EDITEURS":"Donner à voir",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Butor, Michel",
+    "TITRES":"C - Zoo",
+    "EDITEURS":"Rue du monde",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Cazals, Thierry",
+    "TITRES":"Le petit cul tout blanc du lièvre",
+    "EDITEURS":"Møtus",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Chedid, Andrée",
+    "TITRES":"L'onomatopée",
+    "EDITEURS":"Rue du monde",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Christien, Marie-Josée",
+    "TITRES":"Conversation de l'arbre et du vent",
+    "EDITEURS":"Tertium",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Desnos, Robert",
+    "TITRES":"P - Chantefables et chantefleurs",
+    "EDITEURS":"Gründ (ill. Laura Guéry & Julie Wendling) ",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Dumortier, David",
+    "TITRES":"Cligne-musette",
+    "EDITEURS":"Cheyne",
+    "Unnamed: 3":null,
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Fort, Paul",
+    "TITRES":"C - Le bonheur est dans le pré",
+    "EDITEURS":"Flammarion jeunesse, Rue du monde",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Guillevic, Eugène",
+    "TITRES":"C - Échos, disait-il",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Henry, Jean-Marie (choix de)",
+    "TITRES":"Ça fait rire les poètes",
+    "EDITEURS":"Rue du monde",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1 3",
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Jabès, Edmond",
+    "TITRES":"C - Petites poésies pour jours de pluie et de soleil",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Jean, Georges",
+    "TITRES":"Écrit sur la page",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Lujan, Jorge",
+    "TITRES":"Poème à compter",
+    "EDITEURS":"Syros jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Mathy, Philippe",
+    "TITRES":"L'atelier des saisons",
+    "EDITEURS":"Cheyne",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Niogret, Réjane & Poslaniec, Christian (choix de)",
+    "TITRES":"Le canari m'a dit",
+    "EDITEURS":"Le temps des cerises",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-3",
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Norac, Carl",
+    "TITRES":"Petits poèmes pour passer le temps",
+    "EDITEURS":"Didier jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Norge",
+    "TITRES":"C - On peut se tromper",
+    "EDITEURS":"Rue du monde",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Troïanowski, Jean-Louis",
+    "TITRES":"La lune ne m'a jamais déçu à part ça…",
+    "EDITEURS":"Pluie d'étoiles éditions",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Prévert, Jacques",
+    "TITRES":"C - La pêche à la baleine",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Rochedy, André",
+    "TITRES":"C - Descendre au jardin",
+    "EDITEURS":"Cheyne",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Roubaud, Jacques",
+    "TITRES":"Rondeaux",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-3",
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Serres, Alain",
+    "TITRES":"Le bestiaire des mots",
+    "EDITEURS":"Cheyne",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Serres, Alain (choix de)",
+    "TITRES":"Affiche ton poème",
+    "EDITEURS":"Rue du monde",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-3",
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Siméon, Jean-Pierre",
+    "TITRES":"Le livre des petits étonnements du sage Tao Li Fu",
+    "EDITEURS":"Cheyne",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Topor, Roland",
+    "TITRES":"Dans la tête à Topor",
+    "EDITEURS":"Rue du monde",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-3",
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Vian, Boris",
+    "TITRES":"C - Abécédaire en 26 chansonnettes de Boris Vian - album CD",
+    "EDITEURS":"Formulette production",
+    "Unnamed: 3":null,
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Vinau, Thomas",
+    "TITRES":"L’aube appartient aux pies",
+    "EDITEURS":"Møtus",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Poésie"
+  },
+  {
+    "AUTEURS":"Adam, Olivier",
+    "TITRES":"Achile et la rivière",
+    "EDITEURS":"Une fois encore",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Akakpo, Gustave",
+    "TITRES":"Le petit monde merveilleux",
+    "EDITEURS":"Grasset jeunese",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Atxaga, Bernardo",
+    "TITRES":"Shola et les lions",
+    "EDITEURS":"La Joie de lire",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Baffert, Sigrid",
+    "TITRES":"Krol, le fou qui ne savait plus voler",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Ben Kemoun, Hubert",
+    "TITRES":"Samuel, un monstre dans la peau ",
+    "EDITEURS":"Nathan",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Blake, Quentin",
+    "TITRES":"Armeline Fourchedrue",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Brisou-Pellen, Evelyne",
+    "TITRES":"Le vrai prince Thibault",
+    "EDITEURS":"Rageot",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Burgess, Melvin",
+    "TITRES":"L'homme aux oiseaux",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Chabas, Jean-François",
+    "TITRES":"Le père Tire-Bras",
+    "EDITEURS":"Thierry Magnier",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Chartre, Cécile",
+    "TITRES":"Ça déménage !",
+    "EDITEURS":"Rouergue",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Clément, Nathalie & Yves-Marie",
+    "TITRES":"Qui veut la peau de l'anaconda ?",
+    "EDITEURS":"Syros",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Coerr, Eleanor",
+    "TITRES":"Les mille oiseaux d'Hiroshima",
+    "EDITEURS":"Milan",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Crossley-Holand, Kevin",
+    "TITRES":"Le cavalier tempête",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Dahl, Roald",
+    "TITRES":"C - Les minuscules",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Daniel, Stéphane",
+    "TITRES":"Le chevalier Têtenlère",
+    "EDITEURS":"Rageot",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Dayre, Valérie",
+    "TITRES":"Tes petits camarades",
+    "EDITEURS":"Thierry Magnier",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"De Hirshing, Nicolas",
+    "TITRES":"Le mot interdit",
+    "EDITEURS":"Bayard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Defossez, Jean-Marie",
+    "TITRES":"Attention, fragile ! ",
+    "EDITEURS":"Bayard jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Demers, Dominique",
+    "TITRES":"Mlle Charlotte : la meilleure entraîneuse de foot (vol.6)",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Desplechin, Marie",
+    "TITRES":"L'école de ma vie",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Donner, Chris",
+    "TITRES":"C - Le Cheval qui sourit",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Dupouy, Fred",
+    "TITRES":"Flopsy",
+    "EDITEURS":"Talents hauts",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Favaro, Patrice",
+    "TITRES":"Un beau jour pour être riche",
+    "EDITEURS":"Nathan jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Giono, Jean",
+    "TITRES":"C - Le petit garçon qui avait envie d'espace",
+    "EDITEURS":"Gallimard jeunese",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Giraud, Robert (adapté par)",
+    "TITRES":"P - Un bon tour de Renart",
+    "EDITEURS":"Flammarion-Père Castor \/ Gallimard jeunesse, Bruno Heitz, Le Roman de Renart",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-3",
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Girin, Michel",
+    "TITRES":"Le scarabée magique",
+    "EDITEURS":"Rageot",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Graves, Robert",
+    "TITRES":"C - Le grand livre vert",
+    "EDITEURS":"Gallimard",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Grenier, Christian",
+    "TITRES":"Hercule, chat policier - Jumelles en détresse",
+    "EDITEURS":"Rageot",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Gutman, Colas",
+    "TITRES":"L'enfant",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Harris, Isobel",
+    "TITRES":"C - Le petit Brown",
+    "EDITEURS":"MeMo",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Hendrickx, Marie-Christine",
+    "TITRES":"Une grand-mère au grand coeur",
+    "EDITEURS":"Bayard",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Hoestlandt, Jo",
+    "TITRES":"Lisa a disparu",
+    "EDITEURS":"Nathan jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Huxley, Aldous",
+    "TITRES":"C - Les corbeaux de Pearblossom ",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Keller, Alice",
+    "TITRES":"Le bec à oreille",
+    "EDITEURS":"La Joie de lire",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Kelly, Jacqueline",
+    "TITRES":"Calpurnia apprentie vétérinaire ( vol.1 : Attention, mouffettes) ",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"King-Smith, Dick",
+    "TITRES":"Les 9 vies d'Aristote",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Knudsen, Michelle",
+    "TITRES":"Le roi de la bibliothèque",
+    "EDITEURS":"Gründ",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Könnecke, Ole",
+    "TITRES":"Les aventures de Lester",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Lagercranz, Rose",
+    "TITRES":"Ma vie heureuse",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Laroche, Agnès",
+    "TITRES":"Cours Ayana !",
+    "EDITEURS":"Rageot",
+    "Unnamed: 3":null,
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Lavachery, Thomas",
+    "TITRES":"Tor et les gnomes",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Le Guin, Ursula K",
+    "TITRES":"Les chats volants",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Legendre, Françoise",
+    "TITRES":"Le train des barracas",
+    "EDITEURS":"Thierry Magnier",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Levy, Didier",
+    "TITRES":"Comment devenir un prince charmant en 10 leçons",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Ligny, Jean-Marc",
+    "TITRES":"L’enfant bleu",
+    "EDITEURS":"Bayard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Lobel, Arnold",
+    "TITRES":"C - La soupe à la souris",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Marie, Claude",
+    "TITRES":"Le petit chapon rond rouge",
+    "EDITEURS":"Møtus",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Maupassant, Guy de",
+    "TITRES":"P - Le papa de Simon ",
+    "EDITEURS":"Milan",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Mitton, Tony",
+    "TITRES":"Le conte de tous les contes",
+    "EDITEURS":"Casterman",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Moncomble, Gérard",
+    "TITRES":"Frère de Yak",
+    "EDITEURS":"Fleurus",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Morgenstern, Susie",
+    "TITRES":"Même les princesses doivent aller à l'école",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Morpurgo, Michael",
+    "TITRES":"Le cygne argenté ",
+    "EDITEURS":"Kaléidoscope",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Moser, Erwin",
+    "TITRES":"Marius le chat : drôle d'idées ! (volume 1)",
+    "EDITEURS":"Casterman",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Motsch, Élisabeth",
+    "TITRES":"Gabriel",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Murail, Marie-Aude",
+    "TITRES":"Mystère",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Naumann-Villemin, Christine",
+    "TITRES":"Clodomir Mousqueton",
+    "EDITEURS":"Nathan",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Orr, Wendy",
+    "TITRES":"L’arche des Noé",
+    "EDITEURS":"Flammarion-Père Castor",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Oster, Christian",
+    "TITRES":"Le chevalier qui cherchait ses chaussettes",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Raud, Piret",
+    "TITRES":"Voisins zinzins et autres histoires de mon immeuble",
+    "EDITEURS":"Rouergue",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Roy, Claude",
+    "TITRES":"C - La maison qui s’envole",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Steig, William",
+    "TITRES":"C - Amos et Boris",
+    "EDITEURS":"Gallimard jeunese",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Sylvander, Matthieu",
+    "TITRES":"Le plein de Blorg",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Tashlin, Franck",
+    "TITRES":"C - L'oppossum qui avait l'air triste",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Thiès, Paul",
+    "TITRES":"Pas de whisky pour Méphisto",
+    "EDITEURS":"Syros jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Turoche-Dromery ",
+    "TITRES":"Charly",
+    "EDITEURS":"Thierry Magnier",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Valckx, Catharina",
+    "TITRES":"Waldo et la mystérieuse cousine",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Varley, Susan",
+    "TITRES":"C - Au revoir blaireau",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":1,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Vinaver, Michel",
+    "TITRES":"C - Les histoires de Rosalie",
+    "EDITEURS":"Flammarion-Père Castor",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Walbecq, Hervé",
+    "TITRES":"Histoires d'enfants à lire aux animaux",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Yeoman, John",
+    "TITRES":"La révolte des lavandières",
+    "EDITEURS":"Gallimard jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Romans et récits illustrés"
+  },
+  {
+    "AUTEURS":"Bernard, Frédéric",
+    "TITRES":"La comédie des ogres",
+    "EDITEURS":"Albin Michel jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Théâtre"
+  },
+  {
+    "AUTEURS":"Brun-Cosme, Nadine",
+    "TITRES":"Et moi et moi !",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Théâtre"
+  },
+  {
+    "AUTEURS":"Charlip, Rémy",
+    "TITRES":"Maman ! Maman ! j‘ai mal au ventre !",
+    "EDITEURS":"Circonflexe",
+    "Unnamed: 3":null,
+    "NIVEAUX":1,
+    "CATEGORIES":"Théâtre"
+  },
+  {
+    "AUTEURS":"Fehner, Inès",
+    "TITRES":"L. aime L.",
+    "EDITEURS":"Tertium",
+    "Unnamed: 3":null,
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Théâtre"
+  },
+  {
+    "AUTEURS":"Herbaut, Véronique",
+    "TITRES":"Avant la peur du loup",
+    "EDITEURS":"Syros",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Théâtre"
+  },
+  {
+    "AUTEURS":"Hinglais, Sylvaine",
+    "TITRES":"Le fabuleux amour d'Aucassin et Nicolette",
+    "EDITEURS":"Albin Michel jeunesse",
+    "Unnamed: 3":null,
+    "NIVEAUX":2,
+    "CATEGORIES":"Théâtre"
+  },
+  {
+    "AUTEURS":"Kenny, Mike",
+    "TITRES":"Allez, Ollie...à l'eau !",
+    "EDITEURS":"Heyoka jeunesse – Actes sud papiers",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Théâtre"
+  },
+  {
+    "AUTEURS":"Lebeau, Suzanne",
+    "TITRES":"Souliers de sable",
+    "EDITEURS":"Éditions Théâtrales",
+    "Unnamed: 3":null,
+    "NIVEAUX":3,
+    "CATEGORIES":"Théâtre"
+  },
+  {
+    "AUTEURS":"Nordmann, Jean-Gabriel",
+    "TITRES":"Le long voyage du pingouin vers la jungle",
+    "EDITEURS":"La Fontaine",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Théâtre"
+  },
+  {
+    "AUTEURS":"Papin, Nathalie",
+    "TITRES":"Le gardien des ombres",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":2,
+    "CATEGORIES":"Théâtre"
+  },
+  {
+    "AUTEURS":"Paquet, Dominique",
+    "TITRES":"Son parfum d’avalanche",
+    "EDITEURS":"Théâtrales jeunesse",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":3,
+    "CATEGORIES":"Théâtre"
+  },
+  {
+    "AUTEURS":"Sylvestre, Anne",
+    "TITRES":"Méchant !",
+    "EDITEURS":"Heyoka jeunesse - Actes Sud Papiers ",
+    "Unnamed: 3":null,
+    "NIVEAUX":"1-2",
+    "CATEGORIES":"Théâtre"
+  },
+  {
+    "AUTEURS":"Tostain, Christophe",
+    "TITRES":"Par la voix",
+    "EDITEURS":"Espaces 34",
+    "Unnamed: 3":"Nouveauté",
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Théâtre"
+  },
+  {
+    "AUTEURS":"Wegenast, Bettina",
+    "TITRES":"Erwin et Grenouille",
+    "EDITEURS":"L'École des loisirs",
+    "Unnamed: 3":null,
+    "NIVEAUX":"2-3",
+    "CATEGORIES":"Théâtre"
+  }
+]

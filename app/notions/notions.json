@@ -45,6 +45,7 @@
 
   {
     "classe": "CE1",
+    "cycle": "cycle2",
     "notions": [
       {
         "titre": "Contes et récits traditionnels",
@@ -88,6 +89,7 @@
 
   {
     "classe": "CE2",
+    "cycle": "cycle2",
     "notions": [
       {
         "titre": "Contes et récits du patrimoine",
