@@ -7,7 +7,7 @@ interface Oeuvre {
   ILLUSTRATEURS: string | null;
   TITRE: string;
   EDITEUR: string;
-  "NIVEAU DE LECTURE": string | number;
+  NIVEAUX: string | number;
   THEME: string;
 }
 
@@ -31,11 +31,20 @@ export default function Cycle1Page() {
           <tbody>
             {oeuvres.map((o, idx) => (
               <tr key={o.TITRE + o.AUTEURS + idx} className={idx % 2 === 0 ? "bg-white" : "bg-blue-50"}>
-                <td className="px-4 py-3 font-semibold text-blue-900 border-b border-gray-200 align-top">{o.TITRE}</td>
+                <td className="px-4 py-3 font-semibold text-blue-900 border-b border-gray-200 align-top">
+                  <a
+                    href={`https://www.google.com/search?q=${encodeURIComponent(o.TITRE + (o.AUTEURS ? ' ' + o.AUTEURS : ''))}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-blue-700 underline hover:text-blue-900 hover:underline font-semibold transition-colors"
+                  >
+                    {o.TITRE}
+                  </a>
+                </td>
                 <td className="px-4 py-3 text-gray-900 border-b border-gray-200 align-top">{o.AUTEURS || <span className="italic text-gray-400">—</span>}</td>
                 <td className="px-4 py-3 text-gray-900 border-b border-gray-200 align-top">{o.ILLUSTRATEURS || <span className="italic text-gray-400">—</span>}</td>
                 <td className="px-4 py-3 text-gray-900 border-b border-gray-200 align-top">{o.EDITEUR}</td>
-                <td className="px-4 py-3 text-gray-900 border-b border-gray-200 align-top">{o["NIVEAU DE LECTURE"]}</td>
+                <td className="px-4 py-3 text-gray-900 border-b border-gray-200 align-top">{o.NIVEAUX}</td>
                 <td className="px-4 py-3 text-gray-900 border-b border-gray-200 align-top">{o.THEME}</td>
               </tr>
             ))}

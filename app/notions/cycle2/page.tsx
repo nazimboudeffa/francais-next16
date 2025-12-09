@@ -38,7 +38,16 @@ export default function Cycle2Page() {
           <tbody>
             {oeuvres.map((o, idx) => (
               <tr key={o.TITRES + o.AUTEURS + idx} className={idx % 2 === 0 ? "bg-white" : "bg-blue-50"}>
-                <td className="px-4 py-3 font-semibold text-blue-900 border-b border-gray-200 align-top">{o.TITRES}</td>
+                <td className="px-4 py-3 font-semibold text-blue-900 border-b border-gray-200 align-top">
+                  <a
+                    href={`https://www.google.com/search?q=${encodeURIComponent((o.TITRES || "") + (o.AUTEURS ? ' ' + o.AUTEURS : ''))}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-blue-700 underline hover:text-blue-900 hover:underline font-semibold transition-colors"
+                  >
+                    {o.TITRES}
+                  </a>
+                </td>
                 <td className="px-4 py-3 text-gray-900 border-b border-gray-200 align-top">{o.AUTEURS}</td>
                 <td className="px-4 py-3 text-gray-900 border-b border-gray-200 align-top">{o.EDITEURS}</td>
                 <td className="px-4 py-3 text-gray-900 border-b border-gray-200 align-top">{o.NIVEAUX}</td>

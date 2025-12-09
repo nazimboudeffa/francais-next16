@@ -4,7 +4,7 @@
     "ILLUSTRATEURS":"Divers",
     "TITRE":"Anthologie de la comptine traditionnelle francophone (avec cédé)",
     "EDITEUR":"Éveil et découvertes",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -12,7 +12,7 @@
     "ILLUSTRATEURS":"Vautier, Mireille",
     "TITRE":"365 contes pour tous les âges",
     "EDITEUR":"Gallimard Jeunesse",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -20,7 +20,7 @@
     "ILLUSTRATEURS":"Jolivet, Jöelle",
     "TITRE":"Le schmat doudou ",
     "EDITEUR":"Syros",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -28,7 +28,7 @@
     "ILLUSTRATEURS":null,
     "TITRE":"Comment raconter des histoires à nos enfants ?",
     "EDITEUR":"Hachette BnF",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -36,7 +36,7 @@
     "ILLUSTRATEURS":null,
     "TITRE":"Les plus beaux poèmes d'hier et d'aujourd'hui",
     "EDITEUR":"Hachette, Le livre de poche",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -44,7 +44,7 @@
     "ILLUSTRATEURS":"Calleja, Audrey",
     "TITRE":"C'est la petite bête qui monte (avec cédé)",
     "EDITEUR":"Benjaminsmedia",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -52,7 +52,7 @@
     "ILLUSTRATEURS":"Poizat, Chloé",
     "TITRE":"Grain-d'Aile",
     "EDITEUR":"Nathan, en coédition avec la Réunion des musées nationaux",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -60,7 +60,7 @@
     "ILLUSTRATEURS":"Félix, Lucie",
     "TITRE":"La Promenade de Petit Bonhomme",
     "EDITEUR":"Les Grandes Personnes",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -68,7 +68,7 @@
     "ILLUSTRATEURS":"Friese, Julia",
     "TITRE":"Anna la peureuse ",
     "EDITEUR":"Lirabelle (Kamishibaï)",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -76,7 +76,7 @@
     "ILLUSTRATEURS":"Ligneris, Charlotte",
     "TITRE":"Les aventures d'Itamar",
     "EDITEUR":"Seuil jeunesse",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -84,7 +84,7 @@
     "ILLUSTRATEURS":"Wakayama, Shizuko",
     "TITRE":"Blanc, le petit chaton (Kamishibaï)",
     "EDITEUR":"Dôshinsha",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -92,7 +92,7 @@
     "ILLUSTRATEURS":"Fronty, Aurélia",
     "TITRE":"Comptines et chansons du Papagaio \"Le Brésil et le Portugal en 30 comptines\" (avec cédé)",
     "EDITEUR":"Didier Jeunesse",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -100,7 +100,7 @@
     "ILLUSTRATEURS":"Badel Renan, Bourre Martine & Saillard Rémi ",
     "TITRE":"Bêtes pas si bêtes ! (avec cédé) ",
     "EDITEUR":"Didier Jeunesse",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -108,7 +108,7 @@
     "ILLUSTRATEURS":"Rojankowsky, Feodor ",
     "TITRE":"Le roman des bêtes (Foux, Bourru, Scaf, Martin pêcheur, Quipic, Coucou, Panache, Plouf)",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -116,7 +116,7 @@
     "ILLUSTRATEURS":"Hié, Vanessa - Jeannerot, Marion - Des Ligneris Charlotte - Saillard, Rémi",
     "TITRE":"Le tour du monde des contes (versions issues de différents pays de : Les trois petits cochons, Les musiciens de Brême, Le lièvre et la tortue, Tom Pouce)",
     "EDITEUR":"Syros ",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -124,7 +124,7 @@
     "ILLUSTRATEURS":"Tallec, Olivier ",
     "TITRE":"Pierre et le loup (avec cédé)",
     "EDITEUR":"Gallimard Jeunesse",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -132,7 +132,7 @@
     "ILLUSTRATEURS":"Chatellard, Isabelle - Girel, Stéphane",
     "TITRE":"À pas de velours (avec cédé)",
     "EDITEUR":"Didier Jeunesse",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -140,7 +140,7 @@
     "ILLUSTRATEURS":"Gorbachev, Valeri",
     "TITRE":"Les vingt contes les plus drôles du monde",
     "EDITEUR":"Gallimard Jeunesse",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -148,7 +148,7 @@
     "ILLUSTRATEURS":"Legrand Maud, Ragondet Nathalie & Simon Romain",
     "TITRE":"3 nouveaux contes du Père Castor à écouter dès 2 ans (Le petit lapin malin, Le chaton désobéissant, Le petit éléphant têtu)",
     "EDITEUR":"Flammarion - Père-Castor ",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -156,7 +156,7 @@
     "ILLUSTRATEURS":"Fornage, Emmanuel ",
     "TITRE":"Boucle d'or et les trois ours*",
     "EDITEUR":"Circonflexe",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -164,7 +164,7 @@
     "ILLUSTRATEURS":"Pollet, Clémence",
     "TITRE":"Mon livre-disque de comptines (avec cédé)",
     "EDITEUR":"Didier Jeunesse",
-    "NIVEAU DE LECTURE":"2 à 4",
+    "NIVEAUX":"2 à 4",
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -172,7 +172,7 @@
     "ILLUSTRATEURS":"Ross, Tony",
     "TITRE":"Mon imagier des comptines anglaises (16 Nursery Rhymes, avec cédé)",
     "EDITEUR":"Gallimard Jeunesse",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"1. Entrer par les pratiques orales de transmission"
   },
   {
@@ -180,7 +180,7 @@
     "ILLUSTRATEURS":"Acerbis, Francesco",
     "TITRE":"ABC ville",
     "EDITEUR":"Sarbacane",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -188,7 +188,7 @@
     "ILLUSTRATEURS":"Armellini, Chiara",
     "TITRE":"Devinettes en petits morceaux",
     "EDITEUR":"La Joie de Lire",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -196,7 +196,7 @@
     "ILLUSTRATEURS":"Fraipont, Céline",
     "TITRE":"Petit Poilu - Tome 18 : Superpoilu",
     "EDITEUR":"Dupuis",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -204,7 +204,7 @@
     "ILLUSTRATEURS":"Bataille, Marion",
     "TITRE":"ABC 3D",
     "EDITEUR":"Albin Michel Jeunesse",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -212,7 +212,7 @@
     "ILLUSTRATEURS":"Cailloux, Michaël",
     "TITRE":"Merveilleuses couleurs",
     "EDITEUR":"Thierry Magnier",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -220,7 +220,7 @@
     "ILLUSTRATEURS":"Franek, Claire",
     "TITRE":"La trompe de l'éléphant",
     "EDITEUR":"Rue du Monde",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -228,7 +228,7 @@
     "ILLUSTRATEURS":"Gravier, Alice",
     "TITRE":"Ma Maison",
     "EDITEUR":"Les Grandes Personnes",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -236,7 +236,7 @@
     "ILLUSTRATEURS":"Brouillard, Anne",
     "TITRE":"Berceuse du merle",
     "EDITEUR":"Seuil Jeunesse",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -244,7 +244,7 @@
     "ILLUSTRATEURS":"Moro, Kaori",
     "TITRE":"Plic, plac, ploc",
     "EDITEUR":"Didier Jeunesse",
-    "NIVEAU DE LECTURE":"1 - 2",
+    "NIVEAUX":"1 - 2",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -252,7 +252,7 @@
     "ILLUSTRATEURS":"Carrier, Isabelle",
     "TITRE":"Pirouette Cacahouète",
     "EDITEUR":"Casterman",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -260,7 +260,7 @@
     "ILLUSTRATEURS":"Charlat, Benoît",
     "TITRE":"Parapluie",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -268,7 +268,7 @@
     "ILLUSTRATEURS":"Placin, Lucile",
     "TITRE":"L'onomatopée",
     "EDITEUR":"Rue du Monde",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -276,7 +276,7 @@
     "ILLUSTRATEURS":"Coat, Janik",
     "TITRE":"Je ne suis pas comme les autres ",
     "EDITEUR":"MeMo",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -284,7 +284,7 @@
     "ILLUSTRATEURS":"Corazza, Lynda",
     "TITRE":"Chaussettes",
     "EDITEUR":"Rouergue",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -292,7 +292,7 @@
     "ILLUSTRATEURS":"Cordell, Matthew",
     "TITRE":"Perdus dans la neige",
     "EDITEUR":"Le Genévrier",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -300,7 +300,7 @@
     "ILLUSTRATEURS":"Louchard, Antonin",
     "TITRE":"Tout un monde",
     "EDITEUR":"Thierry Magnier",
-    "NIVEAU DE LECTURE":"2 à 4",
+    "NIVEAUX":"2 à 4",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -308,7 +308,7 @@
     "ILLUSTRATEURS":"Crausaz, Anne ",
     "TITRE":"Raymond rêve",
     "EDITEUR":"MeMo",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -316,7 +316,7 @@
     "ILLUSTRATEURS":"Cumont, Louise-Marie",
     "TITRE":"En voiture !",
     "EDITEUR":"MeMo",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -324,7 +324,7 @@
     "ILLUSTRATEURS":"Dé, Claire",
     "TITRE":"Ouvre les yeux !",
     "EDITEUR":"Les Grandes Personnes",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -332,7 +332,7 @@
     "ILLUSTRATEURS":"Erlbruch, Wolf",
     "TITRE":"Les dix petits harengs",
     "EDITEUR":"La Joie de Lire",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -340,7 +340,7 @@
     "ILLUSTRATEURS":"Fayolle, Marion",
     "TITRE":"Nappe comme neige",
     "EDITEUR":"Notari",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -348,7 +348,7 @@
     "ILLUSTRATEURS":"Oxenbury, Helen",
     "TITRE":"2 petites mains et 2 petits pieds",
     "EDITEUR":"Gallimard Jeunesse",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -356,7 +356,7 @@
     "ILLUSTRATEURS":"Spricigo, Jean-François",
     "TITRE":"Pour grandir, il faut…",
     "EDITEUR":"Rouergue",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -364,7 +364,7 @@
     "ILLUSTRATEURS":"Perrin, Clotilde",
     "TITRE":"Image",
     "EDITEUR":"Rue du Monde",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -372,7 +372,7 @@
     "ILLUSTRATEURS":"Herbauts, Anne",
     "TITRE":"Que fait la lune la nuit ?",
     "EDITEUR":"Casterman",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -380,7 +380,7 @@
     "ILLUSTRATEURS":"Meade, Holly",
     "TITRE":"Chuuut! ",
     "EDITEUR":"Flammarion - Père-Castor",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -388,7 +388,7 @@
     "ILLUSTRATEURS":"Humbert, Nicolette",
     "TITRE":"Que s'est-il passé ?",
     "EDITEUR":"La Joie de Lire",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -396,7 +396,7 @@
     "ILLUSTRATEURS":"Jackowski, Amélie",
     "TITRE":"Chut ! Il ne faut pas réveiller les petits lapins qui dorment",
     "EDITEUR":"Rouergue",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -404,7 +404,7 @@
     "ILLUSTRATEURS":"Jalibert, Maria",
     "TITRE":"Le joyeux abécédaire",
     "EDITEUR":"Didier Jeunesse",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -412,7 +412,7 @@
     "ILLUSTRATEURS":"Jung, Jin-Ho",
     "TITRE":"Regarde en haut ! ",
     "EDITEUR":"Rue du Monde",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -420,7 +420,7 @@
     "ILLUSTRATEURS":"Krolak, Agata",
     "TITRE":"Un ours comme ci, un ours comme ça",
     "EDITEUR":"Rue du Monde",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -428,7 +428,7 @@
     "ILLUSTRATEURS":"Léonard, Aude",
     "TITRE":"Le sous-marin de papier",
     "EDITEUR":"Møtus",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -436,7 +436,7 @@
     "ILLUSTRATEURS":"Crozon, Alain & Lanchais, Aurélie",
     "TITRE":"Qui suis-je ?",
     "EDITEUR":"Seuil Jeunesse",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -444,7 +444,7 @@
     "ILLUSTRATEURS":"Le Bec, Gwendal",
     "TITRE":"Un Bois",
     "EDITEUR":"Albin Michel Jeunesse",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -452,7 +452,7 @@
     "ILLUSTRATEURS":"Lejonc, Régis",
     "TITRE":"Ma voisine est amoureuse",
     "EDITEUR":"Actes sud junior",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -460,7 +460,7 @@
     "ILLUSTRATEURS":"Susumo, Fujimoto",
     "TITRE":"Si j'étais une souris",
     "EDITEUR":"Grasset Jeunesse",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -468,7 +468,7 @@
     "ILLUSTRATEURS":"Maubille, Jean",
     "TITRE":"Une poule*",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":"2  à 4",
+    "NIVEAUX":"2  à 4",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -476,7 +476,7 @@
     "ILLUSTRATEURS":"Millet, Séverin",
     "TITRE":"Un soir de pleine lune dans mon jardin",
     "EDITEUR":"Sarbacane",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -484,7 +484,7 @@
     "ILLUSTRATEURS":"Miyakoshi, Akiko",
     "TITRE":"Quand il fait nuit",
     "EDITEUR":"Syros",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -492,7 +492,7 @@
     "ILLUSTRATEURS":"Pacovská, Květa",
     "TITRE":"Alphabet",
     "EDITEUR":"Minedition",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -500,7 +500,7 @@
     "ILLUSTRATEURS":"Pittau et Gervais",
     "TITRE":"Les contraires",
     "EDITEUR":"Seuil Jeunesse",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -508,7 +508,7 @@
     "ILLUSTRATEURS":"Poirier, Marie",
     "TITRE":"Le rendez-vous de Monsieur Chat",
     "EDITEUR":"Les Grandes Personnes",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -516,7 +516,7 @@
     "ILLUSTRATEURS":"Poirot-Bourdain, Hubert",
     "TITRE":"Sous les étoiles",
     "EDITEUR":"MeMo",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -524,7 +524,7 @@
     "ILLUSTRATEURS":"Ponti, Claude",
     "TITRE":"L'album d'Adèle",
     "EDITEUR":"Gallimard Jeunesse",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -532,7 +532,7 @@
     "ILLUSTRATEURS":"Duhême, Jacqueline",
     "TITRE":"En sortant de l'école ",
     "EDITEUR":"Gallimard Jeunesse",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -540,7 +540,7 @@
     "ILLUSTRATEURS":"Bourgeau, Vincent",
     "TITRE":"Un ogre",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -548,7 +548,7 @@
     "ILLUSTRATEURS":"Rathmann, Peggy",
     "TITRE":"Au lit dans 10 minutes",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -556,7 +556,7 @@
     "ILLUSTRATEURS":"Bonanni, Silvia",
     "TITRE":"Il faut une fleur",
     "EDITEUR":"Rue du Monde",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -564,7 +564,7 @@
     "ILLUSTRATEURS":"Zaü",
     "TITRE":"Le crocodile",
     "EDITEUR":"Rue du Monde",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -572,7 +572,7 @@
     "ILLUSTRATEURS":"Alemagna, Beatrice",
     "TITRE":"L'enfant qu'on envoie se coucher",
     "EDITEUR":"Rue du Monde",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -580,7 +580,7 @@
     "ILLUSTRATEURS":"Sazonoff, Zazie",
     "TITRE":"L'alphabet zinzin",
     "EDITEUR":"Mila ",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -588,7 +588,7 @@
     "ILLUSTRATEURS":"Sendak, Maurice",
     "TITRE":"Mini-bibliothèque (coffret comprenant : Pascal ; Ma soupe de poule au riz ; J'adore les alligators ; Un deux trois…etcetera !)",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -596,7 +596,7 @@
     "ILLUSTRATEURS":"Chausson, Julia",
     "TITRE":"Petits",
     "EDITEUR":"Rue du Monde",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -604,7 +604,7 @@
     "ILLUSTRATEURS":"Tallec, Olivier ",
     "TITRE":"L'abécédire",
     "EDITEUR":"Rue du Monde",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -612,7 +612,7 @@
     "ILLUSTRATEURS":"Soderguit, Alfredo",
     "TITRE":"Je suis un animal",
     "EDITEUR":"Didier Jeunesse",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -620,7 +620,7 @@
     "ILLUSTRATEURS":"Spier, Peter  ",
     "TITRE":"Les animaux ont la parole",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -628,7 +628,7 @@
     "ILLUSTRATEURS":"Krommes, Beth",
     "TITRE":"La maison dans la nuit",
     "EDITEUR":"Le Genévrier",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -636,7 +636,7 @@
     "ILLUSTRATEURS":"Gambini, Cécile",
     "TITRE":"Comptine",
     "EDITEUR":"Rue du Monde",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -644,7 +644,7 @@
     "ILLUSTRATEURS":"Van Hout, Mies",
     "TITRE":"Aujourd'hui, je suis…",
     "EDITEUR":"Minedition",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -652,7 +652,7 @@
     "ILLUSTRATEURS":"Voutch",
     "TITRE":"Pourquôôââ",
     "EDITEUR":"Thierry Magnier",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -660,7 +660,7 @@
     "ILLUSTRATEURS":"Hangadi, Ramesh & Dhadpe, Shantaram",
     "TITRE":"Faire",
     "EDITEUR":"Rue du Monde",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -668,7 +668,7 @@
     "ILLUSTRATEURS":" Audras, Agnès",
     "TITRE":"Méli-Mélo de mots",
     "EDITEUR":"Seuil Jeunesse",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -676,7 +676,7 @@
     "ILLUSTRATEURS":"Bourre, Martine",
     "TITRE":"J'aime la galette",
     "EDITEUR":"Didier Jeunesse",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -684,7 +684,7 @@
     "ILLUSTRATEURS":"Dumas, Philippe",
     "TITRE":"Au clair de la lune",
     "EDITEUR":"L'École des loisirs",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -692,7 +692,7 @@
     "ILLUSTRATEURS":"Louchard, Antonin",
     "TITRE":"Pomme de reinette et pomme d'api ",
     "EDITEUR":"Bayard Jeunesse",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -700,7 +700,7 @@
     "ILLUSTRATEURS":"Mollet, Charlotte",
     "TITRE":"Une souris verte…",
     "EDITEUR":"Didier Jeunesse",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.1 Entrer dans la langue, le langage et les images "
   },
   {
@@ -708,7 +708,7 @@
     "ILLUSTRATEURS":"Agee, Jon",
     "TITRE":"Le bon côté du mur",
     "EDITEUR":"Gallimard Jeunesse",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -716,7 +716,7 @@
     "ILLUSTRATEURS":"Altan",
     "TITRE":"Petits points rouges",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -724,7 +724,7 @@
     "ILLUSTRATEURS":"Anno, Mitsumasa",
     "TITRE":"Choisis ton masque",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -732,7 +732,7 @@
     "ILLUSTRATEURS":"Lluïsot",
     "TITRE":"Antonino contre le temps",
     "EDITEUR":"La Joie de Lire",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -740,7 +740,7 @@
     "ILLUSTRATEURS":"Atinuke & Brooksbank, Angela",
     "TITRE":"Bébé va au marché",
     "EDITEUR":"Les Éditions des Éléphants",
-    "NIVEAU DE LECTURE":"1 - 2",
+    "NIVEAUX":"1 - 2",
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -748,7 +748,7 @@
     "ILLUSTRATEURS":"Auzary-Luton, Sylvie ",
     "TITRE":"Loup y es-tu ? ",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -756,7 +756,7 @@
     "ILLUSTRATEURS":"Bertier, Anne ",
     "TITRE":"Le balcon",
     "EDITEUR":"Grandir",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -764,7 +764,7 @@
     "ILLUSTRATEURS":"Claveloux, Nicole",
     "TITRE":"Alboum",
     "EDITEUR":"Thierry Magnier",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -772,7 +772,7 @@
     "ILLUSTRATEURS":"Carter, David A.",
     "TITRE":"Petite Boîte Jaune",
     "EDITEUR":"Mango Jeunesse",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -780,7 +780,7 @@
     "ILLUSTRATEURS":"Faria, Rosana",
     "TITRE":"Le livre noir des couleurs",
     "EDITEUR":"Rue du Monde",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -788,7 +788,7 @@
     "ILLUSTRATEURS":"De Greef, Sabine",
     "TITRE":"1, 2, 3 Qui est là ?",
     "EDITEUR":"Pastel",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -796,7 +796,7 @@
     "ILLUSTRATEURS":"Dedieu, Thierry",
     "TITRE":"Le petit ver tout nu",
     "EDITEUR":"Seuil Jeunesse",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -804,7 +804,7 @@
     "ILLUSTRATEURS":"Delebecque, François",
     "TITRE":"Imagier des jouets",
     "EDITEUR":"Les Grandes Personnes",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -812,7 +812,7 @@
     "ILLUSTRATEURS":"Deneux, Xavier",
     "TITRE":"Brique à brique",
     "EDITEUR":"Milan Jeunesse",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -820,7 +820,7 @@
     "ILLUSTRATEURS":"Doray, Malika",
     "TITRE":"Ce livre-là",
     "EDITEUR":"MeMo",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -828,7 +828,7 @@
     "ILLUSTRATEURS":"Douzou, Olivier",
     "TITRE":"Loup ",
     "EDITEUR":"Rouergue",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -836,7 +836,7 @@
     "ILLUSTRATEURS":"Dreyfuss, Corinne",
     "TITRE":"Caché",
     "EDITEUR":"Thierry Magnier",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -844,7 +844,7 @@
     "ILLUSTRATEURS":"Emberley, Ed",
     "TITRE":"Va-t-en, Grand Monstre Vert !",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -852,7 +852,7 @@
     "ILLUSTRATEURS":"Fejto, Raphaël",
     "TITRE":"A quoi on joue, papa ?",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -860,7 +860,7 @@
     "ILLUSTRATEURS":"Gibert, Bruno",
     "TITRE":"Un papillon sur un chapeau",
     "EDITEUR":"Casterman",
-    "NIVEAU DE LECTURE":"2 à 4",
+    "NIVEAUX":"2 à 4",
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -868,7 +868,7 @@
     "ILLUSTRATEURS":"Gourounas, Jean",
     "TITRE":"Le mille-pattes",
     "EDITEUR":"Rouergue",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -876,7 +876,7 @@
     "ILLUSTRATEURS":"Utton, Peter",
     "TITRE":"Chhht !",
     "EDITEUR":"Pastel",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -884,7 +884,7 @@
     "ILLUSTRATEURS":"Hallensleben, Georg",
     "TITRE":"Pénélope se déguise",
     "EDITEUR":"Gallimard Jeunesse",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -892,7 +892,7 @@
     "ILLUSTRATEURS":"Coburn, Alisa",
     "TITRE":"Bonjour",
     "EDITEUR":"Didier Jeunesse",
-    "NIVEAU DE LECTURE":"1 - 2",
+    "NIVEAUX":"1 - 2",
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -900,7 +900,7 @@
     "ILLUSTRATEURS":"Hill, Éric",
     "TITRE":"Où est Spot, mon petit chien ?",
     "EDITEUR":"Nathan",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -908,7 +908,7 @@
     "ILLUSTRATEURS":"Hoban, Tana",
     "TITRE":"Regarde bien",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -916,7 +916,7 @@
     "ILLUSTRATEURS":"Jolivet, Joëlle",
     "TITRE":"Zoo logique",
     "EDITEUR":"Seuil Jeunesse",
-    "NIVEAU DE LECTURE":"1 à 4",
+    "NIVEAUX":"1 à 4",
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -924,7 +924,7 @@
     "ILLUSTRATEURS":"Kiehl, Stéphane",
     "TITRE":"Œuf dix",
     "EDITEUR":"Actes Sud Junior",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -932,7 +932,7 @@
     "ILLUSTRATEURS":"Burckel, Fabienne",
     "TITRE":"C'est comme ça chez moi",
     "EDITEUR":"Thierry Magnier",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -940,7 +940,7 @@
     "ILLUSTRATEURS":"Langue, Jean-Marc",
     "TITRE":"Ce petit ballon rouge…",
     "EDITEUR":"L'Élan vert",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -948,7 +948,7 @@
     "ILLUSTRATEURS":"Louchard, Antonin",
     "TITRE":"La promenade de Flaubert",
     "EDITEUR":"Thierry Magnier",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -956,7 +956,7 @@
     "ILLUSTRATEURS":"Maccari, Veronica",
     "TITRE":"Tout seul ?",
     "EDITEUR":"La Joie de Lire",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -964,7 +964,7 @@
     "ILLUSTRATEURS":"Manceau, Edouard",
     "TITRE":"Merci, le vent ! ",
     "EDITEUR":"Milan Jeunesse",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -972,7 +972,7 @@
     "ILLUSTRATEURS":"Mari, Iela",
     "TITRE":"Les aventures d'une petite bulle rouge",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -980,7 +980,7 @@
     "ILLUSTRATEURS":"Matoso, Madalena",
     "TITRE":"Et pourquoi pas toi ?",
     "EDITEUR":"Notari",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -988,7 +988,7 @@
     "ILLUSTRATEURS":"Morel, Claudine",
     "TITRE":"À la rencontre",
     "EDITEUR":"Didier Jeunesse",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -996,7 +996,7 @@
     "ILLUSTRATEURS":"Nadja",
     "TITRE":"Deux mains deux petits chiens",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -1004,7 +1004,7 @@
     "ILLUSTRATEURS":"Pienkowski, Jan",
     "TITRE":"La maison hantée",
     "EDITEUR":"Nathan",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -1012,7 +1012,7 @@
     "ILLUSTRATEURS":"Ramos, Mario",
     "TITRE":"Tout en haut",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -1020,7 +1020,7 @@
     "ILLUSTRATEURS":"Rascal",
     "TITRE":"Le vent m'a pris",
     "EDITEUR":"Pastel",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -1028,7 +1028,7 @@
     "ILLUSTRATEURS":"Badel, Ronan",
     "TITRE":"Le meilleur livre pour apprendre à dessiner une vache",
     "EDITEUR":"Thierry Magnier",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -1036,7 +1036,7 @@
     "ILLUSTRATEURS":"Oxenbury, Helen",
     "TITRE":"La chasse à l'ours",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -1044,7 +1044,7 @@
     "ILLUSTRATEURS":"Schwarz, Viviane",
     "TITRE":"Y a-t-il un chien dans ce livre ?",
     "EDITEUR":"Pastel",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -1052,7 +1052,7 @@
     "ILLUSTRATEURS":"Soutif, François",
     "TITRE":"Bouh !",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":"1 - 2",
+    "NIVEAUX":"1 - 2",
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -1060,7 +1060,7 @@
     "ILLUSTRATEURS":"Stehr, Frédéric",
     "TITRE":"Zim Bam Boum",
     "EDITEUR":"Pastel",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -1068,7 +1068,7 @@
     "ILLUSTRATEURS":"Takabatake, Jun",
     "TITRE":"À qui est ce vélo ?",
     "EDITEUR":"Picquier Jeunesse",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -1076,7 +1076,7 @@
     "ILLUSTRATEURS":"Tullet, Hervé",
     "TITRE":"Un livre",
     "EDITEUR":"Bayard Jeunesse",
-    "NIVEAU DE LECTURE":"1 - 2",
+    "NIVEAUX":"1 - 2",
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -1084,7 +1084,7 @@
     "ILLUSTRATEURS":"Wegerif, Gay",
     "TITRE":"Hum Hum",
     "EDITEUR":"MeMo",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.2 Entrer dans le jeu avec le livre, avec l'histoire ou un jeu mis en scène dans le livre"
   },
   {
@@ -1092,7 +1092,7 @@
     "ILLUSTRATEURS":"Altés, Marta",
     "TITRE":"NON !",
     "EDITEUR":"Circonflexe",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1100,7 +1100,7 @@
     "ILLUSTRATEURS":"Ashbé, Jeanne",
     "TITRE":"Que non, je m'habille !",
     "EDITEUR":"Pastel",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1108,7 +1108,7 @@
     "ILLUSTRATEURS":"Bour, Danièle",
     "TITRE":"Bonne nuit Petit Ours Brun !",
     "EDITEUR":"Bayard Jeunesse",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1116,7 +1116,7 @@
     "ILLUSTRATEURS":"Barton, Byron ",
     "TITRE":"Sur le chantier",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1124,7 +1124,7 @@
     "ILLUSTRATEURS":"Carpenter, Nancy",
     "TITRE":"Le petit bateau de Petit ours",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1132,7 +1132,7 @@
     "ILLUSTRATEURS":"Carle, Éric",
     "TITRE":"La chenille qui fait des trous",
     "EDITEUR":"Mijade",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1140,7 +1140,7 @@
     "ILLUSTRATEURS":"Cousins, Lucy",
     "TITRE":"Mimi va nager",
     "EDITEUR":"Albin Michel Jeunesse",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1148,7 +1148,7 @@
     "ILLUSTRATEURS":"Crews, Donald",
     "TITRE":"Un train passe",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1156,7 +1156,7 @@
     "ILLUSTRATEURS":"Dieterlé, Nathalie",
     "TITRE":"Tu joues Petit Loup ?",
     "EDITEUR":"L'Élan vert",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1164,7 +1164,7 @@
     "ILLUSTRATEURS":"Dunrea, Olivier",
     "TITRE":"Lola",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":"1 - 2",
+    "NIVEAUX":"1 - 2",
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1172,7 +1172,7 @@
     "ILLUSTRATEURS":"Garralon, Claire",
     "TITRE":"Poule bleue",
     "EDITEUR":"MeMo",
-    "NIVEAU DE LECTURE":"1 - 2",
+    "NIVEAUX":"1 - 2",
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1180,7 +1180,7 @@
     "ILLUSTRATEURS":"Gay, Michel",
     "TITRE":"Coffret \"Petit-camion, Petit-bateau, Petit-avion\"",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":"1 - 2",
+    "NIVEAUX":"1 - 2",
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1188,7 +1188,7 @@
     "ILLUSTRATEURS":"Prigent, Andrée",
     "TITRE":"Quel radis dis donc !*",
     "EDITEUR":"Didier Jeunesse",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1196,7 +1196,7 @@
     "ILLUSTRATEURS":"Gravett, Emily",
     "TITRE":"Lièvre et Ours C'est à MOI !",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":"1 - 2",
+    "NIVEAUX":"1 - 2",
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1204,7 +1204,7 @@
     "ILLUSTRATEURS":"Gréban, Quentin",
     "TITRE":"Oups !",
     "EDITEUR":"Mijade",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1212,7 +1212,7 @@
     "ILLUSTRATEURS":"Butel, Lucile",
     "TITRE":"La vache orange",
     "EDITEUR":"Père Castor-Flammarion",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1220,7 +1220,7 @@
     "ILLUSTRATEURS":"Haughton, Chris",
     "TITRE":"Un peu perdu",
     "EDITEUR":"Thierry Magnier",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1228,7 +1228,7 @@
     "ILLUSTRATEURS":"Haydé",
     "TITRE":"Moi, Milton",
     "EDITEUR":"La joie de lire",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1236,7 +1236,7 @@
     "ILLUSTRATEURS":"Houdart, Emmanuelle",
     "TITRE":"Tout va bien Merlin !",
     "EDITEUR":"Thierry Magnier",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1244,7 +1244,7 @@
     "ILLUSTRATEURS":"Hutchins, Pat",
     "TITRE":"Gare au renard !",
     "EDITEUR":"Circonflexe",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1252,7 +1252,7 @@
     "ILLUSTRATEURS":"Kazuo, Iwamura",
     "TITRE":"La pomme rouge",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1260,7 +1260,7 @@
     "ILLUSTRATEURS":"Jadoul, Émile",
     "TITRE":"Juste un petit bout !",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1268,7 +1268,7 @@
     "ILLUSTRATEURS":"Jonas, Ann",
     "TITRE":"Où est Maman Ourse ?",
     "EDITEUR":"Didier jeunesse",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1276,7 +1276,7 @@
     "ILLUSTRATEURS":"Crew, Donald",
     "TITRE":"Mer bleue",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1284,7 +1284,7 @@
     "ILLUSTRATEURS":"Lambert, Anaîs",
     "TITRE":"Pas de géant",
     "EDITEUR":"Les Éditions des Éléphants",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1292,7 +1292,7 @@
     "ILLUSTRATEURS":"Le Saux, Alain",
     "TITRE":"La boîte des papas 3 (volume 3 comprenant : Papa m'embrasse ; Papa fait du patin ; L'oreiller de papa ; Papa est câlin)",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1300,7 +1300,7 @@
     "ILLUSTRATEURS":"Monfreid, Dorothée de",
     "TITRE":"Dodo",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1308,7 +1308,7 @@
     "ILLUSTRATEURS":"Bronn, Theresa",
     "TITRE":"Pas",
     "EDITEUR":"Rouergue",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1316,7 +1316,7 @@
     "ILLUSTRATEURS":"Koyose, Junji",
     "TITRE":"Il faut sauver le petit chat !",
     "EDITEUR":"Rue du monde",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1324,7 +1324,7 @@
     "ILLUSTRATEURS":"Sakaï, Komako",
     "TITRE":"Ne bouge pas !",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1332,7 +1332,7 @@
     "ILLUSTRATEURS":"Olafsdottir, Linda",
     "TITRE":"Jouer ?",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1340,7 +1340,7 @@
     "ILLUSTRATEURS":"Oury, Fleur",
     "TITRE":"Premier matin",
     "EDITEUR":"Les fourmis rouges",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1348,7 +1348,7 @@
     "ILLUSTRATEURS":"Poussier, Audrey",
     "TITRE":"Mon pull",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1356,7 +1356,7 @@
     "ILLUSTRATEURS":"Prescott, Simon",
     "TITRE":"Par une nuit très, très sombre",
     "EDITEUR":"Minedition",
-    "NIVEAU DE LECTURE":"1 - 2",
+    "NIVEAUX":"1 - 2",
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1364,7 +1364,7 @@
     "ILLUSTRATEURS":"Cobo, Lucia",
     "TITRE":"L'ourse",
     "EDITEUR":"Didier Jeunesse",
-    "NIVEAU DE LECTURE":"1 - 2",
+    "NIVEAUX":"1 - 2",
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1372,7 +1372,7 @@
     "ILLUSTRATEURS":"Rotraut, Susanne Berner",
     "TITRE":"Tommy l'anniversaire",
     "EDITEUR":"La joie de lire",
-    "NIVEAU DE LECTURE":"2-3",
+    "NIVEAUX":"2-3",
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1380,7 +1380,7 @@
     "ILLUSTRATEURS":"Kato, Yukiko",
     "TITRE":"Dans l'herbe",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1388,7 +1388,7 @@
     "ILLUSTRATEURS":"Solotareff, Grégoire",
     "TITRE":"Amour-caillou",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1396,7 +1396,7 @@
     "ILLUSTRATEURS":"Russo, Marisabina",
     "TITRE":"Le beau ver dodu",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":"1 - 2",
+    "NIVEAUX":"1 - 2",
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1404,7 +1404,7 @@
     "ILLUSTRATEURS":"Hurd, Clement",
     "TITRE":"Bonsoir Lune",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.1 Entrer dans le récit avec des premières histoires racontées en album"
   },
   {
@@ -1412,7 +1412,7 @@
     "ILLUSTRATEURS":"Yokococo",
     "TITRE":"Nina et Nino",
     "EDITEUR":"Belin Jeunesse",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1420,7 +1420,7 @@
     "ILLUSTRATEURS":"McClintock, Barbara",
     "TITRE":"Le Bonhomme de pain d'épice*",
     "EDITEUR":"Circonflexe",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1428,7 +1428,7 @@
     "ILLUSTRATEURS":"Barrett, Ron",
     "TITRE":"Il ne faut pas habiller les animaux",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1436,7 +1436,7 @@
     "ILLUSTRATEURS":"Battut, Eric",
     "TITRE":"La petite boîte",
     "EDITEUR":"Didier jeunesse",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1444,7 +1444,7 @@
     "ILLUSTRATEURS":"Boujon, Claude",
     "TITRE":"Bon appétit ! Monsieur lapin",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1452,7 +1452,7 @@
     "ILLUSTRATEURS":"Stehr, Frédéric",
     "TITRE":"Calinours se réveille",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1460,7 +1460,7 @@
     "ILLUSTRATEURS":"Brown, Ruth",
     "TITRE":"Une histoire sombre, très sombre",
     "EDITEUR":"Gallimard jeunesse",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1468,7 +1468,7 @@
     "ILLUSTRATEURS":"Burningham, John",
     "TITRE":"Le panier de Stéphane",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1476,7 +1476,7 @@
     "ILLUSTRATEURS":"Plantevin, Guillaume",
     "TITRE":"C'est l'histoire d'un éléphant…",
     "EDITEUR":"Sarbacane",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1484,7 +1484,7 @@
     "ILLUSTRATEURS":"Duquennoy, Jacques",
     "TITRE":"Petit Clown, le trou",
     "EDITEUR":"Albin Michel jeunesse",
-    "NIVEAU DE LECTURE":"1 - 2",
+    "NIVEAUX":"1 - 2",
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1492,7 +1492,7 @@
     "ILLUSTRATEURS":"Guillopé, Antoine",
     "TITRE":"Tout d'un loup",
     "EDITEUR":"L'élan vert",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1500,7 +1500,7 @@
     "ILLUSTRATEURS":"Elzbieta",
     "TITRE":"Clown",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1508,7 +1508,7 @@
     "ILLUSTRATEURS":"Maudet, Mathieu",
     "TITRE":"Bonjour Docteur",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1516,7 +1516,7 @@
     "ILLUSTRATEURS":"Fastier, Yann",
     "TITRE":"Aquarium",
     "EDITEUR":"L'atelier du poisson soluble",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1524,7 +1524,7 @@
     "ILLUSTRATEURS":"Feiffer, Jules",
     "TITRE":"Aboie, Georges !",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1532,7 +1532,7 @@
     "ILLUSTRATEURS":"Gerda",
     "TITRE":"Les bons amis",
     "EDITEUR":"Flammarion - Père-castor ",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1540,7 +1540,7 @@
     "ILLUSTRATEURS":"Brunelet, Madeleine",
     "TITRE":"La petite poule rouge*",
     "EDITEUR":"Flammarion - Père-castor ",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1548,7 +1548,7 @@
     "ILLUSTRATEURS":"Gervais, Bernadette",
     "TITRE":"Ikko et les coquelicots",
     "EDITEUR":"Les Grandes personnes",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1556,7 +1556,7 @@
     "ILLUSTRATEURS":"Gorbachev, Valeri",
     "TITRE":"Matty et les cent méchants loups",
     "EDITEUR":"Mijade",
-    "NIVEAU DE LECTURE":"2",
+    "NIVEAUX":"2",
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1564,7 +1564,7 @@
     "ILLUSTRATEURS":"Gravel, Elise",
     "TITRE":"Je suis terrible",
     "EDITEUR":"Alice jeunesse",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1572,7 +1572,7 @@
     "ILLUSTRATEURS":"Grenier, Delphine",
     "TITRE":"Déjà",
     "EDITEUR":"Didier jeunesse",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1580,7 +1580,7 @@
     "ILLUSTRATEURS":"Guettier, Bénédicte",
     "TITRE":"Le papa qui avait 10 enfants",
     "EDITEUR":"Casterman",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1588,7 +1588,7 @@
     "ILLUSTRATEURS":"Haery, Lee",
     "TITRE":"Cours !",
     "EDITEUR":"La joie de lire",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1596,7 +1596,7 @@
     "ILLUSTRATEURS":"Jeram, Anita",
     "TITRE":"Encore un bisou !",
     "EDITEUR":"Albin Michel jeunesse",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1604,7 +1604,7 @@
     "ILLUSTRATEURS":"Koyama, Tomoko",
     "TITRE":"Sur le chemin de la maison Patapon, Patapon",
     "EDITEUR":"Le cosmographe",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1612,7 +1612,7 @@
     "ILLUSTRATEURS":"Erlbruch, Wolf",
     "TITRE":"De la petite taupe qui voulait savoir qui lui avait fait sur la tête",
     "EDITEUR":"Milan jeunesse",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1620,7 +1620,7 @@
     "ILLUSTRATEURS":"Jônsson, Maria",
     "TITRE":"Les tototes de Toni",
     "EDITEUR":"Pastel",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1628,7 +1628,7 @@
     "ILLUSTRATEURS":"Kasano, Yuichi ",
     "TITRE":"À la sieste, tout le monde !",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1636,7 +1636,7 @@
     "ILLUSTRATEURS":"Eriksson, Eva",
     "TITRE":"La maman et le bébé terrible",
     "EDITEUR":"Mijade",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1644,7 +1644,7 @@
     "ILLUSTRATEURS":"Lionni, Léo",
     "TITRE":"Petit-Bleu et Petit-Jaune",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1652,7 +1652,7 @@
     "ILLUSTRATEURS":"Tanet",
     "TITRE":"À bras ! Abracadabra",
     "EDITEUR":"Atelier du Poisson soluble",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1660,7 +1660,7 @@
     "ILLUSTRATEURS":"Mathis, Jean-Marc",
     "TITRE":"Du bruit sous le lit",
     "EDITEUR":"Thierry Magnier",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1668,7 +1668,7 @@
     "ILLUSTRATEURS":"Matthews, Tina",
     "TITRE":"Le petit poussin rouge*",
     "EDITEUR":"Circonflexe",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1676,7 +1676,7 @@
     "ILLUSTRATEURS":"Mayer, Mercer",
     "TITRE":"Il y a un cauchemar dans mon placard",
     "EDITEUR":"Gallimard jeunesse",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1684,7 +1684,7 @@
     "ILLUSTRATEURS":"Jeram, Anita",
     "TITRE":"Devine combien je t'aime",
     "EDITEUR":"Pastel",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1692,7 +1692,7 @@
     "ILLUSTRATEURS":"McKee, David",
     "TITRE":"Elmer",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1700,7 +1700,7 @@
     "ILLUSTRATEURS":"Deletaille, Albertine",
     "TITRE":"Petit chat perdu",
     "EDITEUR":"Flammarion - Père-Castor",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1708,7 +1708,7 @@
     "ILLUSTRATEURS":"Ohmura, Tomoko",
     "TITRE":"Faites la queue !",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1716,7 +1716,7 @@
     "ILLUSTRATEURS":"Jolivet, Joëlle",
     "TITRE":"Les trois petits pourceaux*",
     "EDITEUR":"Didier jeunesse",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1724,7 +1724,7 @@
     "ILLUSTRATEURS":"Biswas, Pulak",
     "TITRE":"Où est Petit-Tigre ?",
     "EDITEUR":"Syros",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1732,7 +1732,7 @@
     "ILLUSTRATEURS":"Rueda, Claudia",
     "TITRE":"Non !",
     "EDITEUR":"Rue du monde",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1740,7 +1740,7 @@
     "ILLUSTRATEURS":"Saarbach, Marie",
     "TITRE":"Le vent se lève",
     "EDITEUR":"Seuil jeunesse",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1748,7 +1748,7 @@
     "ILLUSTRATEURS":"Tanaka, Béatrice",
     "TITRE":"La grosse, grosse rave*",
     "EDITEUR":"Kanjil",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1756,7 +1756,7 @@
     "ILLUSTRATEURS":"Tison, Annette et Taylor, Talus",
     "TITRE":"Barbapapa ",
     "EDITEUR":"Livres du Dragon  d'or",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1764,7 +1764,7 @@
     "ILLUSTRATEURS":"Sharkey, Niahm",
     "TITRE":"Le gros navet",
     "EDITEUR":"Flammarion - Père-Castor",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1772,7 +1772,7 @@
     "ILLUSTRATEURS":"Vaugelade, Anaïs",
     "TITRE":"4 histoires d'Amir ( coffret comprenant : Canards ; Chatons ; Mouche ; Tracteur)",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1780,7 +1780,7 @@
     "ILLUSTRATEURS":"Voake, Charlotte",
     "TITRE":"Bienvenue Tigrou !",
     "EDITEUR":"Gallimard jeunesse",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1788,7 +1788,7 @@
     "ILLUSTRATEURS":"Voltz, Christian",
     "TITRE":"Toujours rien ?",
     "EDITEUR":"Rouergue",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1796,7 +1796,7 @@
     "ILLUSTRATEURS":"Benson, Patrick ",
     "TITRE":"Bébés chouettes",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1804,7 +1804,7 @@
     "ILLUSTRATEURS":"Brooks, Ron",
     "TITRE":"John Brown, Rose et le chat de minuit",
     "EDITEUR":"Beurre salé",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1812,7 +1812,7 @@
     "ILLUSTRATEURS":"Weaver, Jo",
     "TITRE":"Petite Baleine",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1820,7 +1820,7 @@
     "ILLUSTRATEURS":"Wells, Rosemary",
     "TITRE":"Chut, chut, Charlotte !",
     "EDITEUR":"Gallimard jeunesse",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1828,7 +1828,7 @@
     "ILLUSTRATEURS":"Wood, Don",
     "TITRE":"La maison à dormir debout",
     "EDITEUR":"Mijade",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1836,7 +1836,7 @@
     "ILLUSTRATEURS":"Albertine",
     "TITRE":"Marta et la bicyclette",
     "EDITEUR":"La joie de lire",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1844,7 +1844,7 @@
     "ILLUSTRATEURS":null,
     "TITRE":"La moufle",
     "EDITEUR":"Didier jeunesse, raconté par Desnouveaux Florence, ill.Hudrisier Cécile \/ Milan, raconté par Palluy Christine, ill. Ribeyron Samuel \/ Lito, raconté par Chauveau Chloé, ill. Bielak Céline",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -1852,7 +1852,7 @@
     "ILLUSTRATEURS":"Ahlberg, Janet et Allan",
     "TITRE":"Les Bizardos",
     "EDITEUR":"Gallimard jeunesse",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1860,7 +1860,7 @@
     "ILLUSTRATEURS":"Albert, Adrien",
     "TITRE":"Au feu Petit Pierre",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":"3 ",
+    "NIVEAUX":"3 ",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1868,7 +1868,7 @@
     "ILLUSTRATEURS":"Guridi",
     "TITRE":"Foot-Mouton",
     "EDITEUR":"Didier jeunesse",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1876,7 +1876,7 @@
     "ILLUSTRATEURS":"Alexander, Martha",
     "TITRE":"N'aie pas peur, Teddy ! Je te protègerai des bêtes sauvages",
     "EDITEUR":"Pastel",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1884,7 +1884,7 @@
     "ILLUSTRATEURS":"Allen, Pamela",
     "TITRE":"Fais attention, Alexandre ! ",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1892,7 +1892,7 @@
     "ILLUSTRATEURS":"Philipponneau, Olivier",
     "TITRE":"L'oiseau à deux becs",
     "EDITEUR":"MeMo",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1900,7 +1900,7 @@
     "ILLUSTRATEURS":"Angeli, May",
     "TITRE":"Oskar le coq",
     "EDITEUR":"Thierry Magnier",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1908,7 +1908,7 @@
     "ILLUSTRATEURS":"Hallensleben, Georg",
     "TITRE":"Ferme les yeux",
     "EDITEUR":"Gallimard jeunesse",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1916,7 +1916,7 @@
     "ILLUSTRATEURS":"Klassen, Jon",
     "TITRE":"Le loup, le  canard & la souris",
     "EDITEUR":"Pastel ",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1924,7 +1924,7 @@
     "ILLUSTRATEURS":"Bourre, Martine",
     "TITRE":"Le loup et la mésange",
     "EDITEUR":"Didier jeunesse",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1932,7 +1932,7 @@
     "ILLUSTRATEURS":"Browne, Anthony",
     "TITRE":"Marcel et Hugo",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1940,7 +1940,7 @@
     "ILLUSTRATEURS":"Tallec, Olivier ",
     "TITRE":"Grand Loup & Petit Loup",
     "EDITEUR":"Flammarion - Père-Castor",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1948,7 +1948,7 @@
     "ILLUSTRATEURS":"Belvès, Pierre",
     "TITRE":"Roule Galette…",
     "EDITEUR":"Flammarion - Père-Castor",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1956,7 +1956,7 @@
     "ILLUSTRATEURS":"Chaud, Benjamin",
     "TITRE":"Une chanson d'ours",
     "EDITEUR":"Hélium",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1964,7 +1964,7 @@
     "ILLUSTRATEURS":"Claverie, Jean ",
     "TITRE":"La batterie de Théophile",
     "EDITEUR":"Gallimard jeunesse",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1972,7 +1972,7 @@
     "ILLUSTRATEURS":"Muller, Gerda",
     "TITRE":"Marlaguette",
     "EDITEUR":"Flammarion - Père-Castor",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1980,7 +1980,7 @@
     "ILLUSTRATEURS":"Ohl, Simone",
     "TITRE":"Les trois ours*",
     "EDITEUR":"Memo",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1988,7 +1988,7 @@
     "ILLUSTRATEURS":"Oxenbury, Helen",
     "TITRE":"Très, très fort !",
     "EDITEUR":"Flammarion - Père-Castor",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -1996,7 +1996,7 @@
     "ILLUSTRATEURS":"Corentin, Philippe",
     "TITRE":"Les deux goinfres",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2004,7 +2004,7 @@
     "ILLUSTRATEURS":"Crowther, Kitty",
     "TITRE":"Alors ?",
     "EDITEUR":"Pastel",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2012,7 +2012,7 @@
     "ILLUSTRATEURS":"Blake, Quentin",
     "TITRE":"L'énorme crocodile",
     "EDITEUR":"Gallimard jeunesse",
-    "NIVEAU DE LECTURE":" 4",
+    "NIVEAUX":" 4",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2020,7 +2020,7 @@
     "ILLUSTRATEURS":"Delacroix, Sibylle",
     "TITRE":"Graines de sable",
     "EDITEUR":"Bayard jeunesse",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2028,7 +2028,7 @@
     "ILLUSTRATEURS":"Hudrisier, Cécile",
     "TITRE":"La grosse faim de P'tit Bonhomme",
     "EDITEUR":"Didier Jeunesse",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2036,7 +2036,7 @@
     "ILLUSTRATEURS":"Masson, Annick",
     "TITRE":"La clé",
     "EDITEUR":"Mijade",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2044,7 +2044,7 @@
     "ILLUSTRATEURS":"Galdone, Paul",
     "TITRE":"Poule Plumette",
     "EDITEUR":"Circonflexe",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2052,7 +2052,7 @@
     "ILLUSTRATEURS":"Mansot, Frédérick",
     "TITRE":"Le petit chaperon rouge*",
     "EDITEUR":"Magnard jeunesse",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2060,7 +2060,7 @@
     "ILLUSTRATEURS":"Heine, Helme",
     "TITRE":"Trois amis",
     "EDITEUR":"Gallimard jeunesse",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2068,7 +2068,7 @@
     "ILLUSTRATEURS":"Junge, Norman",
     "TITRE":"Le cinquième",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2076,7 +2076,7 @@
     "ILLUSTRATEURS":"Koide, Yasuko",
     "TITRE":"Toc, toc, toc",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2084,7 +2084,7 @@
     "ILLUSTRATEURS":"Könnecke, Ole",
     "TITRE":"Anton et la feuille",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2092,7 +2092,7 @@
     "ILLUSTRATEURS":"Aruego, José",
     "TITRE":"Léo",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2100,7 +2100,7 @@
     "ILLUSTRATEURS":"Kim, Dong-Sung ",
     "TITRE":"En attendant maman",
     "EDITEUR":"Didier jeunesse",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2108,7 +2108,7 @@
     "ILLUSTRATEURS":"Ehrhard, Dominique",
     "TITRE":"La noisette",
     "EDITEUR":"Les Grandes personnes",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2116,7 +2116,7 @@
     "ILLUSTRATEURS":"Morel, Etienne",
     "TITRE":"Poule rousse",
     "EDITEUR":"Flammarion - Père-Castor",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2124,7 +2124,7 @@
     "ILLUSTRATEURS":"Murray, Alison",
     "TITRE":"La petite poule verte*",
     "EDITEUR":"Circonflexe",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2132,7 +2132,7 @@
     "ILLUSTRATEURS":"Lobel, Arnold",
     "TITRE":"Porculus",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2140,7 +2140,7 @@
     "ILLUSTRATEURS":"Baas, Thomas",
     "TITRE":"Mais qui cela peut-il être ?",
     "EDITEUR":"Seuil jeunesse",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2148,7 +2148,7 @@
     "ILLUSTRATEURS":"Himler, Ronald",
     "TITRE":"Bébé",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":"1 - 2",
+    "NIVEAUX":"1 - 2",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2156,7 +2156,7 @@
     "ILLUSTRATEURS":"Davenier, Christine",
     "TITRE":"Babam ! ",
     "EDITEUR":"Sarbacane",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2164,7 +2164,7 @@
     "ILLUSTRATEURS":"McCloskey, Robert",
     "TITRE":"Laissez passer les canards",
     "EDITEUR":"Circonflexe",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2172,7 +2172,7 @@
     "ILLUSTRATEURS":"Meschenmoser, Sebastian",
     "TITRE":"L'écureuil et la première neige",
     "EDITEUR":"Minedition",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2180,7 +2180,7 @@
     "ILLUSTRATEURS":"Mets, Alan",
     "TITRE":"La carotte géante*",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2188,7 +2188,7 @@
     "ILLUSTRATEURS":"Gerda, Muller",
     "TITRE":"Boucles d'Or et les trois ours*",
     "EDITEUR":"L'école des loisirs  ",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2196,7 +2196,7 @@
     "ILLUSTRATEURS":"Albertine",
     "TITRE":"Ils arrivent !",
     "EDITEUR":"La joie de lire",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2204,7 +2204,7 @@
     "ILLUSTRATEURS":"Oldland, Nicholas",
     "TITRE":"Gros câlin",
     "EDITEUR":"Bayard jeunesse",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2212,7 +2212,7 @@
     "ILLUSTRATEURS":"Zhihong, He",
     "TITRE":"Le renard et le tigre",
     "EDITEUR":"Les Éditions des Éléphants",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2220,7 +2220,7 @@
     "ILLUSTRATEURS":"Badel, Ronan",
     "TITRE":"Le loup ne viendra pas",
     "EDITEUR":"L'élan vert",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2228,7 +2228,7 @@
     "ILLUSTRATEURS":"Pef",
     "TITRE":"Rendez-moi mes poux !",
     "EDITEUR":"Gallimard jeunesse",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2236,7 +2236,7 @@
     "ILLUSTRATEURS":"Hallensleben, Georg",
     "TITRE":"Le petit chaperon rouge* ",
     "EDITEUR":"Gallimard jeunesse",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2244,7 +2244,7 @@
     "ILLUSTRATEURS":"Perret, Delphine",
     "TITRE":"Björn et le vaste monde",
     "EDITEUR":"Les fourmis rouges",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.3.2 Entrer dans le récit avec des récits simples"
   },
   {
@@ -2252,7 +2252,7 @@
     "ILLUSTRATEURS":"Potter, Beatrix",
     "TITRE":"Pierre Lapin",
     "EDITEUR":"Gallimard jeunesse",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2260,7 +2260,7 @@
     "ILLUSTRATEURS":"Duhême, Jacqueline",
     "TITRE":"Une toute petite, petite fille",
     "EDITEUR":"Gallimard jeunesse",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2268,7 +2268,7 @@
     "ILLUSTRATEURS":"Dubois, Gérard",
     "TITRE":"Au-delà de la forêt",
     "EDITEUR":"Seuil Jeunesse",
-    "NIVEAU DE LECTURE":1,
+    "NIVEAUX":1,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2276,7 +2276,7 @@
     "ILLUSTRATEURS":"Ross, Tony",
     "TITRE":"Je veux mon p'tit pot !",
     "EDITEUR":"Gallimard jeunesse",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2284,7 +2284,7 @@
     "ILLUSTRATEURS":"Schärer, Kathrin",
     "TITRE":"Chamailles",
     "EDITEUR":"Ane bâté",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2292,7 +2292,7 @@
     "ILLUSTRATEURS":"Stehr, Frédéric",
     "TITRE":"La grande peur de Mariette et Soupir",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":"3 - 4",
+    "NIVEAUX":"3 - 4",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2300,7 +2300,7 @@
     "ILLUSTRATEURS":"Shingu, Susumu",
     "TITRE":"Avec le soleil",
     "EDITEUR":"Gallimard jeunesse Giboulées",
-    "NIVEAU DE LECTURE":2,
+    "NIVEAUX":2,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2308,7 +2308,7 @@
     "ILLUSTRATEURS":"Takayuki, Kubo",
     "TITRE":"Histoire d'une taupe très très myope",
     "EDITEUR":"Lirabelle",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2316,7 +2316,7 @@
     "ILLUSTRATEURS":"Tanno, Yukiko ",
     "TITRE":"La lettre du Père Noël",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2324,7 +2324,7 @@
     "ILLUSTRATEURS":"Ungerer, Tomi",
     "TITRE":"Les trois brigands",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2332,7 +2332,7 @@
     "ILLUSTRATEURS":"Valckx, Catharina ",
     "TITRE":"La chaussette verte de Lisette",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2340,7 +2340,7 @@
     "ILLUSTRATEURS":"Van Zeveren, Michel ",
     "TITRE":"C'est à moi, ça !",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2348,7 +2348,7 @@
     "ILLUSTRATEURS":"Rosamel, Godeleine de",
     "TITRE":"Trois petits morceaux de nuit",
     "EDITEUR":"Albin Michel Jeunesse",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2356,7 +2356,7 @@
     "ILLUSTRATEURS":"Rowe, John",
     "TITRE":"Le bonnet rouge* ",
     "EDITEUR":"Minedition",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2364,7 +2364,7 @@
     "ILLUSTRATEURS":"Willems, Mo",
     "TITRE":"Guili Lapin",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2372,7 +2372,7 @@
     "ILLUSTRATEURS":"Wilsdorf, Anne",
     "TITRE":"Jujube",
     "EDITEUR":"Kaléidoscope",
-    "NIVEAU DE LECTURE":3,
+    "NIVEAUX":3,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2380,7 +2380,7 @@
     "ILLUSTRATEURS":"Woignier, Julia",
     "TITRE":"La clé",
     "EDITEUR":"MeMo",
-    "NIVEAU DE LECTURE":"2 - 3",
+    "NIVEAUX":"2 - 3",
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2388,7 +2388,7 @@
     "ILLUSTRATEURS":"Yerkes, Jennifer",
     "TITRE":"Drôle d'oiseau",
     "EDITEUR":"MeMo",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   },
   {
@@ -2396,7 +2396,7 @@
     "ILLUSTRATEURS":"Sakaï, Komako",
     "TITRE":"L'ours et le chat sauvage",
     "EDITEUR":"L'école des loisirs",
-    "NIVEAU DE LECTURE":4,
+    "NIVEAUX":4,
     "THEME":"2.3.3 Entrer dans le récit avec des récits déjà élaborés"
   }
 ]
