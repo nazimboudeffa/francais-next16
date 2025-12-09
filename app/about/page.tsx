@@ -28,6 +28,15 @@ export default function AboutPage() {
 						<span>Soutenir sur Tipeee</span>
 					</a>
 				</div>
+				<p className="text-zinc-500 dark:text-zinc-400 text-sm mt-6">
+					La liste des réfèrences vient de schoolmouv.fr 
+				</p>
+				<p className="text-zinc-500 dark:text-zinc-400 text-sm mt-6">
+					La liste des ouvres des notions vient de eduscol.education.fr
+				</p>
+				<p className="text-zinc-500 dark:text-zinc-400 text-sm mt-6">
+					Les cours sont générés par intelligence articficielle, alors n'hésitez pas à contribuer en proposant des améliorations.
+				</p>
 			</section>
 		</main>
 	);
