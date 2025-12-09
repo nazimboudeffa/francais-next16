@@ -15,6 +15,7 @@ type Notion = {
 
 type NotionsByLevel = {
 	classe: string;
+	cycle?: string; //can be empty
 	notions: Notion[];
 };
 
@@ -42,7 +43,18 @@ export default function NotionsPage() {
 					return (
 						<section key={niveau.classe} className={`mb-4 rounded-xl border border-blue-200 shadow-sm transition-colors duration-200 ${levelBg} p-3 sm:p-4`}>
 							<div className="flex items-center justify-between gap-2 mb-3">
-								<h2 className="text-xl sm:text-2xl font-semibold text-blue-900">{niveau.classe}</h2>
+								<h2 className="text-xl sm:text-2xl font-semibold text-blue-900">
+									{niveau.cycle ? (
+										<a
+											href={`notions/${niveau.cycle}`}
+											className="text-blue-700 underline hover:text-blue-900 hover:underline font-semibold transition-colors"
+										>
+											{niveau.classe}
+										</a>
+									) : (
+										niveau.classe
+									)}
+								</h2>
 								<button
 									className={`w-9 h-9 flex items-center justify-center rounded-full border-2 transition-all duration-200 bg-white border-blue-300 text-blue-700 hover:bg-blue-100 shadow-sm group focus:outline-none focus:ring-2 focus:ring-blue-400 ${isLevelOpen ? 'ring-2 ring-blue-200' : ''}`}
 									onClick={() => toggleLevel(niveau.classe)}
