@@ -32,10 +32,13 @@ export default function AboutPage() {
 					La liste des réfèrences vient de schoolmouv.fr 
 				</p>
 				<p className="text-zinc-500 dark:text-zinc-400 text-sm mt-6">
-					La liste des ouvres des notions vient de eduscol.education.fr
+					La liste des oeuvres des notions vient de eduscol.education.fr
 				</p>
 				<p className="text-zinc-500 dark:text-zinc-400 text-sm mt-6">
-					Les cours sont générés par intelligence articficielle, alors n'hésitez pas à contribuer en proposant des améliorations.
+					Les cours sont générés par intelligence articficielle, alors n&apos;hésitez pas à contribuer en proposant des améliorations.
+				</p>
+				<p className="text-zinc-500 dark:text-zinc-400 text-sm mt-6">
+					Ce site respecte la loi et ne propose que des contenus libres de droits.
 				</p>
 			</section>
 		</main>
